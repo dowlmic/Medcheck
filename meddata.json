@@ -3,16 +3,9 @@
     {
       "/medicine/drug/part_of_compound_drug": [],
       "/medicine/drug/brands": [],
-      "id": "/en/aspirin",
-      "type": "/medicine/drug",
-      "/medicine/drug/active_moieties": [
-        "Aspirin"
-      ],
       "name": "Aspirin",
-      "/medicine/drug/drug_class": [
-        "Analgesic",
-        "Nonsteroidal anti-inflammatory drug"
-      ],
+      "type": "/medicine/drug",
+      "id": "/en/aspirin",
       "/medicine/drug/marketed_formulations": [
         "Aspirin 325 film coated tablet",
         "Aspirin 325 coated tablet",
@@ -33,8 +26,15 @@
         "Aspirin 500 film coated tablet",
         "Aspirin 0.0999 coated tablet"
       ],
+      "/medicine/drug/active_moieties": [
+        "Aspirin"
+      ],
       "/medicine/drug/physiologic_effect": [
         "Decreased Prostaglandin Production"
+      ],
+      "/medicine/drug/drug_class": [
+        "Analgesic",
+        "Nonsteroidal anti-inflammatory drug"
       ],
       "/medicine/drug/canonical_brands": [
         "Fasprin",
@@ -44,17 +44,9 @@
     {
       "/medicine/drug/part_of_compound_drug": [],
       "/medicine/drug/brands": [],
-      "id": "/en/ampicillin",
-      "type": "/medicine/drug",
-      "/medicine/drug/active_moieties": [
-        "Ampicillin"
-      ],
       "name": "Ampicillin",
-      "/medicine/drug/drug_class": [
-        "β-lactam antibiotic",
-        "Penicillin-class Antibacterial",
-        "Antibiotics"
-      ],
+      "type": "/medicine/drug",
+      "id": "/en/ampicillin",
       "/medicine/drug/marketed_formulations": [
         "Ampicillin trihydrate 25 suspension",
         "Ampicillin sodium 1 powder for injectable solution",
@@ -75,7 +67,15 @@
         "Ampicillin sodium 2 powder for injectable solution",
         "Ampicillin sodium 1 powder for injectable solution"
       ],
+      "/medicine/drug/active_moieties": [
+        "Ampicillin"
+      ],
       "/medicine/drug/physiologic_effect": [],
+      "/medicine/drug/drug_class": [
+        "β-lactam antibiotic",
+        "Penicillin-class Antibacterial",
+        "Antibiotics"
+      ],
       "/medicine/drug/canonical_brands": []
     },
     {
@@ -86,28 +86,21 @@
         "ProCentra",
         "Vyvanse"
       ],
-      "id": "/en/amphetamine",
-      "type": "/medicine/drug",
-      "/medicine/drug/active_moieties": [],
       "name": "Amphetamine",
-      "/medicine/drug/drug_class": [],
+      "type": "/medicine/drug",
+      "id": "/en/amphetamine",
       "/medicine/drug/marketed_formulations": [],
+      "/medicine/drug/active_moieties": [],
       "/medicine/drug/physiologic_effect": [],
+      "/medicine/drug/drug_class": [],
       "/medicine/drug/canonical_brands": []
     },
     {
       "/medicine/drug/part_of_compound_drug": [],
       "/medicine/drug/brands": [],
-      "id": "/en/amoxicillin",
-      "type": "/medicine/drug",
-      "/medicine/drug/active_moieties": [
-        "Amoxicillin"
-      ],
       "name": "Amoxicillin",
-      "/medicine/drug/drug_class": [
-        "β-lactam antibiotic",
-        "Penicillin-class Antibacterial"
-      ],
+      "type": "/medicine/drug",
+      "id": "/en/amoxicillin",
       "/medicine/drug/marketed_formulations": [
         "Amoxicillin 200 soluable tablet",
         "Amoxicillin 250 chewable tablet",
@@ -134,7 +127,14 @@
         "Amoxicillin 875 film coated tablet",
         "Amoxicillin 500 capsule"
       ],
+      "/medicine/drug/active_moieties": [
+        "Amoxicillin"
+      ],
       "/medicine/drug/physiologic_effect": [],
+      "/medicine/drug/drug_class": [
+        "β-lactam antibiotic",
+        "Penicillin-class Antibacterial"
+      ],
       "/medicine/drug/canonical_brands": [
         "Moxatag",
         "DisperMox"
@@ -143,15 +143,9 @@
     {
       "/medicine/drug/part_of_compound_drug": [],
       "/medicine/drug/brands": [],
-      "id": "/en/chloramphenicol",
-      "type": "/medicine/drug",
-      "/medicine/drug/active_moieties": [
-        "Chloramphenicol"
-      ],
       "name": "Chloramphenicol",
-      "/medicine/drug/drug_class": [
-        "Amphenicol"
-      ],
+      "type": "/medicine/drug",
+      "id": "/en/chloramphenicol",
       "/medicine/drug/marketed_formulations": [
         "Chloramphenicol sodium succinate 1 lyophilized powder for injectable solution",
         "Chloramphenicol 10 ointment",
@@ -160,7 +154,13 @@
         "Chloramphenicol sodium succinate 100 injection",
         "Chloramphenicol sodium succinate 100 lyophilized powder for injectable solution"
       ],
+      "/medicine/drug/active_moieties": [
+        "Chloramphenicol"
+      ],
       "/medicine/drug/physiologic_effect": [],
+      "/medicine/drug/drug_class": [
+        "Amphenicol"
+      ],
       "/medicine/drug/canonical_brands": [
         "Chloromycetin",
         "Econochlor"
@@ -169,15 +169,9 @@
     {
       "/medicine/drug/part_of_compound_drug": [],
       "/medicine/drug/brands": [],
-      "id": "/en/ciprofloxacin",
-      "type": "/medicine/drug",
-      "/medicine/drug/active_moieties": [
-        "Ciprofloxacin"
-      ],
       "name": "Ciprofloxacin",
-      "/medicine/drug/drug_class": [
-        "Quinolone"
-      ],
+      "type": "/medicine/drug",
+      "id": "/en/ciprofloxacin",
       "/medicine/drug/marketed_formulations": [
         "Ciprofloxacin hydrochloride 250 tablet",
         "Ciprofloxacin hydrochloride 250 film coated tablet",
@@ -219,7 +213,13 @@
         "Ciprofloxacin hydrochloride 3.5 solution/drops",
         "Ciprofloxacin 287.5 extended release film coated tablet"
       ],
+      "/medicine/drug/active_moieties": [
+        "Ciprofloxacin"
+      ],
       "/medicine/drug/physiologic_effect": [],
+      "/medicine/drug/drug_class": [
+        "Quinolone"
+      ],
       "/medicine/drug/canonical_brands": [
         "Ciloxan",
         "Cipro",
@@ -229,17 +229,9 @@
     {
       "/medicine/drug/part_of_compound_drug": [],
       "/medicine/drug/brands": [],
-      "id": "/en/carbamazepine",
-      "type": "/medicine/drug",
-      "/medicine/drug/active_moieties": [
-        "Carbamazepine"
-      ],
       "name": "Carbamazepine",
-      "/medicine/drug/drug_class": [
-        "Carboxamide",
-        "Anti-epileptic Agent",
-        "Mood stabilizer"
-      ],
+      "type": "/medicine/drug",
+      "id": "/en/carbamazepine",
       "/medicine/drug/marketed_formulations": [
         "Carbamazepine 100 chewable tablet",
         "Carbamazepine 400 extended release tablet",
@@ -255,8 +247,16 @@
         "Carbamazepine 200 extended release capsule",
         "Carbamazepine 200 chewable tablet"
       ],
+      "/medicine/drug/active_moieties": [
+        "Carbamazepine"
+      ],
       "/medicine/drug/physiologic_effect": [
         "Decreased Central Nervous System Disorganized Electrical Activity"
+      ],
+      "/medicine/drug/drug_class": [
+        "Carboxamide",
+        "Anti-epileptic Agent",
+        "Mood stabilizer"
       ],
       "/medicine/drug/canonical_brands": [
         "Carbatrol",
@@ -267,69 +267,62 @@
     {
       "/medicine/drug/part_of_compound_drug": [],
       "/medicine/drug/brands": [],
-      "id": "/en/cocaine",
-      "type": "/medicine/drug",
-      "/medicine/drug/active_moieties": [
-        "Cocaine"
-      ],
       "name": "Cocaine",
-      "/medicine/drug/drug_class": [
-        "Local anesthetic"
-      ],
+      "type": "/medicine/drug",
+      "id": "/en/cocaine",
       "/medicine/drug/marketed_formulations": [
         "Cocaine hydrochloride 100 solution",
         "Cocaine hydrochloride 40 solution"
       ],
+      "/medicine/drug/active_moieties": [
+        "Cocaine"
+      ],
       "/medicine/drug/physiologic_effect": [],
+      "/medicine/drug/drug_class": [
+        "Local anesthetic"
+      ],
       "/medicine/drug/canonical_brands": []
     },
     {
       "/medicine/drug/part_of_compound_drug": [],
       "/medicine/drug/brands": [],
-      "id": "/en/codeine",
-      "type": "/medicine/drug",
-      "/medicine/drug/active_moieties": [
-        "Codeine"
-      ],
       "name": "Codeine",
-      "/medicine/drug/drug_class": [
-        "Opiate",
-        "Analgesic",
-        "Antidiarrhoeal"
-      ],
+      "type": "/medicine/drug",
+      "id": "/en/codeine",
       "/medicine/drug/marketed_formulations": [
         "Codeine sulfate 15 tablet",
         "Codeine sulfate 60 tablet",
         "Codeine sulfate 30 tablet"
       ],
-      "/medicine/drug/physiologic_effect": [],
-      "/medicine/drug/canonical_brands": []
-    },
-    {
-      "/medicine/drug/part_of_compound_drug": [],
-      "/medicine/drug/brands": [],
-      "id": "/en/dehydroepiandrosterone",
-      "type": "/medicine/drug",
-      "/medicine/drug/active_moieties": [],
-      "name": "Dehydroepiandrosterone",
-      "/medicine/drug/drug_class": [],
-      "/medicine/drug/marketed_formulations": [],
-      "/medicine/drug/physiologic_effect": [],
-      "/medicine/drug/canonical_brands": []
-    },
-    {
-      "/medicine/drug/part_of_compound_drug": [],
-      "/medicine/drug/brands": [],
-      "id": "/en/erythromycin",
-      "type": "/medicine/drug",
       "/medicine/drug/active_moieties": [
-        "Erythromycin"
+        "Codeine"
       ],
-      "name": "Erythromycin",
+      "/medicine/drug/physiologic_effect": [],
       "/medicine/drug/drug_class": [
-        "Macrolide Antibiotic",
-        "Macrolide Antimicrobial"
+        "Opiate",
+        "Analgesic",
+        "Antidiarrhoeal"
       ],
+      "/medicine/drug/canonical_brands": []
+    },
+    {
+      "/medicine/drug/part_of_compound_drug": [],
+      "/medicine/drug/brands": [],
+      "name": "Dehydroepiandrosterone",
+      "type": "/medicine/drug",
+      "id": "/en/dehydroepiandrosterone",
+      "/medicine/drug/marketed_formulations": [],
+      "/medicine/drug/active_moieties": [],
+      "/medicine/drug/physiologic_effect": [],
+      "/medicine/drug/drug_class": [],
+      "/medicine/drug/canonical_brands": []
+    },
+    {
+      "/medicine/drug/part_of_compound_drug": [],
+      "/medicine/drug/brands": [],
+      "name": "Erythromycin",
+      "type": "/medicine/drug",
+      "id": "/en/erythromycin",
       "/medicine/drug/marketed_formulations": [
         "Erythromycin lactobionate 500 lyophilized powder for injectable solution",
         "Erythromycin 0.008 solution",
@@ -364,8 +357,15 @@
         "Erythromycin ethylsuccinate 333 tablet",
         "Erythromycin ethylsuccinate 500 tablet"
       ],
+      "/medicine/drug/active_moieties": [
+        "Erythromycin"
+      ],
       "/medicine/drug/physiologic_effect": [
         "Decreased Sebaceous Gland Activity"
+      ],
+      "/medicine/drug/drug_class": [
+        "Macrolide Antibiotic",
+        "Macrolide Antimicrobial"
       ],
       "/medicine/drug/canonical_brands": [
         "Ery",
@@ -382,17 +382,9 @@
     {
       "/medicine/drug/part_of_compound_drug": [],
       "/medicine/drug/brands": [],
-      "id": "/en/epinephrine",
-      "type": "/medicine/drug",
-      "/medicine/drug/active_moieties": [
-        "Epinephrine"
-      ],
       "name": "Epinephrine",
-      "/medicine/drug/drug_class": [
-        "Catecholamine",
-        "Beta-adrenergic agonist",
-        "Alpha-adrenergic agonist"
-      ],
+      "type": "/medicine/drug",
+      "id": "/en/epinephrine",
       "/medicine/drug/marketed_formulations": [
         "Epinephrine 1 injection",
         "Epinephrine 1 injectable solution",
@@ -409,7 +401,15 @@
         "Epinephrine 1 injection",
         "Epinephrine 1 injectable solution"
       ],
+      "/medicine/drug/active_moieties": [
+        "Epinephrine"
+      ],
       "/medicine/drug/physiologic_effect": [],
+      "/medicine/drug/drug_class": [
+        "Catecholamine",
+        "Beta-adrenergic agonist",
+        "Alpha-adrenergic agonist"
+      ],
       "/medicine/drug/canonical_brands": [
         "EpiPen",
         "Adrenaclick",
@@ -420,15 +420,15 @@
     {
       "/medicine/drug/part_of_compound_drug": [],
       "/medicine/drug/brands": [],
-      "id": "/en/flunitrazepam",
-      "type": "/medicine/drug",
-      "/medicine/drug/active_moieties": [],
       "name": "Flunitrazepam",
+      "type": "/medicine/drug",
+      "id": "/en/flunitrazepam",
+      "/medicine/drug/marketed_formulations": [],
+      "/medicine/drug/active_moieties": [],
+      "/medicine/drug/physiologic_effect": [],
       "/medicine/drug/drug_class": [
         "Benzodiazepine"
       ],
-      "/medicine/drug/marketed_formulations": [],
-      "/medicine/drug/physiologic_effect": [],
       "/medicine/drug/canonical_brands": []
     },
     {
@@ -436,21 +436,21 @@
       "/medicine/drug/brands": [
         "Sodium oxybate"
       ],
-      "id": "/en/gamma-hydroxybutyric_acid",
-      "type": "/medicine/drug",
-      "/medicine/drug/active_moieties": [
-        "gamma-Hydroxybutyric acid"
-      ],
       "name": "gamma-Hydroxybutyric acid",
-      "/medicine/drug/drug_class": [
-        "Central Nervous System Depressant"
-      ],
+      "type": "/medicine/drug",
+      "id": "/en/gamma-hydroxybutyric_acid",
       "/medicine/drug/marketed_formulations": [
         "Sodium oxybate 500 solution"
+      ],
+      "/medicine/drug/active_moieties": [
+        "gamma-Hydroxybutyric acid"
       ],
       "/medicine/drug/physiologic_effect": [
         "Central nervous system depression",
         "Decreased Central Nervous System Organized Electrical Activity"
+      ],
+      "/medicine/drug/drug_class": [
+        "Central Nervous System Depressant"
       ],
       "/medicine/drug/canonical_brands": [
         "Sodium oxybate"
@@ -459,13 +459,13 @@
     {
       "/medicine/drug/part_of_compound_drug": [],
       "/medicine/drug/brands": [],
-      "id": "/en/heroin",
-      "type": "/medicine/drug",
-      "/medicine/drug/active_moieties": [],
       "name": "Heroin",
-      "/medicine/drug/drug_class": [],
+      "type": "/medicine/drug",
+      "id": "/en/heroin",
       "/medicine/drug/marketed_formulations": [],
+      "/medicine/drug/active_moieties": [],
       "/medicine/drug/physiologic_effect": [],
+      "/medicine/drug/drug_class": [],
       "/medicine/drug/canonical_brands": []
     },
     {
@@ -473,30 +473,23 @@
       "/medicine/drug/brands": [
         "Vicodin"
       ],
-      "id": "/en/hydrocodone",
-      "type": "/medicine/drug",
-      "/medicine/drug/active_moieties": [],
       "name": "Hydrocodone",
+      "type": "/medicine/drug",
+      "id": "/en/hydrocodone",
+      "/medicine/drug/marketed_formulations": [],
+      "/medicine/drug/active_moieties": [],
+      "/medicine/drug/physiologic_effect": [],
       "/medicine/drug/drug_class": [
         "Analgesic"
       ],
-      "/medicine/drug/marketed_formulations": [],
-      "/medicine/drug/physiologic_effect": [],
       "/medicine/drug/canonical_brands": []
     },
     {
       "/medicine/drug/part_of_compound_drug": [],
       "/medicine/drug/brands": [],
-      "id": "/en/ketamine",
-      "type": "/medicine/drug",
-      "/medicine/drug/active_moieties": [
-        "Ketamine"
-      ],
       "name": "Ketamine",
-      "/medicine/drug/drug_class": [
-        "NMDA receptor antagonist",
-        "General anaesthetic"
-      ],
+      "type": "/medicine/drug",
+      "id": "/en/ketamine",
       "/medicine/drug/marketed_formulations": [
         "Ketamine hydrochloride 50 injectable concentrate solution",
         "Ketamine hydrochloride 100 injection",
@@ -507,8 +500,15 @@
         "Ketamine hydrochloride 10 injectable solution",
         "Ketamine hydrochloride 50 injectable solution"
       ],
+      "/medicine/drug/active_moieties": [
+        "Ketamine"
+      ],
       "/medicine/drug/physiologic_effect": [
         "General anaesthesia"
+      ],
+      "/medicine/drug/drug_class": [
+        "NMDA receptor antagonist",
+        "General anaesthetic"
       ],
       "/medicine/drug/canonical_brands": [
         "Ketalar"
@@ -517,16 +517,9 @@
     {
       "/medicine/drug/part_of_compound_drug": [],
       "/medicine/drug/brands": [],
-      "id": "/en/ketoprofen",
-      "type": "/medicine/drug",
-      "/medicine/drug/active_moieties": [
-        "Ketoprofen"
-      ],
       "name": "Ketoprofen",
-      "/medicine/drug/drug_class": [
-        "Nonsteroidal anti-inflammatory drug",
-        "Analgesic"
-      ],
+      "type": "/medicine/drug",
+      "id": "/en/ketoprofen",
       "/medicine/drug/marketed_formulations": [
         "Ketoprofen 50 capsule",
         "Ketoprofen 150 extended release capsule",
@@ -535,34 +528,34 @@
         "Ketoprofen 75 capsule",
         "Ketoprofen 100 extended release capsule"
       ],
-      "/medicine/drug/physiologic_effect": [],
-      "/medicine/drug/canonical_brands": []
-    },
-    {
-      "/medicine/drug/part_of_compound_drug": [],
-      "/medicine/drug/brands": [],
-      "id": "/en/lsd",
-      "type": "/medicine/drug",
-      "/medicine/drug/active_moieties": [],
-      "name": "Lysergic acid diethylamide",
-      "/medicine/drug/drug_class": [],
-      "/medicine/drug/marketed_formulations": [],
-      "/medicine/drug/physiologic_effect": [],
-      "/medicine/drug/canonical_brands": []
-    },
-    {
-      "/medicine/drug/part_of_compound_drug": [],
-      "/medicine/drug/brands": [],
-      "id": "/en/morphine",
-      "type": "/medicine/drug",
       "/medicine/drug/active_moieties": [
-        "Morphine"
+        "Ketoprofen"
       ],
-      "name": "Morphine",
+      "/medicine/drug/physiologic_effect": [],
       "/medicine/drug/drug_class": [
-        "Analgesic",
-        "Opioid"
+        "Nonsteroidal anti-inflammatory drug",
+        "Analgesic"
       ],
+      "/medicine/drug/canonical_brands": []
+    },
+    {
+      "/medicine/drug/part_of_compound_drug": [],
+      "/medicine/drug/brands": [],
+      "name": "Lysergic acid diethylamide",
+      "type": "/medicine/drug",
+      "id": "/en/lsd",
+      "/medicine/drug/marketed_formulations": [],
+      "/medicine/drug/active_moieties": [],
+      "/medicine/drug/physiologic_effect": [],
+      "/medicine/drug/drug_class": [],
+      "/medicine/drug/canonical_brands": []
+    },
+    {
+      "/medicine/drug/part_of_compound_drug": [],
+      "/medicine/drug/brands": [],
+      "name": "Morphine",
+      "type": "/medicine/drug",
+      "id": "/en/morphine",
       "/medicine/drug/marketed_formulations": [
         "Morphine sulfate 100 extended release capsule",
         "Morphine sulfate 4 solution",
@@ -622,7 +615,14 @@
         "Morphine sulfate 80 extended release capsule",
         "Morphine sulfate 1 injectable solution"
       ],
+      "/medicine/drug/active_moieties": [
+        "Morphine"
+      ],
       "/medicine/drug/physiologic_effect": [],
+      "/medicine/drug/drug_class": [
+        "Analgesic",
+        "Opioid"
+      ],
       "/medicine/drug/canonical_brands": [
         "Avinza",
         "Astramorph",
@@ -635,22 +635,22 @@
       "/medicine/drug/brands": [
         "Provigil"
       ],
-      "id": "/en/modafinil",
-      "type": "/medicine/drug",
-      "/medicine/drug/active_moieties": [
-        "Modafinil"
-      ],
       "name": "Modafinil",
-      "/medicine/drug/drug_class": [
-        "Sympathomimetic-like Agent"
-      ],
+      "type": "/medicine/drug",
+      "id": "/en/modafinil",
       "/medicine/drug/marketed_formulations": [
         "Modafinil 100 tablet",
         "Modafinil 200 tablet"
       ],
+      "/medicine/drug/active_moieties": [
+        "Modafinil"
+      ],
       "/medicine/drug/physiologic_effect": [
         "Central Nervous System Stimulation",
         "Increased Sympathetic Activity"
+      ],
+      "/medicine/drug/drug_class": [
+        "Sympathomimetic-like Agent"
       ],
       "/medicine/drug/canonical_brands": [
         "Provigil"
@@ -659,16 +659,9 @@
     {
       "/medicine/drug/part_of_compound_drug": [],
       "/medicine/drug/brands": [],
-      "id": "/en/methadone",
-      "type": "/medicine/drug",
-      "/medicine/drug/active_moieties": [
-        "Methadone"
-      ],
       "name": "Methadone",
-      "/medicine/drug/drug_class": [
-        "Analgesic",
-        "Opioid"
-      ],
+      "type": "/medicine/drug",
+      "id": "/en/methadone",
       "/medicine/drug/marketed_formulations": [
         "Methadone hydrochloride 10 concentrate",
         "Methadone hydrochloride 10 tablet",
@@ -680,7 +673,14 @@
         "Methadone hydrochloride 2 solution",
         "Methadone hydrochloride 10 injectable solution"
       ],
+      "/medicine/drug/active_moieties": [
+        "Methadone"
+      ],
       "/medicine/drug/physiologic_effect": [],
+      "/medicine/drug/drug_class": [
+        "Analgesic",
+        "Opioid"
+      ],
       "/medicine/drug/canonical_brands": [
         "Diskets",
         "Methadose",
@@ -690,16 +690,9 @@
     {
       "/medicine/drug/part_of_compound_drug": [],
       "/medicine/drug/brands": [],
-      "id": "/en/oxycodone",
-      "type": "/medicine/drug",
-      "/medicine/drug/active_moieties": [
-        "Oxycodone"
-      ],
       "name": "Oxycodone",
-      "/medicine/drug/drug_class": [
-        "Analgesic",
-        "Opioid"
-      ],
+      "type": "/medicine/drug",
+      "id": "/en/oxycodone",
       "/medicine/drug/marketed_formulations": [
         "Oxycodone hydrochloride 20 extended release tablet",
         "Oxycodone hydrochloride 40 extended release tablet",
@@ -727,7 +720,14 @@
         "Oxycodone hydrochloride 30 extended release film coated tablet",
         "Oxycodone hydrochloride 40 extended release film coated tablet"
       ],
+      "/medicine/drug/active_moieties": [
+        "Oxycodone"
+      ],
       "/medicine/drug/physiologic_effect": [],
+      "/medicine/drug/drug_class": [
+        "Analgesic",
+        "Opioid"
+      ],
       "/medicine/drug/canonical_brands": [
         "Oxycontin",
         "Oxecta",
@@ -737,19 +737,19 @@
     {
       "/medicine/drug/part_of_compound_drug": [],
       "/medicine/drug/brands": [],
-      "id": "/en/quinine",
-      "type": "/medicine/drug",
-      "/medicine/drug/active_moieties": [
-        "Quinine"
-      ],
       "name": "Quinine",
-      "/medicine/drug/drug_class": [
-        "Antimalarial medication"
-      ],
+      "type": "/medicine/drug",
+      "id": "/en/quinine",
       "/medicine/drug/marketed_formulations": [
         "Quinine sulfate 324 capsule"
       ],
+      "/medicine/drug/active_moieties": [
+        "Quinine"
+      ],
       "/medicine/drug/physiologic_effect": [],
+      "/medicine/drug/drug_class": [
+        "Antimalarial medication"
+      ],
       "/medicine/drug/canonical_brands": [
         "Qualaquin"
       ]
@@ -757,52 +757,52 @@
     {
       "/medicine/drug/part_of_compound_drug": [],
       "/medicine/drug/brands": [],
-      "id": "/en/scopolamine",
-      "type": "/medicine/drug",
-      "/medicine/drug/active_moieties": [
-        "Scopolamine"
-      ],
       "name": "Scopolamine",
-      "/medicine/drug/drug_class": [],
+      "type": "/medicine/drug",
+      "id": "/en/scopolamine",
       "/medicine/drug/marketed_formulations": [
         "Scopolamine 1.5 patch"
       ],
+      "/medicine/drug/active_moieties": [
+        "Scopolamine"
+      ],
       "/medicine/drug/physiologic_effect": [],
+      "/medicine/drug/drug_class": [],
       "/medicine/drug/canonical_brands": []
     },
     {
       "/medicine/drug/part_of_compound_drug": [],
       "/medicine/drug/brands": [],
-      "id": "/en/sodium_thiopental",
-      "type": "/medicine/drug",
-      "/medicine/drug/active_moieties": [],
       "name": "Sodium thiopental",
+      "type": "/medicine/drug",
+      "id": "/en/sodium_thiopental",
+      "/medicine/drug/marketed_formulations": [],
+      "/medicine/drug/active_moieties": [],
+      "/medicine/drug/physiologic_effect": [],
       "/medicine/drug/drug_class": [
         "Barbiturate"
       ],
-      "/medicine/drug/marketed_formulations": [],
-      "/medicine/drug/physiologic_effect": [],
       "/medicine/drug/canonical_brands": []
     },
     {
       "/medicine/drug/part_of_compound_drug": [],
       "/medicine/drug/brands": [],
-      "id": "/en/tetracycline",
-      "type": "/medicine/drug",
-      "/medicine/drug/active_moieties": [
-        "Tetracycline"
-      ],
       "name": "Tetracycline",
-      "/medicine/drug/drug_class": [
-        "Tetracycline antibiotics",
-        "Tetracycline-class Antimicrobial"
-      ],
+      "type": "/medicine/drug",
+      "id": "/en/tetracycline",
       "/medicine/drug/marketed_formulations": [
         "Tetracycline hydrochloride 500 capsule",
         "Tetracycline hydrochloride 250 capsule",
         "Tetracycline hydrochloride 0.03 ointment"
       ],
+      "/medicine/drug/active_moieties": [
+        "Tetracycline"
+      ],
       "/medicine/drug/physiologic_effect": [],
+      "/medicine/drug/drug_class": [
+        "Tetracycline antibiotics",
+        "Tetracycline-class Antimicrobial"
+      ],
       "/medicine/drug/canonical_brands": [
         "Acnecycline",
         "Dyabetex",
@@ -813,15 +813,9 @@
     {
       "/medicine/drug/part_of_compound_drug": [],
       "/medicine/drug/brands": [],
-      "id": "/en/testosterone",
-      "type": "/medicine/drug",
-      "/medicine/drug/active_moieties": [
-        "Testosterone"
-      ],
       "name": "Testosterone",
-      "/medicine/drug/drug_class": [
-        "Androgen"
-      ],
+      "type": "/medicine/drug",
+      "id": "/en/testosterone",
       "/medicine/drug/marketed_formulations": [
         "Testosterone enanthate 200 injection",
         "Testosterone 5 patch",
@@ -843,7 +837,13 @@
         "Testosterone 0.01 gel",
         "Testosterone 24.3 patch"
       ],
+      "/medicine/drug/active_moieties": [
+        "Testosterone"
+      ],
       "/medicine/drug/physiologic_effect": [],
+      "/medicine/drug/drug_class": [
+        "Androgen"
+      ],
       "/medicine/drug/canonical_brands": [
         "Testopel",
         "Androgel",
@@ -858,13 +858,13 @@
     {
       "/medicine/drug/part_of_compound_drug": [],
       "/medicine/drug/brands": [],
-      "id": "/en/theobromine",
-      "type": "/medicine/drug",
-      "/medicine/drug/active_moieties": [],
       "name": "Theobromine",
-      "/medicine/drug/drug_class": [],
+      "type": "/medicine/drug",
+      "id": "/en/theobromine",
       "/medicine/drug/marketed_formulations": [],
+      "/medicine/drug/active_moieties": [],
       "/medicine/drug/physiologic_effect": [],
+      "/medicine/drug/drug_class": [],
       "/medicine/drug/canonical_brands": []
     },
     {
@@ -873,15 +873,9 @@
         "Viagra",
         "Revatio"
       ],
-      "id": "/en/sildenafil",
-      "type": "/medicine/drug",
-      "/medicine/drug/active_moieties": [
-        "Sildenafil"
-      ],
       "name": "Sildenafil",
-      "/medicine/drug/drug_class": [
-        "PDE5 inhibitor"
-      ],
+      "type": "/medicine/drug",
+      "id": "/en/sildenafil",
       "/medicine/drug/marketed_formulations": [
         "Sildenafil citrate 25 film coated tablet",
         "Sildenafil citrate 20 film coated tablet",
@@ -889,7 +883,13 @@
         "Sildenafil citrate 50 film coated tablet",
         "Sildenafil citrate 100 film coated tablet"
       ],
+      "/medicine/drug/active_moieties": [
+        "Sildenafil"
+      ],
       "/medicine/drug/physiologic_effect": [],
+      "/medicine/drug/drug_class": [
+        "PDE5 inhibitor"
+      ],
       "/medicine/drug/canonical_brands": [
         "Viagra"
       ]
@@ -897,15 +897,9 @@
     {
       "/medicine/drug/part_of_compound_drug": [],
       "/medicine/drug/brands": [],
-      "id": "/en/paclitaxel",
-      "type": "/medicine/drug",
-      "/medicine/drug/active_moieties": [
-        "Paclitaxel"
-      ],
       "name": "Paclitaxel",
-      "/medicine/drug/drug_class": [
-        "Microtubule Inhibitor"
-      ],
+      "type": "/medicine/drug",
+      "id": "/en/paclitaxel",
       "/medicine/drug/marketed_formulations": [
         "Paclitaxel 6 injectable solution",
         "Paclitaxel 6 injectable concentrate solution",
@@ -913,8 +907,14 @@
         "Paclitaxel 6 injection",
         "Paclitaxel 5.988 injection"
       ],
+      "/medicine/drug/active_moieties": [
+        "Paclitaxel"
+      ],
       "/medicine/drug/physiologic_effect": [
         "Microtubule Inhibition"
+      ],
+      "/medicine/drug/drug_class": [
+        "Microtubule Inhibitor"
       ],
       "/medicine/drug/canonical_brands": [
         "Onxol",
@@ -924,15 +924,9 @@
     {
       "/medicine/drug/part_of_compound_drug": [],
       "/medicine/drug/brands": [],
-      "id": "/en/darbepoetin_alfa",
-      "type": "/medicine/drug",
-      "/medicine/drug/active_moieties": [
-        "Darbepoetin alfa"
-      ],
       "name": "Darbepoetin alfa",
-      "/medicine/drug/drug_class": [
-        "Erythropoiesis-stimulating agent"
-      ],
+      "type": "/medicine/drug",
+      "id": "/en/darbepoetin_alfa",
       "/medicine/drug/marketed_formulations": [
         "Darbepoetin alfa 40 solution",
         "Darbepoetin alfa 300 solution",
@@ -947,24 +941,23 @@
         "Darbepoetin alfa 60 solution",
         "Darbepoetin alfa 0.2 injectable solution"
       ],
+      "/medicine/drug/active_moieties": [
+        "Darbepoetin alfa"
+      ],
       "/medicine/drug/physiologic_effect": [
         "Increased Erythroid Cell Production"
+      ],
+      "/medicine/drug/drug_class": [
+        "Erythropoiesis-stimulating agent"
       ],
       "/medicine/drug/canonical_brands": []
     },
     {
       "/medicine/drug/part_of_compound_drug": [],
       "/medicine/drug/brands": [],
-      "id": "/en/fluoxetine",
-      "type": "/medicine/drug",
-      "/medicine/drug/active_moieties": [
-        "Fluoxetine"
-      ],
       "name": "Fluoxetine",
-      "/medicine/drug/drug_class": [
-        "Selective serotonin reuptake inhibitor",
-        "Serotonin reuptake inhibitor"
-      ],
+      "type": "/medicine/drug",
+      "id": "/en/fluoxetine",
       "/medicine/drug/marketed_formulations": [
         "Fluoxetine hydrochloride 40 capsule",
         "Fluoxetine hydrochloride 20 capsule",
@@ -980,7 +973,14 @@
         "Fluoxetine hydrochloride 10 tablet",
         "Fluoxetine hydrochloride 10 film coated tablet"
       ],
+      "/medicine/drug/active_moieties": [
+        "Fluoxetine"
+      ],
       "/medicine/drug/physiologic_effect": [],
+      "/medicine/drug/drug_class": [
+        "Selective serotonin reuptake inhibitor",
+        "Serotonin reuptake inhibitor"
+      ],
       "/medicine/drug/canonical_brands": [
         "Sarafem"
       ]
@@ -988,16 +988,9 @@
     {
       "/medicine/drug/part_of_compound_drug": [],
       "/medicine/drug/brands": [],
-      "id": "/en/clozapine",
-      "type": "/medicine/drug",
-      "/medicine/drug/active_moieties": [
-        "Clozapine"
-      ],
       "name": "Clozapine",
-      "/medicine/drug/drug_class": [
-        "Benzodiazepine",
-        "Atypical antipsychotic"
-      ],
+      "type": "/medicine/drug",
+      "id": "/en/clozapine",
       "/medicine/drug/marketed_formulations": [
         "Clozapine 12.5 orally disintegrating tablet",
         "Clozapine 200 tablet",
@@ -1009,7 +1002,14 @@
         "Clozapine 100 tablet",
         "Clozapine 25 orally disintegrating tablet"
       ],
+      "/medicine/drug/active_moieties": [
+        "Clozapine"
+      ],
       "/medicine/drug/physiologic_effect": [],
+      "/medicine/drug/drug_class": [
+        "Benzodiazepine",
+        "Atypical antipsychotic"
+      ],
       "/medicine/drug/canonical_brands": [
         "Clozaril"
       ]
@@ -1017,15 +1017,9 @@
     {
       "/medicine/drug/part_of_compound_drug": [],
       "/medicine/drug/brands": [],
-      "id": "/en/phenytoin",
-      "type": "/medicine/drug",
-      "/medicine/drug/active_moieties": [
-        "Phenytoin"
-      ],
       "name": "Phenytoin",
-      "/medicine/drug/drug_class": [
-        "Anti-epileptic Agent"
-      ],
+      "type": "/medicine/drug",
+      "id": "/en/phenytoin",
       "/medicine/drug/marketed_formulations": [
         "Phenytoin sodium 100 extended release capsule",
         "Phenytoin sodium 30 extended release capsule",
@@ -1040,8 +1034,14 @@
         "Phenytoin sodium 100 capsule",
         "Phenytoin sodium 300 extended release capsule"
       ],
+      "/medicine/drug/active_moieties": [
+        "Phenytoin"
+      ],
       "/medicine/drug/physiologic_effect": [
         "Decreased Central Nervous System Disorganized Electrical Activity"
+      ],
+      "/medicine/drug/drug_class": [
+        "Anti-epileptic Agent"
       ],
       "/medicine/drug/canonical_brands": [
         "Dilantin-125",
@@ -1054,22 +1054,22 @@
       "/medicine/drug/brands": [
         "Thalomid"
       ],
-      "id": "/en/thalidomide",
-      "type": "/medicine/drug",
-      "/medicine/drug/active_moieties": [
-        "Thalidomide"
-      ],
       "name": "Thalidomide",
-      "/medicine/drug/drug_class": [],
+      "type": "/medicine/drug",
+      "id": "/en/thalidomide",
       "/medicine/drug/marketed_formulations": [
         "Thalidomide 150 capsule",
         "Thalidomide 200 capsule",
         "Thalidomide 100 capsule",
         "Thalidomide 50 capsule"
       ],
+      "/medicine/drug/active_moieties": [
+        "Thalidomide"
+      ],
       "/medicine/drug/physiologic_effect": [
         "Decreased Immunologically Active Molecule Activity"
       ],
+      "/medicine/drug/drug_class": [],
       "/medicine/drug/canonical_brands": [
         "Thalomid"
       ]
@@ -1077,44 +1077,37 @@
     {
       "/medicine/drug/part_of_compound_drug": [],
       "/medicine/drug/brands": [],
-      "id": "/en/acetylcholine",
-      "type": "/medicine/drug",
-      "/medicine/drug/active_moieties": [
-        "Acetylcholine"
-      ],
       "name": "Acetylcholine",
-      "/medicine/drug/drug_class": [],
+      "type": "/medicine/drug",
+      "id": "/en/acetylcholine",
       "/medicine/drug/marketed_formulations": [
         "Acetylcholine chloride 10 kit"
       ],
-      "/medicine/drug/physiologic_effect": [],
-      "/medicine/drug/canonical_brands": []
-    },
-    {
-      "/medicine/drug/part_of_compound_drug": [],
-      "/medicine/drug/brands": [],
-      "id": "/en/cyanocobalamin",
-      "type": "/medicine/drug",
-      "/medicine/drug/active_moieties": [],
-      "name": "Vitamin B-12",
-      "/medicine/drug/drug_class": [],
-      "/medicine/drug/marketed_formulations": [],
-      "/medicine/drug/physiologic_effect": [],
-      "/medicine/drug/canonical_brands": []
-    },
-    {
-      "/medicine/drug/part_of_compound_drug": [],
-      "/medicine/drug/brands": [],
-      "id": "/en/valproic_acid",
-      "type": "/medicine/drug",
       "/medicine/drug/active_moieties": [
-        "Valproate"
+        "Acetylcholine"
       ],
+      "/medicine/drug/physiologic_effect": [],
+      "/medicine/drug/drug_class": [],
+      "/medicine/drug/canonical_brands": []
+    },
+    {
+      "/medicine/drug/part_of_compound_drug": [],
+      "/medicine/drug/brands": [],
+      "name": "Vitamin B-12",
+      "type": "/medicine/drug",
+      "id": "/en/cyanocobalamin",
+      "/medicine/drug/marketed_formulations": [],
+      "/medicine/drug/active_moieties": [],
+      "/medicine/drug/physiologic_effect": [],
+      "/medicine/drug/drug_class": [],
+      "/medicine/drug/canonical_brands": []
+    },
+    {
+      "/medicine/drug/part_of_compound_drug": [],
+      "/medicine/drug/brands": [],
       "name": "Valproate",
-      "/medicine/drug/drug_class": [
-        "Anti-epileptic Agent",
-        "Mood stabilizer"
-      ],
+      "type": "/medicine/drug",
+      "id": "/en/valproic_acid",
       "/medicine/drug/marketed_formulations": [
         "Divalproex sodium 125 coated pellets in capsule",
         "Divalproex sodium 250 delayed release tablet",
@@ -1141,8 +1134,15 @@
         "Divalproex sodium 125 capsule",
         "Valproic acid 250 delayed release capsule"
       ],
+      "/medicine/drug/active_moieties": [
+        "Valproate"
+      ],
       "/medicine/drug/physiologic_effect": [
         "Decreased Central Nervous System Disorganized Electrical Activity"
+      ],
+      "/medicine/drug/drug_class": [
+        "Anti-epileptic Agent",
+        "Mood stabilizer"
       ],
       "/medicine/drug/canonical_brands": [
         "Depakote",
@@ -1155,23 +1155,23 @@
     {
       "/medicine/drug/part_of_compound_drug": [],
       "/medicine/drug/brands": [],
-      "id": "/en/methamphetamine",
-      "type": "/medicine/drug",
-      "/medicine/drug/active_moieties": [
-        "Methamphetamine"
-      ],
       "name": "Methamphetamine",
-      "/medicine/drug/drug_class": [
-        "Amphetamine Anorectic",
-        "Central Nervous System Stimulant"
-      ],
+      "type": "/medicine/drug",
+      "id": "/en/methamphetamine",
       "/medicine/drug/marketed_formulations": [
         "Methamphetamine hydrochloride 5 tablet"
+      ],
+      "/medicine/drug/active_moieties": [
+        "Methamphetamine"
       ],
       "/medicine/drug/physiologic_effect": [
         "Appetite Suppression",
         "Central Nervous System Stimulation",
         "Increased Sympathetic Activity"
+      ],
+      "/medicine/drug/drug_class": [
+        "Amphetamine Anorectic",
+        "Central Nervous System Stimulant"
       ],
       "/medicine/drug/canonical_brands": [
         "Desoxyn"
@@ -1180,15 +1180,9 @@
     {
       "/medicine/drug/part_of_compound_drug": [],
       "/medicine/drug/brands": [],
-      "id": "/en/theophylline",
-      "type": "/medicine/drug",
-      "/medicine/drug/active_moieties": [
-        "Theophylline"
-      ],
       "name": "Theophylline",
-      "/medicine/drug/drug_class": [
-        "Methylxanthine"
-      ],
+      "type": "/medicine/drug",
+      "id": "/en/theophylline",
       "/medicine/drug/marketed_formulations": [
         "Theophylline, anhydrous 300 extended release capsule",
         "Theophylline anhydrous 1.6 injectable solution",
@@ -1218,7 +1212,13 @@
         "Theophylline 600 extended release tablet",
         "Theophylline anhydrous 400 tablet"
       ],
+      "/medicine/drug/active_moieties": [
+        "Theophylline"
+      ],
       "/medicine/drug/physiologic_effect": [],
+      "/medicine/drug/drug_class": [
+        "Methylxanthine"
+      ],
       "/medicine/drug/canonical_brands": [
         "Elixophyllin",
         "Theo-24",
@@ -1230,15 +1230,9 @@
     {
       "/medicine/drug/part_of_compound_drug": [],
       "/medicine/drug/brands": [],
-      "id": "/en/progesterone",
-      "type": "/medicine/drug",
-      "/medicine/drug/active_moieties": [
-        "Progesterone"
-      ],
       "name": "Progesterone",
-      "/medicine/drug/drug_class": [
-        "Progesterone"
-      ],
+      "type": "/medicine/drug",
+      "id": "/en/progesterone",
       "/medicine/drug/marketed_formulations": [
         "Progesterone 100 insert",
         "Progesterone 0.08 gel",
@@ -1248,7 +1242,13 @@
         "Progesterone 100 capsule",
         "Progesterone 50 injectable solution"
       ],
+      "/medicine/drug/active_moieties": [
+        "Progesterone"
+      ],
       "/medicine/drug/physiologic_effect": [],
+      "/medicine/drug/drug_class": [
+        "Progesterone"
+      ],
       "/medicine/drug/canonical_brands": [
         "Crinone",
         "Endometrin",
@@ -1261,16 +1261,9 @@
       "/medicine/drug/brands": [
         "Sudafed"
       ],
-      "id": "/en/pseudoephedrine",
-      "type": "/medicine/drug",
-      "/medicine/drug/active_moieties": [
-        "Pseudoephedrine"
-      ],
       "name": "Pseudoephedrine",
-      "/medicine/drug/drug_class": [
-        "Decongestant",
-        "Alpha-adrenergic agonist"
-      ],
+      "type": "/medicine/drug",
+      "id": "/en/pseudoephedrine",
       "/medicine/drug/marketed_formulations": [
         "Pseudoephedrine hydrochloride 240 extended release tablet",
         "Pseudoephedrine hydrochloride 60 film coated tablet",
@@ -1286,7 +1279,14 @@
         "Pseudoephedrine hydrochloride 30 coated tablet",
         "Pseudoephedrine hydrochloride 120 film coated tablet"
       ],
+      "/medicine/drug/active_moieties": [
+        "Pseudoephedrine"
+      ],
       "/medicine/drug/physiologic_effect": [],
+      "/medicine/drug/drug_class": [
+        "Decongestant",
+        "Alpha-adrenergic agonist"
+      ],
       "/medicine/drug/canonical_brands": [
         "Sudafed"
       ]
@@ -1294,15 +1294,9 @@
     {
       "/medicine/drug/part_of_compound_drug": [],
       "/medicine/drug/brands": [],
-      "id": "/en/ribavirin",
-      "type": "/medicine/drug",
-      "/medicine/drug/active_moieties": [
-        "Ribavirin"
-      ],
       "name": "Ribavirin",
-      "/medicine/drug/drug_class": [
-        "Nucleoside analogue"
-      ],
+      "type": "/medicine/drug",
+      "id": "/en/ribavirin",
       "/medicine/drug/marketed_formulations": [
         "Ribavirin 200 film coated tablet",
         "Ribavirin 600 film coated tablet",
@@ -1317,7 +1311,13 @@
         "Ribavirin 40 liquid",
         "Ribavirin 400 tablet"
       ],
+      "/medicine/drug/active_moieties": [
+        "Ribavirin"
+      ],
       "/medicine/drug/physiologic_effect": [],
+      "/medicine/drug/drug_class": [
+        "Nucleoside analogue"
+      ],
       "/medicine/drug/canonical_brands": [
         "Rebetol",
         "Ribasphere",
@@ -1330,15 +1330,9 @@
         "Tylenol",
         "Vicodin"
       ],
-      "id": "/en/paracetamol",
-      "type": "/medicine/drug",
-      "/medicine/drug/active_moieties": [
-        "Paracetamol"
-      ],
       "name": "Paracetamol",
-      "/medicine/drug/drug_class": [
-        "Analgesic"
-      ],
+      "type": "/medicine/drug",
+      "id": "/en/paracetamol",
       "/medicine/drug/marketed_formulations": [
         "Acetaminophen 0.8 liquid",
         "Acetaminophen 500 coated tablet",
@@ -1372,7 +1366,13 @@
         "Acetaminophen 80 suppository",
         "Acetaminophen 100 suspension"
       ],
+      "/medicine/drug/active_moieties": [
+        "Paracetamol"
+      ],
       "/medicine/drug/physiologic_effect": [],
+      "/medicine/drug/drug_class": [
+        "Analgesic"
+      ],
       "/medicine/drug/canonical_brands": [
         "Tylenol",
         "Xl-dol",
@@ -1393,15 +1393,9 @@
     {
       "/medicine/drug/part_of_compound_drug": [],
       "/medicine/drug/brands": [],
-      "id": "/en/adenosine",
-      "type": "/medicine/drug",
-      "/medicine/drug/active_moieties": [
-        "Adenosine"
-      ],
       "name": "Adenosine",
-      "/medicine/drug/drug_class": [
-        "Adenosine Receptor Agonist"
-      ],
+      "type": "/medicine/drug",
+      "id": "/en/adenosine",
       "/medicine/drug/marketed_formulations": [
         "Adenosine 3 injectable solution",
         "Adenosine 0.002 cream",
@@ -1412,7 +1406,13 @@
         "Adenosine 0.0004 cream",
         "Adenosine 0.0004 cream"
       ],
+      "/medicine/drug/active_moieties": [
+        "Adenosine"
+      ],
       "/medicine/drug/physiologic_effect": [],
+      "/medicine/drug/drug_class": [
+        "Adenosine Receptor Agonist"
+      ],
       "/medicine/drug/canonical_brands": [
         "Adenocard"
       ]
@@ -1420,33 +1420,33 @@
     {
       "/medicine/drug/part_of_compound_drug": [],
       "/medicine/drug/brands": [],
-      "id": "/en/inosine",
-      "type": "/medicine/drug",
-      "/medicine/drug/active_moieties": [],
       "name": "Inosine",
-      "/medicine/drug/drug_class": [],
+      "type": "/medicine/drug",
+      "id": "/en/inosine",
       "/medicine/drug/marketed_formulations": [],
+      "/medicine/drug/active_moieties": [],
       "/medicine/drug/physiologic_effect": [],
+      "/medicine/drug/drug_class": [],
       "/medicine/drug/canonical_brands": []
     },
     {
       "/medicine/drug/part_of_compound_drug": [],
       "/medicine/drug/brands": [],
-      "id": "/en/trimethoprim",
-      "type": "/medicine/drug",
-      "/medicine/drug/active_moieties": [
-        "Trimethoprim"
-      ],
       "name": "Trimethoprim",
-      "/medicine/drug/drug_class": [
-        "Dihydrofolate Reductase Inhibitor Antibacterial"
-      ],
+      "type": "/medicine/drug",
+      "id": "/en/trimethoprim",
       "/medicine/drug/marketed_formulations": [
         "Trimethoprim 200 tablet",
         "Trimethoprim 100 tablet",
         "Trimethoprim hydrochloride 10 solution"
       ],
+      "/medicine/drug/active_moieties": [
+        "Trimethoprim"
+      ],
       "/medicine/drug/physiologic_effect": [],
+      "/medicine/drug/drug_class": [
+        "Dihydrofolate Reductase Inhibitor Antibacterial"
+      ],
       "/medicine/drug/canonical_brands": [
         "Primsol",
         "Proloprim"
@@ -1455,16 +1455,9 @@
     {
       "/medicine/drug/part_of_compound_drug": [],
       "/medicine/drug/brands": [],
-      "id": "/en/paroxetine",
-      "type": "/medicine/drug",
-      "/medicine/drug/active_moieties": [
-        "Paroxetine"
-      ],
       "name": "Paroxetine",
-      "/medicine/drug/drug_class": [
-        "Selective serotonin reuptake inhibitor",
-        "Serotonin reuptake inhibitor"
-      ],
+      "type": "/medicine/drug",
+      "id": "/en/paroxetine",
       "/medicine/drug/marketed_formulations": [
         "Paroxetine hydrochloride hemihydrate 40 film coated tablet",
         "Paroxetine hydrochloride 30 film coated tablet",
@@ -1494,7 +1487,14 @@
         "Paroxetine hydrochloride 40 tablet",
         "Paroxetine hydrochloride 2 suspension"
       ],
+      "/medicine/drug/active_moieties": [
+        "Paroxetine"
+      ],
       "/medicine/drug/physiologic_effect": [],
+      "/medicine/drug/drug_class": [
+        "Selective serotonin reuptake inhibitor",
+        "Serotonin reuptake inhibitor"
+      ],
       "/medicine/drug/canonical_brands": [
         "Pexeva",
         "Paxil"
@@ -1503,16 +1503,9 @@
     {
       "/medicine/drug/part_of_compound_drug": [],
       "/medicine/drug/brands": [],
-      "id": "/en/fentanyl",
-      "type": "/medicine/drug",
-      "/medicine/drug/active_moieties": [
-        "Fentanyl"
-      ],
       "name": "Fentanyl",
-      "/medicine/drug/drug_class": [
-        "Analgesic",
-        "Opioid"
-      ],
+      "type": "/medicine/drug",
+      "id": "/en/fentanyl",
       "/medicine/drug/marketed_formulations": [
         "Fentanyl citrate 600 soluable film",
         "Fentanyl 25 patch",
@@ -1583,7 +1576,14 @@
         "Fentanyl 0.1 spray",
         "Fentanyl 0.6 spray"
       ],
+      "/medicine/drug/active_moieties": [
+        "Fentanyl"
+      ],
       "/medicine/drug/physiologic_effect": [],
+      "/medicine/drug/drug_class": [
+        "Analgesic",
+        "Opioid"
+      ],
       "/medicine/drug/canonical_brands": [
         "Sublimaze",
         "Lazanda",
@@ -1599,17 +1599,17 @@
     {
       "/medicine/drug/part_of_compound_drug": [],
       "/medicine/drug/brands": [],
-      "id": "/en/triprolidine",
-      "type": "/medicine/drug",
-      "/medicine/drug/active_moieties": [
-        "Triprolidine"
-      ],
       "name": "Triprolidine",
-      "/medicine/drug/drug_class": [],
+      "type": "/medicine/drug",
+      "id": "/en/triprolidine",
       "/medicine/drug/marketed_formulations": [
         "Triprolidine hydrochloride 0.25 liquid"
       ],
+      "/medicine/drug/active_moieties": [
+        "Triprolidine"
+      ],
       "/medicine/drug/physiologic_effect": [],
+      "/medicine/drug/drug_class": [],
       "/medicine/drug/canonical_brands": [
         "Tripohist"
       ]
@@ -1617,15 +1617,9 @@
     {
       "/medicine/drug/part_of_compound_drug": [],
       "/medicine/drug/brands": [],
-      "id": "/en/trifluoperazine",
-      "type": "/medicine/drug",
-      "/medicine/drug/active_moieties": [
-        "Trifluoperazine"
-      ],
       "name": "Trifluoperazine",
-      "/medicine/drug/drug_class": [
-        "Phenothiazine"
-      ],
+      "type": "/medicine/drug",
+      "id": "/en/trifluoperazine",
       "/medicine/drug/marketed_formulations": [
         "Trifluoperazine hydrochloride 1 tablet",
         "Trifluoperazine hydrochloride 5 film coated tablet",
@@ -1633,37 +1627,37 @@
         "Trifluoperazine hydrochloride 2 film coated tablet",
         "Trifluoperazine hydrochloride 1 film coated tablet"
       ],
+      "/medicine/drug/active_moieties": [
+        "Trifluoperazine"
+      ],
       "/medicine/drug/physiologic_effect": [],
+      "/medicine/drug/drug_class": [
+        "Phenothiazine"
+      ],
       "/medicine/drug/canonical_brands": []
     },
     {
       "/medicine/drug/part_of_compound_drug": [],
       "/medicine/drug/brands": [],
-      "id": "/en/halothane",
-      "type": "/medicine/drug",
-      "/medicine/drug/active_moieties": [
-        "Halothane"
-      ],
       "name": "Halothane",
-      "/medicine/drug/drug_class": [],
+      "type": "/medicine/drug",
+      "id": "/en/halothane",
       "/medicine/drug/marketed_formulations": [
         "Halothane 1 inhalant"
       ],
+      "/medicine/drug/active_moieties": [
+        "Halothane"
+      ],
       "/medicine/drug/physiologic_effect": [],
+      "/medicine/drug/drug_class": [],
       "/medicine/drug/canonical_brands": []
     },
     {
       "/medicine/drug/part_of_compound_drug": [],
       "/medicine/drug/brands": [],
-      "id": "/en/naloxone",
-      "type": "/medicine/drug",
-      "/medicine/drug/active_moieties": [
-        "Naloxone"
-      ],
       "name": "Naloxone",
-      "/medicine/drug/drug_class": [
-        "Opioid antagonist"
-      ],
+      "type": "/medicine/drug",
+      "id": "/en/naloxone",
       "/medicine/drug/marketed_formulations": [
         "Naloxone hydrochloride 0.4 injectable solution",
         "Naloxone hydrochloride 0.4 injection",
@@ -1673,7 +1667,13 @@
         "Naloxone hydrochloride 0.4 injection",
         "Naloxone hydrochloride 0.4 injection"
       ],
+      "/medicine/drug/active_moieties": [
+        "Naloxone"
+      ],
       "/medicine/drug/physiologic_effect": [],
+      "/medicine/drug/drug_class": [
+        "Opioid antagonist"
+      ],
       "/medicine/drug/canonical_brands": [
         "Narcan"
       ]
@@ -1681,16 +1681,9 @@
     {
       "/medicine/drug/part_of_compound_drug": [],
       "/medicine/drug/brands": [],
-      "id": "/en/atropine",
-      "type": "/medicine/drug",
-      "/medicine/drug/active_moieties": [
-        "Atropine"
-      ],
       "name": "Atropine",
-      "/medicine/drug/drug_class": [
-        "Anticholinergic",
-        "Muscarinic receptor antagonists"
-      ],
+      "type": "/medicine/drug",
+      "id": "/en/atropine",
       "/medicine/drug/marketed_formulations": [
         "Atropine sulfate 0.8 injectable solution",
         "Atropine sulfate 0.1 injectable solution",
@@ -1709,21 +1702,22 @@
         "Atropine sulfate 0.1 injection",
         "Atropine sulfate 0.4 injection"
       ],
+      "/medicine/drug/active_moieties": [
+        "Atropine"
+      ],
       "/medicine/drug/physiologic_effect": [],
+      "/medicine/drug/drug_class": [
+        "Anticholinergic",
+        "Muscarinic receptor antagonists"
+      ],
       "/medicine/drug/canonical_brands": []
     },
     {
       "/medicine/drug/part_of_compound_drug": [],
       "/medicine/drug/brands": [],
-      "id": "/en/vancomycin",
-      "type": "/medicine/drug",
-      "/medicine/drug/active_moieties": [
-        "Vancomycin"
-      ],
       "name": "Vancomycin",
-      "/medicine/drug/drug_class": [
-        "Glycopeptide antibiotic"
-      ],
+      "type": "/medicine/drug",
+      "id": "/en/vancomycin",
       "/medicine/drug/marketed_formulations": [
         "Vancomycin hydrochloride 4 lyophilized powder for injectable solution",
         "Vancomycin hydrochloride 100 lyophilized powder for injectable solution",
@@ -1735,7 +1729,13 @@
         "Vancomycin hydrochloride 5 injectable solution",
         "Vancomycin hydrochloride 125 capsule"
       ],
+      "/medicine/drug/active_moieties": [
+        "Vancomycin"
+      ],
       "/medicine/drug/physiologic_effect": [],
+      "/medicine/drug/drug_class": [
+        "Glycopeptide antibiotic"
+      ],
       "/medicine/drug/canonical_brands": [
         "Vancocin"
       ]
@@ -1743,16 +1743,9 @@
     {
       "/medicine/drug/part_of_compound_drug": [],
       "/medicine/drug/brands": [],
-      "id": "/en/chlorpromazine",
-      "type": "/medicine/drug",
-      "/medicine/drug/active_moieties": [
-        "Chlorpromazine"
-      ],
       "name": "Chlorpromazine",
-      "/medicine/drug/drug_class": [
-        "Antiemetic",
-        "Phenothiazine"
-      ],
+      "type": "/medicine/drug",
+      "id": "/en/chlorpromazine",
       "/medicine/drug/marketed_formulations": [
         "Chlorpromazine hydrochloride 25 film coated tablet",
         "Chlorpromazine hydrochloride 100 sugar coated tablet",
@@ -1771,7 +1764,14 @@
         "Chlorpromazine hydrochloride 50 sugar coated tablet",
         "Chlorpromazine hydrochloride 25 tablet"
       ],
+      "/medicine/drug/active_moieties": [
+        "Chlorpromazine"
+      ],
       "/medicine/drug/physiologic_effect": [],
+      "/medicine/drug/drug_class": [
+        "Antiemetic",
+        "Phenothiazine"
+      ],
       "/medicine/drug/canonical_brands": []
     },
     {
@@ -1779,16 +1779,9 @@
       "/medicine/drug/brands": [
         "Zoloft"
       ],
-      "id": "/en/sertraline",
-      "type": "/medicine/drug",
-      "/medicine/drug/active_moieties": [
-        "Sertraline"
-      ],
       "name": "Sertraline",
-      "/medicine/drug/drug_class": [
-        "Selective serotonin reuptake inhibitor",
-        "Serotonin reuptake inhibitor"
-      ],
+      "type": "/medicine/drug",
+      "id": "/en/sertraline",
       "/medicine/drug/marketed_formulations": [
         "Sertraline hydrochloride 25 coated tablet",
         "Sertraline hydrochloride 25 tablet",
@@ -1803,7 +1796,14 @@
         "Sertraline hydrochloride 100 tablet",
         "Sertraline hydrochloride 100 film coated tablet"
       ],
+      "/medicine/drug/active_moieties": [
+        "Sertraline"
+      ],
       "/medicine/drug/physiologic_effect": [],
+      "/medicine/drug/drug_class": [
+        "Selective serotonin reuptake inhibitor",
+        "Serotonin reuptake inhibitor"
+      ],
       "/medicine/drug/canonical_brands": [
         "Zoloft"
       ]
@@ -1811,15 +1811,9 @@
     {
       "/medicine/drug/part_of_compound_drug": [],
       "/medicine/drug/brands": [],
-      "id": "/en/ciclosporin",
-      "type": "/medicine/drug",
-      "/medicine/drug/active_moieties": [
-        "Ciclosporin"
-      ],
       "name": "Ciclosporin",
-      "/medicine/drug/drug_class": [
-        "Calcineurin Inhibitor Immunosuppressant"
-      ],
+      "type": "/medicine/drug",
+      "id": "/en/ciclosporin",
       "/medicine/drug/marketed_formulations": [
         "Cyclosporine 100 gelatin coated capsule",
         "Cyclosporine 100 liquid filled capsule",
@@ -1834,7 +1828,13 @@
         "Cyclosporine 2 solution",
         "Cyclosporine 0.5 emulsion"
       ],
+      "/medicine/drug/active_moieties": [
+        "Ciclosporin"
+      ],
       "/medicine/drug/physiologic_effect": [],
+      "/medicine/drug/drug_class": [
+        "Calcineurin Inhibitor Immunosuppressant"
+      ],
       "/medicine/drug/canonical_brands": [
         "Sandimmune",
         "Gengraf",
@@ -1845,16 +1845,9 @@
     {
       "/medicine/drug/part_of_compound_drug": [],
       "/medicine/drug/brands": [],
-      "id": "/en/ibuprofen",
-      "type": "/medicine/drug",
-      "/medicine/drug/active_moieties": [
-        "Ibuprofen"
-      ],
       "name": "Ibuprofen",
-      "/medicine/drug/drug_class": [
-        "Analgesic",
-        "Nonsteroidal anti-inflammatory drug"
-      ],
+      "type": "/medicine/drug",
+      "id": "/en/ibuprofen",
       "/medicine/drug/marketed_formulations": [
         "Ibuprofen 200 sugar coated tablet",
         "Ibuprofen 100 tablet",
@@ -1880,7 +1873,14 @@
         "Ibuprofen 40 suspension",
         "Ibuprofen 800 tablet"
       ],
+      "/medicine/drug/active_moieties": [
+        "Ibuprofen"
+      ],
       "/medicine/drug/physiologic_effect": [],
+      "/medicine/drug/drug_class": [
+        "Analgesic",
+        "Nonsteroidal anti-inflammatory drug"
+      ],
       "/medicine/drug/canonical_brands": [
         "Advil",
         "Motrin",
@@ -1892,15 +1892,9 @@
     {
       "/medicine/drug/part_of_compound_drug": [],
       "/medicine/drug/brands": [],
-      "id": "/en/tacrolimus",
-      "type": "/medicine/drug",
-      "/medicine/drug/active_moieties": [
-        "Tacrolimus"
-      ],
       "name": "Tacrolimus",
-      "/medicine/drug/drug_class": [
-        "Calcineurin Inhibitor Immunosuppressant"
-      ],
+      "type": "/medicine/drug",
+      "id": "/en/tacrolimus",
       "/medicine/drug/marketed_formulations": [
         "Tacrolimus 1 gelatin coated capsule",
         "Tacrolimus 1 gelatin coated capsule",
@@ -1914,7 +1908,13 @@
         "Tacrolimus 5 injectable solution",
         "Tacrolimus 0.3 ointment"
       ],
+      "/medicine/drug/active_moieties": [
+        "Tacrolimus"
+      ],
       "/medicine/drug/physiologic_effect": [],
+      "/medicine/drug/drug_class": [
+        "Calcineurin Inhibitor Immunosuppressant"
+      ],
       "/medicine/drug/canonical_brands": [
         "Hecoria",
         "Protopic"
@@ -1923,32 +1923,32 @@
     {
       "/medicine/drug/part_of_compound_drug": [],
       "/medicine/drug/brands": [],
-      "id": "/en/methaqualone",
-      "type": "/medicine/drug",
-      "/medicine/drug/active_moieties": [],
       "name": "Methaqualone",
-      "/medicine/drug/drug_class": [],
+      "type": "/medicine/drug",
+      "id": "/en/methaqualone",
       "/medicine/drug/marketed_formulations": [],
+      "/medicine/drug/active_moieties": [],
       "/medicine/drug/physiologic_effect": [],
+      "/medicine/drug/drug_class": [],
       "/medicine/drug/canonical_brands": []
     },
     {
       "/medicine/drug/part_of_compound_drug": [],
       "/medicine/drug/brands": [],
-      "id": "/en/pentamidine",
-      "type": "/medicine/drug",
-      "/medicine/drug/active_moieties": [
-        "Pentamidine"
-      ],
       "name": "Pentamidine",
-      "/medicine/drug/drug_class": [
-        "Antiprotozoal"
-      ],
+      "type": "/medicine/drug",
+      "id": "/en/pentamidine",
       "/medicine/drug/marketed_formulations": [
         "Pentamidine isethionate 50 inhalant",
         "Pentamidine isethionate 100 lyophilized powder for injectable solution"
       ],
+      "/medicine/drug/active_moieties": [
+        "Pentamidine"
+      ],
       "/medicine/drug/physiologic_effect": [],
+      "/medicine/drug/drug_class": [
+        "Antiprotozoal"
+      ],
       "/medicine/drug/canonical_brands": [
         "NebuPent"
       ]
@@ -1956,22 +1956,22 @@
     {
       "/medicine/drug/part_of_compound_drug": [],
       "/medicine/drug/brands": [],
-      "id": "/en/suxamethonium_chloride",
-      "type": "/medicine/drug",
-      "/medicine/drug/active_moieties": [
-        "Suxamethonium chloride"
-      ],
       "name": "Suxamethonium chloride",
-      "/medicine/drug/drug_class": [
-        "Depolarizing Neuromuscular Blocker"
-      ],
+      "type": "/medicine/drug",
+      "id": "/en/suxamethonium_chloride",
       "/medicine/drug/marketed_formulations": [
         "Succinylcholine chloride 20 injectable solution",
         "Succinylcholine chloride 20 injectable solution",
         "Succinylcholine chloride 100 injectable solution"
       ],
+      "/medicine/drug/active_moieties": [
+        "Suxamethonium chloride"
+      ],
       "/medicine/drug/physiologic_effect": [
         "Neuromuscular Depolarizing Blockade"
+      ],
+      "/medicine/drug/drug_class": [
+        "Depolarizing Neuromuscular Blocker"
       ],
       "/medicine/drug/canonical_brands": [
         "Anectine",
@@ -1981,19 +1981,19 @@
     {
       "/medicine/drug/part_of_compound_drug": [],
       "/medicine/drug/brands": [],
-      "id": "/en/mifepristone",
-      "type": "/medicine/drug",
-      "/medicine/drug/active_moieties": [
-        "Mifepristone"
-      ],
       "name": "Mifepristone",
-      "/medicine/drug/drug_class": [
-        "Progestin Antagonist"
-      ],
+      "type": "/medicine/drug",
+      "id": "/en/mifepristone",
       "/medicine/drug/marketed_formulations": [
         "Mifepristone 300 tablet"
       ],
+      "/medicine/drug/active_moieties": [
+        "Mifepristone"
+      ],
       "/medicine/drug/physiologic_effect": [],
+      "/medicine/drug/drug_class": [
+        "Progestin Antagonist"
+      ],
       "/medicine/drug/canonical_brands": [
         "Korlym"
       ]
@@ -2003,36 +2003,29 @@
       "/medicine/drug/brands": [
         "Mollipect"
       ],
-      "id": "/en/ephedrine",
-      "type": "/medicine/drug",
-      "/medicine/drug/active_moieties": [
-        "Ephedrine"
-      ],
       "name": "Ephedrine",
-      "/medicine/drug/drug_class": [
-        "Decongestant"
-      ],
+      "type": "/medicine/drug",
+      "id": "/en/ephedrine",
       "/medicine/drug/marketed_formulations": [
         "Ephedrine sulfate 50 injectable solution",
         "Ephedrine sulfate 25 capsule",
         "Ephedrine sulfate 50 injection"
       ],
+      "/medicine/drug/active_moieties": [
+        "Ephedrine"
+      ],
       "/medicine/drug/physiologic_effect": [],
+      "/medicine/drug/drug_class": [
+        "Decongestant"
+      ],
       "/medicine/drug/canonical_brands": []
     },
     {
       "/medicine/drug/part_of_compound_drug": [],
       "/medicine/drug/brands": [],
-      "id": "/en/haloperidol",
-      "type": "/medicine/drug",
-      "/medicine/drug/active_moieties": [
-        "Haloperidol"
-      ],
       "name": "Haloperidol",
-      "/medicine/drug/drug_class": [
-        "Antiemetic",
-        "Typical antipsychotic"
-      ],
+      "type": "/medicine/drug",
+      "id": "/en/haloperidol",
       "/medicine/drug/marketed_formulations": [
         "Haloperidol 5 injection",
         "Haloperidol decanoate 70.52 injection",
@@ -2051,7 +2044,14 @@
         "Haloperidol decanoate 50 injection",
         "Haloperidol decanoate 100 injection"
       ],
+      "/medicine/drug/active_moieties": [
+        "Haloperidol"
+      ],
       "/medicine/drug/physiologic_effect": [],
+      "/medicine/drug/drug_class": [
+        "Antiemetic",
+        "Typical antipsychotic"
+      ],
       "/medicine/drug/canonical_brands": [
         "Haldol"
       ]
@@ -2059,15 +2059,9 @@
     {
       "/medicine/drug/part_of_compound_drug": [],
       "/medicine/drug/brands": [],
-      "id": "/en/fluphenazine",
-      "type": "/medicine/drug",
-      "/medicine/drug/active_moieties": [
-        "Fluphenazine"
-      ],
       "name": "Fluphenazine",
-      "/medicine/drug/drug_class": [
-        "Phenothiazine"
-      ],
+      "type": "/medicine/drug",
+      "id": "/en/fluphenazine",
       "/medicine/drug/marketed_formulations": [
         "Fluphenazine hydrochloride 2.5 injectable solution",
         "Fluphenazine hydrochloride 2.5 tablet",
@@ -2083,7 +2077,13 @@
         "Fluphenazine hydrochloride 1 film coated tablet",
         "Fluphenazine decanoate 25 injectable solution"
       ],
+      "/medicine/drug/active_moieties": [
+        "Fluphenazine"
+      ],
       "/medicine/drug/physiologic_effect": [],
+      "/medicine/drug/drug_class": [
+        "Phenothiazine"
+      ],
       "/medicine/drug/canonical_brands": [
         "Prolixin"
       ]
@@ -2091,15 +2091,9 @@
     {
       "/medicine/drug/part_of_compound_drug": [],
       "/medicine/drug/brands": [],
-      "id": "/en/risperidone",
-      "type": "/medicine/drug",
-      "/medicine/drug/active_moieties": [
-        "Risperidone"
-      ],
       "name": "Risperidone",
-      "/medicine/drug/drug_class": [
-        "Atypical antipsychotic"
-      ],
+      "type": "/medicine/drug",
+      "id": "/en/risperidone",
       "/medicine/drug/marketed_formulations": [
         "Risperidone 0.25 coated tablet",
         "Risperidone 1 film coated tablet",
@@ -2131,7 +2125,13 @@
         "Risperidone 0.5 coated tablet",
         "Risperidone 2 film coated tablet"
       ],
+      "/medicine/drug/active_moieties": [
+        "Risperidone"
+      ],
       "/medicine/drug/physiologic_effect": [],
+      "/medicine/drug/drug_class": [
+        "Atypical antipsychotic"
+      ],
       "/medicine/drug/canonical_brands": [
         "Risperdal"
       ]
@@ -2139,15 +2139,9 @@
     {
       "/medicine/drug/part_of_compound_drug": [],
       "/medicine/drug/brands": [],
-      "id": "/en/quetiapine",
-      "type": "/medicine/drug",
-      "/medicine/drug/active_moieties": [
-        "Quetiapine"
-      ],
       "name": "Quetiapine",
-      "/medicine/drug/drug_class": [
-        "Atypical antipsychotic"
-      ],
+      "type": "/medicine/drug",
+      "id": "/en/quetiapine",
       "/medicine/drug/marketed_formulations": [
         "Quetiapine fumarate 200 film coated tablet",
         "Quetiapine fumarate 300 film coated tablet",
@@ -2168,7 +2162,13 @@
         "Quetiapine fumarate 150 film coated tablet",
         "Quetiapine fumarate 400 tablet"
       ],
+      "/medicine/drug/active_moieties": [
+        "Quetiapine"
+      ],
       "/medicine/drug/physiologic_effect": [],
+      "/medicine/drug/drug_class": [
+        "Atypical antipsychotic"
+      ],
       "/medicine/drug/canonical_brands": [
         "Seroquel"
       ]
@@ -2176,15 +2176,9 @@
     {
       "/medicine/drug/part_of_compound_drug": [],
       "/medicine/drug/brands": [],
-      "id": "/en/ziprasidone",
-      "type": "/medicine/drug",
-      "/medicine/drug/active_moieties": [
-        "Ziprasidone"
-      ],
       "name": "Ziprasidone",
-      "/medicine/drug/drug_class": [
-        "Atypical antipsychotic"
-      ],
+      "type": "/medicine/drug",
+      "id": "/en/ziprasidone",
       "/medicine/drug/marketed_formulations": [
         "Ziprasidone mesylate 20 lyophilized powder for injectable solution",
         "Ziprasidone hydrochloride 60 capsule",
@@ -2192,7 +2186,13 @@
         "Ziprasidone hydrochloride 40 capsule",
         "Ziprasidone hydrochloride 20 capsule"
       ],
+      "/medicine/drug/active_moieties": [
+        "Ziprasidone"
+      ],
       "/medicine/drug/physiologic_effect": [],
+      "/medicine/drug/drug_class": [
+        "Atypical antipsychotic"
+      ],
       "/medicine/drug/canonical_brands": [
         "Geodon"
       ]
@@ -2200,15 +2200,9 @@
     {
       "/medicine/drug/part_of_compound_drug": [],
       "/medicine/drug/brands": [],
-      "id": "/en/olanzapine",
-      "type": "/medicine/drug",
-      "/medicine/drug/active_moieties": [
-        "Olanzapine"
-      ],
       "name": "Olanzapine",
-      "/medicine/drug/drug_class": [
-        "Atypical antipsychotic"
-      ],
+      "type": "/medicine/drug",
+      "id": "/en/olanzapine",
       "/medicine/drug/marketed_formulations": [
         "Olanzapine 2.5 tablet",
         "Olanzapine 15 tablet",
@@ -2229,7 +2223,13 @@
         "Olanzapine 5 film coated tablet",
         "Olanzapine 20 film coated tablet"
       ],
+      "/medicine/drug/active_moieties": [
+        "Olanzapine"
+      ],
       "/medicine/drug/physiologic_effect": [],
+      "/medicine/drug/drug_class": [
+        "Atypical antipsychotic"
+      ],
       "/medicine/drug/canonical_brands": [
         "Zyprexa"
       ]
@@ -2237,16 +2237,9 @@
     {
       "/medicine/drug/part_of_compound_drug": [],
       "/medicine/drug/brands": [],
-      "id": "/en/benztropine",
-      "type": "/medicine/drug",
-      "/medicine/drug/active_moieties": [
-        "Benzatropine"
-      ],
       "name": "Benzatropine",
-      "/medicine/drug/drug_class": [
-        "Anticholinergic",
-        "H1 antagonist"
-      ],
+      "type": "/medicine/drug",
+      "id": "/en/benztropine",
       "/medicine/drug/marketed_formulations": [
         "Benztropine mesylate 1 tablet",
         "Benztropine mesylate 1 injection",
@@ -2255,7 +2248,14 @@
         "Benztropine mesylate 1 injectable solution",
         "Benztropine mesylate 1 injection"
       ],
+      "/medicine/drug/active_moieties": [
+        "Benzatropine"
+      ],
       "/medicine/drug/physiologic_effect": [],
+      "/medicine/drug/drug_class": [
+        "Anticholinergic",
+        "H1 antagonist"
+      ],
       "/medicine/drug/canonical_brands": [
         "Cogentin"
       ]
@@ -2263,15 +2263,9 @@
     {
       "/medicine/drug/part_of_compound_drug": [],
       "/medicine/drug/brands": [],
-      "id": "/en/propranolol",
-      "type": "/medicine/drug",
-      "/medicine/drug/active_moieties": [
-        "Propranolol"
-      ],
       "name": "Propranolol",
-      "/medicine/drug/drug_class": [
-        "Beta blocker"
-      ],
+      "type": "/medicine/drug",
+      "id": "/en/propranolol",
       "/medicine/drug/marketed_formulations": [
         "Propranolol hydrochloride 40 tablet",
         "Propranolol hydrochloride 120 extended release capsule",
@@ -2293,22 +2287,21 @@
         "Propranolol hydrochloride 1 injectable solution",
         "Propranolol hydrochloride 160 gelatin coated capsule"
       ],
+      "/medicine/drug/active_moieties": [
+        "Propranolol"
+      ],
       "/medicine/drug/physiologic_effect": [],
+      "/medicine/drug/drug_class": [
+        "Beta blocker"
+      ],
       "/medicine/drug/canonical_brands": []
     },
     {
       "/medicine/drug/part_of_compound_drug": [],
       "/medicine/drug/brands": [],
-      "id": "/en/clarithromycin",
-      "type": "/medicine/drug",
-      "/medicine/drug/active_moieties": [
-        "Clarithromycin"
-      ],
       "name": "Clarithromycin",
-      "/medicine/drug/drug_class": [
-        "Macrolide Antibiotic",
-        "Macrolide Antimicrobial"
-      ],
+      "type": "/medicine/drug",
+      "id": "/en/clarithromycin",
       "/medicine/drug/marketed_formulations": [
         "Clarithromycin 50 granule for suspension",
         "Clarithromycin 250 tablet",
@@ -2326,7 +2319,14 @@
         "Clarithromycin 50 suspension",
         "Clarithromycin 500 extended release tablet"
       ],
+      "/medicine/drug/active_moieties": [
+        "Clarithromycin"
+      ],
       "/medicine/drug/physiologic_effect": [],
+      "/medicine/drug/drug_class": [
+        "Macrolide Antibiotic",
+        "Macrolide Antimicrobial"
+      ],
       "/medicine/drug/canonical_brands": [
         "Biaxin"
       ]
@@ -2334,59 +2334,53 @@
     {
       "/medicine/drug/part_of_compound_drug": [],
       "/medicine/drug/brands": [],
-      "id": "/en/mefloquine",
-      "type": "/medicine/drug",
-      "/medicine/drug/active_moieties": [
-        "Mefloquine"
-      ],
       "name": "Mefloquine",
-      "/medicine/drug/drug_class": [
-        "Antimalarial medication"
-      ],
+      "type": "/medicine/drug",
+      "id": "/en/mefloquine",
       "/medicine/drug/marketed_formulations": [
         "Mefloquine hydrochloride 250 tablet"
       ],
+      "/medicine/drug/active_moieties": [
+        "Mefloquine"
+      ],
       "/medicine/drug/physiologic_effect": [],
+      "/medicine/drug/drug_class": [
+        "Antimalarial medication"
+      ],
       "/medicine/drug/canonical_brands": []
     },
     {
       "/medicine/drug/part_of_compound_drug": [],
       "/medicine/drug/brands": [],
-      "id": "/en/diethylcarbamazine",
-      "type": "/medicine/drug",
-      "/medicine/drug/active_moieties": [],
       "name": "Diethylcarbamazine",
+      "type": "/medicine/drug",
+      "id": "/en/diethylcarbamazine",
+      "/medicine/drug/marketed_formulations": [],
+      "/medicine/drug/active_moieties": [],
+      "/medicine/drug/physiologic_effect": [],
       "/medicine/drug/drug_class": [
         "Antiparasitic"
       ],
-      "/medicine/drug/marketed_formulations": [],
-      "/medicine/drug/physiologic_effect": [],
       "/medicine/drug/canonical_brands": []
     },
     {
       "/medicine/drug/part_of_compound_drug": [],
       "/medicine/drug/brands": [],
-      "id": "/en/glutethimide",
-      "type": "/medicine/drug",
-      "/medicine/drug/active_moieties": [],
       "name": "Glutethimide",
-      "/medicine/drug/drug_class": [],
+      "type": "/medicine/drug",
+      "id": "/en/glutethimide",
       "/medicine/drug/marketed_formulations": [],
+      "/medicine/drug/active_moieties": [],
       "/medicine/drug/physiologic_effect": [],
+      "/medicine/drug/drug_class": [],
       "/medicine/drug/canonical_brands": []
     },
     {
       "/medicine/drug/part_of_compound_drug": [],
       "/medicine/drug/brands": [],
-      "id": "/en/zidovudine",
-      "type": "/medicine/drug",
-      "/medicine/drug/active_moieties": [
-        "Zidovudine"
-      ],
       "name": "Zidovudine",
-      "/medicine/drug/drug_class": [
-        "Human Immunodeficiency Virus Nucleoside Analog Reverse Transcriptase Inhibitor"
-      ],
+      "type": "/medicine/drug",
+      "id": "/en/zidovudine",
       "/medicine/drug/marketed_formulations": [
         "Zidovudine 300 film coated tablet",
         "Zidovudine 300 tablet",
@@ -2394,7 +2388,13 @@
         "Zidovudine 10 injectable solution",
         "Zidovudine 100 capsule"
       ],
+      "/medicine/drug/active_moieties": [
+        "Zidovudine"
+      ],
       "/medicine/drug/physiologic_effect": [],
+      "/medicine/drug/drug_class": [
+        "Human Immunodeficiency Virus Nucleoside Analog Reverse Transcriptase Inhibitor"
+      ],
       "/medicine/drug/canonical_brands": [
         "Retrovir"
       ]
@@ -2402,16 +2402,9 @@
     {
       "/medicine/drug/part_of_compound_drug": [],
       "/medicine/drug/brands": [],
-      "id": "/en/escitalopram",
-      "type": "/medicine/drug",
-      "/medicine/drug/active_moieties": [
-        "Escitalopram"
-      ],
       "name": "Escitalopram",
-      "/medicine/drug/drug_class": [
-        "Selective serotonin reuptake inhibitor",
-        "Serotonin reuptake inhibitor"
-      ],
+      "type": "/medicine/drug",
+      "id": "/en/escitalopram",
       "/medicine/drug/marketed_formulations": [
         "Escitalopram oxalate 10 tablet",
         "Escitalopram oxalate 20 film coated tablet",
@@ -2422,7 +2415,14 @@
         "Escitalopram oxalate 5 film coated tablet",
         "Escitalopram oxalate 1 solution"
       ],
+      "/medicine/drug/active_moieties": [
+        "Escitalopram"
+      ],
       "/medicine/drug/physiologic_effect": [],
+      "/medicine/drug/drug_class": [
+        "Selective serotonin reuptake inhibitor",
+        "Serotonin reuptake inhibitor"
+      ],
       "/medicine/drug/canonical_brands": [
         "Lexapro"
       ]
@@ -2430,16 +2430,9 @@
     {
       "/medicine/drug/part_of_compound_drug": [],
       "/medicine/drug/brands": [],
-      "id": "/en/citalopram",
-      "type": "/medicine/drug",
-      "/medicine/drug/active_moieties": [
-        "Citalopram"
-      ],
       "name": "Citalopram",
-      "/medicine/drug/drug_class": [
-        "Selective serotonin reuptake inhibitor",
-        "Serotonin reuptake inhibitor"
-      ],
+      "type": "/medicine/drug",
+      "id": "/en/citalopram",
       "/medicine/drug/marketed_formulations": [
         "Citalopram 40 film coated tablet",
         "Citalopram hydrobromide 20 capsule",
@@ -2455,7 +2448,14 @@
         "Citalopram hydrobromide 2 suspension",
         "Citalopram hydrobromide 10 film coated tablet"
       ],
+      "/medicine/drug/active_moieties": [
+        "Citalopram"
+      ],
       "/medicine/drug/physiologic_effect": [],
+      "/medicine/drug/drug_class": [
+        "Selective serotonin reuptake inhibitor",
+        "Serotonin reuptake inhibitor"
+      ],
       "/medicine/drug/canonical_brands": [
         "Celexa"
       ]
@@ -2463,17 +2463,17 @@
     {
       "/medicine/drug/part_of_compound_drug": [],
       "/medicine/drug/brands": [],
-      "id": "/en/enfuvirtide",
-      "type": "/medicine/drug",
-      "/medicine/drug/active_moieties": [
-        "Enfuvirtide"
-      ],
       "name": "Enfuvirtide",
-      "/medicine/drug/drug_class": [],
+      "type": "/medicine/drug",
+      "id": "/en/enfuvirtide",
       "/medicine/drug/marketed_formulations": [
         "Enfuvirtide 90 kit"
       ],
+      "/medicine/drug/active_moieties": [
+        "Enfuvirtide"
+      ],
       "/medicine/drug/physiologic_effect": [],
+      "/medicine/drug/drug_class": [],
       "/medicine/drug/canonical_brands": [
         "Fuzeon"
       ]
@@ -2481,15 +2481,9 @@
     {
       "/medicine/drug/part_of_compound_drug": [],
       "/medicine/drug/brands": [],
-      "id": "/en/methylphenidate",
-      "type": "/medicine/drug",
-      "/medicine/drug/active_moieties": [
-        "Methylphenidate"
-      ],
       "name": "Methylphenidate",
-      "/medicine/drug/drug_class": [
-        "Central Nervous System Stimulant"
-      ],
+      "type": "/medicine/drug",
+      "id": "/en/methylphenidate",
       "/medicine/drug/marketed_formulations": [
         "Methylphenidate hydrochloride 18 tablet",
         "Methylphenidate hydrochloride 20 extended release capsule",
@@ -2521,8 +2515,14 @@
         "Methylphenidate hydrochloride 10 chewable tablet",
         "Methylphenidate hydrochloride 54 extended release tablet"
       ],
+      "/medicine/drug/active_moieties": [
+        "Methylphenidate"
+      ],
       "/medicine/drug/physiologic_effect": [
         "Central Nervous System Stimulation"
+      ],
+      "/medicine/drug/drug_class": [
+        "Central Nervous System Stimulant"
       ],
       "/medicine/drug/canonical_brands": [
         "Methylin",
@@ -2534,44 +2534,44 @@
     {
       "/medicine/drug/part_of_compound_drug": [],
       "/medicine/drug/brands": [],
-      "id": "/en/streptomycin",
-      "type": "/medicine/drug",
-      "/medicine/drug/active_moieties": [
-        "Streptomycin"
-      ],
       "name": "Streptomycin",
-      "/medicine/drug/drug_class": [
-        "Antimycobacterial",
-        "Aminoglycoside antibiotic"
-      ],
+      "type": "/medicine/drug",
+      "id": "/en/streptomycin",
       "/medicine/drug/marketed_formulations": [
         "Streptomycin sulfate 400 injectable solution",
         "Streptomycin 1 lyophilized powder for injectable solution",
         "Streptomycin 1 lyophilized powder for injectable solution"
       ],
+      "/medicine/drug/active_moieties": [
+        "Streptomycin"
+      ],
       "/medicine/drug/physiologic_effect": [],
+      "/medicine/drug/drug_class": [
+        "Antimycobacterial",
+        "Aminoglycoside antibiotic"
+      ],
       "/medicine/drug/canonical_brands": []
     },
     {
       "/medicine/drug/part_of_compound_drug": [],
       "/medicine/drug/brands": [],
-      "id": "/en/oxytocin",
-      "type": "/medicine/drug",
-      "/medicine/drug/active_moieties": [
-        "Oxytocin"
-      ],
       "name": "Oxytocin",
-      "/medicine/drug/drug_class": [
-        "Oxytocic"
-      ],
+      "type": "/medicine/drug",
+      "id": "/en/oxytocin",
       "/medicine/drug/marketed_formulations": [
         "Oxytocin 10 injection",
         "Syntocinon 10 injectable solution",
         "Oxytocin 10 injection",
         "Oxytocin 10 injection"
       ],
+      "/medicine/drug/active_moieties": [
+        "Oxytocin"
+      ],
       "/medicine/drug/physiologic_effect": [
         "Increased Uterine Smooth Muscle Contraction or Tone"
+      ],
+      "/medicine/drug/drug_class": [
+        "Oxytocic"
       ],
       "/medicine/drug/canonical_brands": [
         "Pitocin"
@@ -2580,35 +2580,31 @@
     {
       "/medicine/drug/part_of_compound_drug": [],
       "/medicine/drug/brands": [],
-      "id": "/en/pancuronium",
-      "type": "/medicine/drug",
-      "/medicine/drug/active_moieties": [
-        "Pancuronium bromide"
-      ],
       "name": "Pancuronium bromide",
-      "/medicine/drug/drug_class": [
-        "Nondepolarizing Neuromuscular Blocker"
-      ],
+      "type": "/medicine/drug",
+      "id": "/en/pancuronium",
       "/medicine/drug/marketed_formulations": [
         "Pancuronium bromide 2 injection",
         "Pancuronium bromide 1 injection",
         "Pancuronium bromide 1 injectable solution"
       ],
+      "/medicine/drug/active_moieties": [
+        "Pancuronium bromide"
+      ],
       "/medicine/drug/physiologic_effect": [
         "Neuromuscular Nondepolarizing Blockade"
+      ],
+      "/medicine/drug/drug_class": [
+        "Nondepolarizing Neuromuscular Blocker"
       ],
       "/medicine/drug/canonical_brands": []
     },
     {
       "/medicine/drug/part_of_compound_drug": [],
       "/medicine/drug/brands": [],
-      "id": "/en/hyoscyamine",
-      "type": "/medicine/drug",
-      "/medicine/drug/active_moieties": [
-        "Hyoscyamine"
-      ],
       "name": "Hyoscyamine",
-      "/medicine/drug/drug_class": [],
+      "type": "/medicine/drug",
+      "id": "/en/hyoscyamine",
       "/medicine/drug/marketed_formulations": [
         "Hyoscyamine sulfate 0.375 tablet",
         "Hyoscyamine sulfate 0.025 elixir",
@@ -2624,7 +2620,11 @@
         "Hyoscyamine sulfate 0.125 liquid",
         "Hyoscyamine sulfate 0.5 injectable solution"
       ],
+      "/medicine/drug/active_moieties": [
+        "Hyoscyamine"
+      ],
       "/medicine/drug/physiologic_effect": [],
+      "/medicine/drug/drug_class": [],
       "/medicine/drug/canonical_brands": [
         "HyoMax-DT",
         "Oscimin",
@@ -2638,15 +2638,9 @@
     {
       "/medicine/drug/part_of_compound_drug": [],
       "/medicine/drug/brands": [],
-      "id": "/en/estradiol",
-      "type": "/medicine/drug",
-      "/medicine/drug/active_moieties": [
-        "Estradiol"
-      ],
       "name": "Estradiol",
-      "/medicine/drug/drug_class": [
-        "Estrogen"
-      ],
+      "type": "/medicine/drug",
+      "id": "/en/estradiol",
       "/medicine/drug/marketed_formulations": [
         "Estradiol 0.05 extended release patch",
         "Estradiol 0.05 patch",
@@ -2699,7 +2693,13 @@
         "Estradiol acetate 1.8 tablet",
         "Estradiol 0.1 extended release patch"
       ],
+      "/medicine/drug/active_moieties": [
+        "Estradiol"
+      ],
       "/medicine/drug/physiologic_effect": [],
+      "/medicine/drug/drug_class": [
+        "Estrogen"
+      ],
       "/medicine/drug/canonical_brands": [
         "Femring",
         "Estring",
@@ -2722,15 +2722,9 @@
     {
       "/medicine/drug/part_of_compound_drug": [],
       "/medicine/drug/brands": [],
-      "id": "/en/isotretinoin",
-      "type": "/medicine/drug",
-      "/medicine/drug/active_moieties": [
-        "Isotretinoin"
-      ],
       "name": "Isotretinoin",
-      "/medicine/drug/drug_class": [
-        "Retinoid"
-      ],
+      "type": "/medicine/drug",
+      "id": "/en/isotretinoin",
       "/medicine/drug/marketed_formulations": [
         "Isotretinoin 40 liquid filled capsule",
         "Isotretinoin 10 capsule",
@@ -2743,7 +2737,13 @@
         "Isotretinoin 40 capsule",
         "Isotretinoin 20 capsule"
       ],
+      "/medicine/drug/active_moieties": [
+        "Isotretinoin"
+      ],
       "/medicine/drug/physiologic_effect": [],
+      "/medicine/drug/drug_class": [
+        "Retinoid"
+      ],
       "/medicine/drug/canonical_brands": [
         "Myorisan",
         "Claravis",
@@ -2757,17 +2757,9 @@
       "/medicine/drug/brands": [
         "Valium"
       ],
-      "id": "/en/diazepam",
-      "type": "/medicine/drug",
-      "/medicine/drug/active_moieties": [
-        "Diazepam"
-      ],
       "name": "Diazepam",
-      "/medicine/drug/drug_class": [
-        "Benzodiazepine",
-        "Anxiolytic",
-        "Hypnotic"
-      ],
+      "type": "/medicine/drug",
+      "id": "/en/diazepam",
       "/medicine/drug/marketed_formulations": [
         "Diazepam 1 solution",
         "Diazepam intensol 5 concentrate solution",
@@ -2783,7 +2775,15 @@
         "Diazepam 5 tablet",
         "Diazepam 5 injection"
       ],
+      "/medicine/drug/active_moieties": [
+        "Diazepam"
+      ],
       "/medicine/drug/physiologic_effect": [],
+      "/medicine/drug/drug_class": [
+        "Benzodiazepine",
+        "Anxiolytic",
+        "Hypnotic"
+      ],
       "/medicine/drug/canonical_brands": [
         "Valium",
         "Diastat"
@@ -2798,15 +2798,9 @@
         "Warfant",
         "Marevan"
       ],
-      "id": "/en/warfarin",
-      "type": "/medicine/drug",
-      "/medicine/drug/active_moieties": [
-        "Warfarin"
-      ],
       "name": "Warfarin",
-      "/medicine/drug/drug_class": [
-        "Vitamin K antagonist"
-      ],
+      "type": "/medicine/drug",
+      "id": "/en/warfarin",
       "/medicine/drug/marketed_formulations": [
         "Warfarin sodium 7.5 tablet",
         "Warfarin sodium 5 tablet",
@@ -2820,7 +2814,13 @@
         "Warfarin sodium 1 tablet",
         "Warfarin sodium 2 tablet"
       ],
+      "/medicine/drug/active_moieties": [
+        "Warfarin"
+      ],
       "/medicine/drug/physiologic_effect": [],
+      "/medicine/drug/drug_class": [
+        "Vitamin K antagonist"
+      ],
       "/medicine/drug/canonical_brands": [
         "Coumadin",
         "Jantoven"
@@ -2829,16 +2829,9 @@
     {
       "/medicine/drug/part_of_compound_drug": [],
       "/medicine/drug/brands": [],
-      "id": "/en/heparin",
-      "type": "/medicine/drug",
-      "/medicine/drug/active_moieties": [
-        "Heparin"
-      ],
       "name": "Heparin",
-      "/medicine/drug/drug_class": [
-        "Anticoagulant",
-        "Heparin"
-      ],
+      "type": "/medicine/drug",
+      "id": "/en/heparin",
       "/medicine/drug/marketed_formulations": [
         "Heparin sodium 2000 injectable concentrate solution",
         "Heparin sodium 10 solution",
@@ -2867,7 +2860,14 @@
         "Heparin sodium 2 injectable solution",
         "Heparin sodium 10 injectable solution"
       ],
+      "/medicine/drug/active_moieties": [
+        "Heparin"
+      ],
       "/medicine/drug/physiologic_effect": [],
+      "/medicine/drug/drug_class": [
+        "Anticoagulant",
+        "Heparin"
+      ],
       "/medicine/drug/canonical_brands": []
     },
     {
@@ -2880,23 +2880,23 @@
         "Tenox",
         "Norkotral"
       ],
-      "id": "/en/temazepam",
-      "type": "/medicine/drug",
-      "/medicine/drug/active_moieties": [
-        "Temazepam"
-      ],
       "name": "Temazepam",
-      "/medicine/drug/drug_class": [
-        "Benzodiazepine",
-        "Hypnotic"
-      ],
+      "type": "/medicine/drug",
+      "id": "/en/temazepam",
       "/medicine/drug/marketed_formulations": [
         "Temazepam 30 capsule",
         "Temazepam 15 capsule",
         "Temazepam 7.5 capsule",
         "Temazepam 22.5 capsule"
       ],
+      "/medicine/drug/active_moieties": [
+        "Temazepam"
+      ],
       "/medicine/drug/physiologic_effect": [],
+      "/medicine/drug/drug_class": [
+        "Benzodiazepine",
+        "Hypnotic"
+      ],
       "/medicine/drug/canonical_brands": [
         "Restoril"
       ]
@@ -2904,15 +2904,9 @@
     {
       "/medicine/drug/part_of_compound_drug": [],
       "/medicine/drug/brands": [],
-      "id": "/en/fluvoxamine",
-      "type": "/medicine/drug",
-      "/medicine/drug/active_moieties": [
-        "Fluvoxamine"
-      ],
       "name": "Fluvoxamine",
-      "/medicine/drug/drug_class": [
-        "Serotonin reuptake inhibitor"
-      ],
+      "type": "/medicine/drug",
+      "id": "/en/fluvoxamine",
       "/medicine/drug/marketed_formulations": [
         "Fluvoxamine maleate 50 film coated tablet",
         "Fluvoxamine maleate 25 film coated tablet",
@@ -2926,26 +2920,32 @@
         "Fluvoxamine maleate 25 tablet",
         "Fluvoxamine maleate 100 film coated tablet"
       ],
+      "/medicine/drug/active_moieties": [
+        "Fluvoxamine"
+      ],
       "/medicine/drug/physiologic_effect": [],
+      "/medicine/drug/drug_class": [
+        "Serotonin reuptake inhibitor"
+      ],
       "/medicine/drug/canonical_brands": []
     },
     {
       "/medicine/drug/part_of_compound_drug": [],
       "/medicine/drug/brands": [],
-      "id": "/en/disulfiram",
-      "type": "/medicine/drug",
-      "/medicine/drug/active_moieties": [
-        "Disulfiram"
-      ],
       "name": "Disulfiram",
-      "/medicine/drug/drug_class": [
-        "Aldehyde Dehydrogenase Inhibitor"
-      ],
+      "type": "/medicine/drug",
+      "id": "/en/disulfiram",
       "/medicine/drug/marketed_formulations": [
         "Disulfiram 500 tablet",
         "Disulfiram 250 tablet"
       ],
+      "/medicine/drug/active_moieties": [
+        "Disulfiram"
+      ],
       "/medicine/drug/physiologic_effect": [],
+      "/medicine/drug/drug_class": [
+        "Aldehyde Dehydrogenase Inhibitor"
+      ],
       "/medicine/drug/canonical_brands": [
         "Antabuse"
       ]
@@ -2953,15 +2953,9 @@
     {
       "/medicine/drug/part_of_compound_drug": [],
       "/medicine/drug/brands": [],
-      "id": "/en/alprazolam",
-      "type": "/medicine/drug",
-      "/medicine/drug/active_moieties": [
-        "Alprazolam"
-      ],
       "name": "Alprazolam",
-      "/medicine/drug/drug_class": [
-        "Benzodiazepine"
-      ],
+      "type": "/medicine/drug",
+      "id": "/en/alprazolam",
       "/medicine/drug/marketed_formulations": [
         "Alprazolam 0.25 orally disintegrating tablet",
         "Alprazolam 1 concentrate solution",
@@ -2977,7 +2971,13 @@
         "Alprazolam 1 extended release tablet",
         "Alprazolam 0.5 orally disintegrating tablet"
       ],
+      "/medicine/drug/active_moieties": [
+        "Alprazolam"
+      ],
       "/medicine/drug/physiologic_effect": [],
+      "/medicine/drug/drug_class": [
+        "Benzodiazepine"
+      ],
       "/medicine/drug/canonical_brands": [
         "Niravam",
         "Xanax"
@@ -2986,17 +2986,9 @@
     {
       "/medicine/drug/part_of_compound_drug": [],
       "/medicine/drug/brands": [],
-      "id": "/en/lorazepam",
-      "type": "/medicine/drug",
-      "/medicine/drug/active_moieties": [
-        "Lorazepam"
-      ],
       "name": "Lorazepam",
-      "/medicine/drug/drug_class": [
-        "Benzodiazepine",
-        "Anxiolytic",
-        "Antiemetic"
-      ],
+      "type": "/medicine/drug",
+      "id": "/en/lorazepam",
       "/medicine/drug/marketed_formulations": [
         "Lorazepam 2 injectable solution",
         "Lorazepam 2 injection",
@@ -3010,7 +3002,15 @@
         "Lorazepam 2 concentrate",
         "Lorazepam 2 liquid"
       ],
+      "/medicine/drug/active_moieties": [
+        "Lorazepam"
+      ],
       "/medicine/drug/physiologic_effect": [],
+      "/medicine/drug/drug_class": [
+        "Benzodiazepine",
+        "Anxiolytic",
+        "Antiemetic"
+      ],
       "/medicine/drug/canonical_brands": [
         "Ativan"
       ]
@@ -3018,16 +3018,9 @@
     {
       "/medicine/drug/part_of_compound_drug": [],
       "/medicine/drug/brands": [],
-      "id": "/en/minocycline",
-      "type": "/medicine/drug",
-      "/medicine/drug/active_moieties": [
-        "Minocycline"
-      ],
       "name": "Minocycline",
-      "/medicine/drug/drug_class": [
-        "Tetracycline antibiotics",
-        "Tetracycline-class Drug"
-      ],
+      "type": "/medicine/drug",
+      "id": "/en/minocycline",
       "/medicine/drug/marketed_formulations": [
         "Minocycline hydrochloride 75 film coated tablet",
         "Minocycline hydrochloride 135 extended release tablet",
@@ -3054,7 +3047,14 @@
         "Minocycline hydrochloride 45 extended release tablet",
         "Minocycline hydrochloride 100 tablet"
       ],
+      "/medicine/drug/active_moieties": [
+        "Minocycline"
+      ],
       "/medicine/drug/physiologic_effect": [],
+      "/medicine/drug/drug_class": [
+        "Tetracycline antibiotics",
+        "Tetracycline-class Drug"
+      ],
       "/medicine/drug/canonical_brands": [
         "Solodyn",
         "Minocin",
@@ -3064,16 +3064,9 @@
     {
       "/medicine/drug/part_of_compound_drug": [],
       "/medicine/drug/brands": [],
-      "id": "/en/tramadol",
-      "type": "/medicine/drug",
-      "/medicine/drug/active_moieties": [
-        "Tramadol"
-      ],
       "name": "Tramadol",
-      "/medicine/drug/drug_class": [
-        "Analgesic",
-        "Opioid"
-      ],
+      "type": "/medicine/drug",
+      "id": "/en/tramadol",
       "/medicine/drug/marketed_formulations": [
         "Tramadol hydrochloride 200 extended release capsule",
         "Tramadol hydrochloride 50 coated tablet",
@@ -3091,7 +3084,14 @@
         "Tramadol hydrochloride 150 extended release capsule",
         "Tramadol hydrochloride 100 tablet"
       ],
+      "/medicine/drug/active_moieties": [
+        "Tramadol"
+      ],
       "/medicine/drug/physiologic_effect": [],
+      "/medicine/drug/drug_class": [
+        "Analgesic",
+        "Opioid"
+      ],
       "/medicine/drug/canonical_brands": [
         "ConZip",
         "Ryzolt"
@@ -3100,15 +3100,9 @@
     {
       "/medicine/drug/part_of_compound_drug": [],
       "/medicine/drug/brands": [],
-      "id": "/en/glipizide",
-      "type": "/medicine/drug",
-      "/medicine/drug/active_moieties": [
-        "Glipizide"
-      ],
       "name": "Glipizide",
-      "/medicine/drug/drug_class": [
-        "Sulfonylurea"
-      ],
+      "type": "/medicine/drug",
+      "id": "/en/glipizide",
       "/medicine/drug/marketed_formulations": [
         "Glipizide 10 tablet",
         "Glipizide 10 extended release tablet",
@@ -3119,7 +3113,13 @@
         "Glipizide 10 extended release film coated tablet",
         "Glipizide 5 extended release film coated tablet"
       ],
+      "/medicine/drug/active_moieties": [
+        "Glipizide"
+      ],
       "/medicine/drug/physiologic_effect": [],
+      "/medicine/drug/drug_class": [
+        "Sulfonylurea"
+      ],
       "/medicine/drug/canonical_brands": [
         "Glucotrol"
       ]
