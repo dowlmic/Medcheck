@@ -1,0 +1,4437 @@
+{
+ "result": [
+   {
+     "/medicine/drug/part_of_compound_drug": [],
+     "/medicine/drug/brands": [],
+     "/medicine/drug/marketed_formulations": [
+       "Aspirin 325 film coated tablet",
+       "Aspirin 325 coated tablet",
+       "Aspirin 500 powder",
+       "Aspirin 81 delayed release tablet",
+       "Aspirin 81 tablet",
+       "Aspirin 325 delayed release tablet",
+       "Aspirin 500 tablet",
+       "Aspirin 0.0999 delayed release tablet",
+       "Aspirin 81 film coated tablet",
+       "Aspirin 81 coated tablet",
+       "Aspirin 325 tablet",
+       "Aspirin 81 chewable tablet",
+       "Aspirin 0.1 delayed release tablet",
+       "Aspirin 325 tablet",
+       "Aspirin 81 orally disintegrating tablet",
+       "Aspirin 325 powder",
+       "Aspirin 500 film coated tablet",
+       "Aspirin 0.0999 coated tablet"
+     ],
+     "/medicine/drug/active_moieties": [
+       "Aspirin"
+     ],
+     "/medicine/drug/canonical_brands": [
+       "Fasprin",
+       "Ecotrin"
+     ],
+     "id": "/en/aspirin",
+     "/medicine/drug/physiologic_effect": [
+       "Decreased Prostaglandin Production"
+     ],
+     "type": "/medicine/drug",
+     "name": "Aspirin",
+     "ns0:/medicine/drug/marketed_formulations": [
+       "Aspirin 325 film coated tablet",
+       "Aspirin 325 coated tablet",
+       "Aspirin 500 powder",
+       "Aspirin 81 delayed release tablet",
+       "Aspirin 81 tablet",
+       "Aspirin 325 delayed release tablet",
+       "Aspirin 500 tablet",
+       "Aspirin 0.0999 delayed release tablet",
+       "Aspirin 81 film coated tablet",
+       "Aspirin 81 coated tablet",
+       "Aspirin 325 tablet",
+       "Aspirin 81 chewable tablet",
+       "Aspirin 0.1 delayed release tablet",
+       "Aspirin 325 tablet",
+       "Aspirin 81 orally disintegrating tablet",
+       "Aspirin 325 powder",
+       "Aspirin 500 film coated tablet",
+       "Aspirin 0.0999 coated tablet"
+     ],
+     "/medicine/drug/drug_class": [
+       "Analgesic",
+       "Nonsteroidal anti-inflammatory drug"
+     ]
+   },
+   {
+     "/medicine/drug/part_of_compound_drug": [],
+     "/medicine/drug/brands": [],
+     "/medicine/drug/marketed_formulations": [
+       "Ampicillin trihydrate 25 suspension",
+       "Ampicillin sodium 1 powder for injectable solution",
+       "Ampicillin sodium 2 powder for injectable solution",
+       "Ampicillin sodium 1 powder for injectable solution",
+       "Ampicillin sodium 500 powder for injectable solution",
+       "Ampicillin sodium 1 powder for injectable solution",
+       "Ampicillin trihydrate 50 suspension",
+       "Ampicillin sodium 100 powder for injectable solution",
+       "Ampicillin sodium 1 powder for injectable solution",
+       "Ampicillin trihydrate 500 capsule",
+       "Ampicillin sodium 2 powder for injectable solution",
+       "Ampicillin sodium 125 powder for injectable solution",
+       "Ampicillin trihydrate 250 capsule",
+       "Ampicillin sodium 1 powder for injectable solution",
+       "Ampicillin sodium 250 powder for injectable solution",
+       "Ampicillin sodium 10 powder for injectable solution",
+       "Ampicillin sodium 2 powder for injectable solution",
+       "Ampicillin sodium 1 powder for injectable solution"
+     ],
+     "/medicine/drug/active_moieties": [
+       "Ampicillin"
+     ],
+     "/medicine/drug/canonical_brands": [],
+     "id": "/en/ampicillin",
+     "/medicine/drug/physiologic_effect": [],
+     "type": "/medicine/drug",
+     "name": "Ampicillin",
+     "ns0:/medicine/drug/marketed_formulations": [
+       "Ampicillin trihydrate 25 suspension",
+       "Ampicillin sodium 1 powder for injectable solution",
+       "Ampicillin sodium 2 powder for injectable solution",
+       "Ampicillin sodium 1 powder for injectable solution",
+       "Ampicillin sodium 500 powder for injectable solution",
+       "Ampicillin sodium 1 powder for injectable solution",
+       "Ampicillin trihydrate 50 suspension",
+       "Ampicillin sodium 100 powder for injectable solution",
+       "Ampicillin sodium 1 powder for injectable solution",
+       "Ampicillin trihydrate 500 capsule",
+       "Ampicillin sodium 2 powder for injectable solution",
+       "Ampicillin sodium 125 powder for injectable solution",
+       "Ampicillin trihydrate 250 capsule",
+       "Ampicillin sodium 1 powder for injectable solution",
+       "Ampicillin sodium 250 powder for injectable solution",
+       "Ampicillin sodium 10 powder for injectable solution",
+       "Ampicillin sodium 2 powder for injectable solution",
+       "Ampicillin sodium 1 powder for injectable solution"
+     ],
+     "/medicine/drug/drug_class": [
+       "β-lactam antibiotic",
+       "Penicillin-class Antibacterial",
+       "Antibiotics"
+     ]
+   },
+   {
+     "/medicine/drug/part_of_compound_drug": [],
+     "/medicine/drug/brands": [
+       "Adderall",
+       "Dexedrine",
+       "ProCentra",
+       "Vyvanse"
+     ],
+     "/medicine/drug/marketed_formulations": [],
+     "/medicine/drug/active_moieties": [],
+     "/medicine/drug/canonical_brands": [],
+     "id": "/en/amphetamine",
+     "/medicine/drug/physiologic_effect": [],
+     "type": "/medicine/drug",
+     "name": "Amphetamine",
+     "ns0:/medicine/drug/marketed_formulations": [],
+     "/medicine/drug/drug_class": []
+   },
+   {
+     "/medicine/drug/part_of_compound_drug": [],
+     "/medicine/drug/brands": [],
+     "/medicine/drug/marketed_formulations": [
+       "Amoxicillin 200 soluable tablet",
+       "Amoxicillin 250 chewable tablet",
+       "Amoxicillin 775 extended release film coated tablet",
+       "Amoxicillin 250 tablet",
+       "Amoxicillin 500 capsule",
+       "Amoxicillin 200 tablet for suspension",
+       "Amoxicillin 500 film coated tablet",
+       "Amoxicillin 400 tablet for suspension",
+       "Amoxicillin 775 extended release tablet",
+       "Amoxicillin 40 suspension",
+       "Amoxicillin 200 chewable tablet",
+       "Amoxicillin 600 soluable tablet",
+       "Amoxicillin 40 powder for suspension",
+       "Amoxicillin 125 chewable tablet",
+       "Amoxicillin 80 suspension",
+       "Amoxicillin 250 capsule",
+       "Amoxicillin 400 soluable tablet",
+       "Amoxicillin 400 chewable tablet",
+       "Amoxicillin 25 powder for suspension",
+       "Amoxicillin 50 powder for suspension",
+       "Amoxicillin 80 powder for suspension",
+       "Amoxicillin 875 coated tablet",
+       "Amoxicillin 875 film coated tablet",
+       "Amoxicillin 500 capsule"
+     ],
+     "/medicine/drug/active_moieties": [
+       "Amoxicillin"
+     ],
+     "/medicine/drug/canonical_brands": [
+       "Moxatag",
+       "DisperMox"
+     ],
+     "id": "/en/amoxicillin",
+     "/medicine/drug/physiologic_effect": [],
+     "type": "/medicine/drug",
+     "name": "Amoxicillin",
+     "ns0:/medicine/drug/marketed_formulations": [
+       "Amoxicillin 200 soluable tablet",
+       "Amoxicillin 250 chewable tablet",
+       "Amoxicillin 775 extended release film coated tablet",
+       "Amoxicillin 250 tablet",
+       "Amoxicillin 500 capsule",
+       "Amoxicillin 200 tablet for suspension",
+       "Amoxicillin 500 film coated tablet",
+       "Amoxicillin 400 tablet for suspension",
+       "Amoxicillin 775 extended release tablet",
+       "Amoxicillin 40 suspension",
+       "Amoxicillin 200 chewable tablet",
+       "Amoxicillin 600 soluable tablet",
+       "Amoxicillin 40 powder for suspension",
+       "Amoxicillin 125 chewable tablet",
+       "Amoxicillin 80 suspension",
+       "Amoxicillin 250 capsule",
+       "Amoxicillin 400 soluable tablet",
+       "Amoxicillin 400 chewable tablet",
+       "Amoxicillin 25 powder for suspension",
+       "Amoxicillin 50 powder for suspension",
+       "Amoxicillin 80 powder for suspension",
+       "Amoxicillin 875 coated tablet",
+       "Amoxicillin 875 film coated tablet",
+       "Amoxicillin 500 capsule"
+     ],
+     "/medicine/drug/drug_class": [
+       "β-lactam antibiotic",
+       "Penicillin-class Antibacterial"
+     ]
+   },
+   {
+     "/medicine/drug/part_of_compound_drug": [],
+     "/medicine/drug/brands": [],
+     "/medicine/drug/marketed_formulations": [
+       "Chloramphenicol sodium succinate 1 lyophilized powder for injectable solution",
+       "Chloramphenicol 10 ointment",
+       "Chloramphenicol 5 solution",
+       "Chloramphenicol 5 solution",
+       "Chloramphenicol sodium succinate 100 injection",
+       "Chloramphenicol sodium succinate 100 lyophilized powder for injectable solution"
+     ],
+     "/medicine/drug/active_moieties": [
+       "Chloramphenicol"
+     ],
+     "/medicine/drug/canonical_brands": [
+       "Chloromycetin",
+       "Econochlor"
+     ],
+     "id": "/en/chloramphenicol",
+     "/medicine/drug/physiologic_effect": [],
+     "type": "/medicine/drug",
+     "name": "Chloramphenicol",
+     "ns0:/medicine/drug/marketed_formulations": [
+       "Chloramphenicol sodium succinate 1 lyophilized powder for injectable solution",
+       "Chloramphenicol 10 ointment",
+       "Chloramphenicol 5 solution",
+       "Chloramphenicol 5 solution",
+       "Chloramphenicol sodium succinate 100 injection",
+       "Chloramphenicol sodium succinate 100 lyophilized powder for injectable solution"
+     ],
+     "/medicine/drug/drug_class": [
+       "Amphenicol"
+     ]
+   },
+   {
+     "/medicine/drug/part_of_compound_drug": [],
+     "/medicine/drug/brands": [],
+     "/medicine/drug/marketed_formulations": [
+       "Ciprofloxacin hydrochloride 250 tablet",
+       "Ciprofloxacin hydrochloride 250 film coated tablet",
+       "Ciprofloxacin 200 injection",
+       "Ciprofloxacin hydrochloride 750 tablet",
+       "Ciprofloxacin hydrochloride 500 film coated tablet",
+       "Ciprofloxacin 2 injectable solution",
+       "Ciprofloxacin 400 injection",
+       "Ciprofloxacin 2 concentrate solution",
+       "Ciprofloxacin 750 tablet",
+       "Ciprofloxacin and ciprofloxacin hydrochloride 425.2/574.9 extended release film coated tablet",
+       "Ciprofloxacin hydrochloride 750 film coated tablet",
+       "Ciprofloxacin 10 injection",
+       "Ciprofloxacin 10 injectable concentrate solution",
+       "Ciprofloxacin 250 tablet",
+       "Ciprofloxacin 500 film coated tablet",
+       "Ciprofloxacin 500 tablet",
+       "Ciprofloxacin hydrochloride 3.33 ointment",
+       "Ciprofloxacin 750 film coated tablet",
+       "Ciprofloxacin 10 injectable solution",
+       "Ciprofloxacin hydrochloride 3.5 solution/drops",
+       "Ciprofloxacin 10 concentrate solution",
+       "Ciprofloxacin hydrochloride 3.5 solution",
+       "Ciprofloxacin and ciprofloxacin hydrochloride 212.6/287.5 extended release film coated tablet",
+       "Ciprofloxacin hydrochloride 500 extended release film coated tablet",
+       "Ciprofloxacin 2 solution/drops",
+       "Ciprofloxacin 500 coated tablet",
+       "Ciprofloxacin hydrochloride 500 coated tablet",
+       "Ciprofloxacin 1000 film coated tablet",
+       "Ciprofloxacin 2 injection",
+       "Ciprofloxacin 50 kit",
+       "Ciprofloxacin 1000 extended release film coated tablet",
+       "Ciprofloxacin hydrochloride 3 solution/drops",
+       "Ciprofloxacin 250 film coated tablet",
+       "Ciprofloxacin 3 solution/drops",
+       "Ciprofloxacin 100 kit",
+       "Ciprofloxacin hydrochloride 500 tablet",
+       "Ciprofloxacin 100 film coated tablet",
+       "Ciprofloxacin hydrochloride 3.5 solution/drops",
+       "Ciprofloxacin 287.5 extended release film coated tablet"
+     ],
+     "/medicine/drug/active_moieties": [
+       "Ciprofloxacin"
+     ],
+     "/medicine/drug/canonical_brands": [
+       "Ciloxan",
+       "Cipro",
+       "Cetraxal"
+     ],
+     "id": "/en/ciprofloxacin",
+     "/medicine/drug/physiologic_effect": [],
+     "type": "/medicine/drug",
+     "name": "Ciprofloxacin",
+     "ns0:/medicine/drug/marketed_formulations": [
+       "Ciprofloxacin hydrochloride 250 tablet",
+       "Ciprofloxacin hydrochloride 250 film coated tablet",
+       "Ciprofloxacin 200 injection",
+       "Ciprofloxacin hydrochloride 750 tablet",
+       "Ciprofloxacin hydrochloride 500 film coated tablet",
+       "Ciprofloxacin 2 injectable solution",
+       "Ciprofloxacin 400 injection",
+       "Ciprofloxacin 2 concentrate solution",
+       "Ciprofloxacin 750 tablet",
+       "Ciprofloxacin and ciprofloxacin hydrochloride 425.2/574.9 extended release film coated tablet",
+       "Ciprofloxacin hydrochloride 750 film coated tablet",
+       "Ciprofloxacin 10 injection",
+       "Ciprofloxacin 10 injectable concentrate solution",
+       "Ciprofloxacin 250 tablet",
+       "Ciprofloxacin 500 film coated tablet",
+       "Ciprofloxacin 500 tablet",
+       "Ciprofloxacin hydrochloride 3.33 ointment",
+       "Ciprofloxacin 750 film coated tablet",
+       "Ciprofloxacin 10 injectable solution",
+       "Ciprofloxacin hydrochloride 3.5 solution/drops",
+       "Ciprofloxacin 10 concentrate solution",
+       "Ciprofloxacin hydrochloride 3.5 solution",
+       "Ciprofloxacin and ciprofloxacin hydrochloride 212.6/287.5 extended release film coated tablet",
+       "Ciprofloxacin hydrochloride 500 extended release film coated tablet",
+       "Ciprofloxacin 2 solution/drops",
+       "Ciprofloxacin 500 coated tablet",
+       "Ciprofloxacin hydrochloride 500 coated tablet",
+       "Ciprofloxacin 1000 film coated tablet",
+       "Ciprofloxacin 2 injection",
+       "Ciprofloxacin 50 kit",
+       "Ciprofloxacin 1000 extended release film coated tablet",
+       "Ciprofloxacin hydrochloride 3 solution/drops",
+       "Ciprofloxacin 250 film coated tablet",
+       "Ciprofloxacin 3 solution/drops",
+       "Ciprofloxacin 100 kit",
+       "Ciprofloxacin hydrochloride 500 tablet",
+       "Ciprofloxacin 100 film coated tablet",
+       "Ciprofloxacin hydrochloride 3.5 solution/drops",
+       "Ciprofloxacin 287.5 extended release film coated tablet"
+     ],
+     "/medicine/drug/drug_class": [
+       "Quinolone"
+     ]
+   },
+   {
+     "/medicine/drug/part_of_compound_drug": [],
+     "/medicine/drug/brands": [],
+     "/medicine/drug/marketed_formulations": [
+       "Carbamazepine 100 chewable tablet",
+       "Carbamazepine 400 extended release tablet",
+       "Carbamazepine 200 extended release tablet",
+       "Carbamazepine 100 tablet",
+       "Carbamazepine 200 tablet",
+       "Carbamazepine 100 extended release tablet",
+       "Carbamazepine 300 extended release capsule",
+       "Carbamazepine 300 tablet",
+       "Carbamazepine 400 tablet",
+       "Carbamazepine 100 extended release capsule",
+       "Carbamazepine 20 suspension",
+       "Carbamazepine 200 extended release capsule",
+       "Carbamazepine 200 chewable tablet"
+     ],
+     "/medicine/drug/active_moieties": [
+       "Carbamazepine"
+     ],
+     "/medicine/drug/canonical_brands": [
+       "Carbatrol",
+       "Epitol",
+       "Tegretol"
+     ],
+     "id": "/en/carbamazepine",
+     "/medicine/drug/physiologic_effect": [
+       "Decreased Central Nervous System Disorganized Electrical Activity"
+     ],
+     "type": "/medicine/drug",
+     "name": "Carbamazepine",
+     "ns0:/medicine/drug/marketed_formulations": [
+       "Carbamazepine 100 chewable tablet",
+       "Carbamazepine 400 extended release tablet",
+       "Carbamazepine 200 extended release tablet",
+       "Carbamazepine 100 tablet",
+       "Carbamazepine 200 tablet",
+       "Carbamazepine 100 extended release tablet",
+       "Carbamazepine 300 extended release capsule",
+       "Carbamazepine 300 tablet",
+       "Carbamazepine 400 tablet",
+       "Carbamazepine 100 extended release capsule",
+       "Carbamazepine 20 suspension",
+       "Carbamazepine 200 extended release capsule",
+       "Carbamazepine 200 chewable tablet"
+     ],
+     "/medicine/drug/drug_class": [
+       "Carboxamide",
+       "Anti-epileptic Agent",
+       "Mood stabilizer"
+     ]
+   },
+   {
+     "/medicine/drug/part_of_compound_drug": [],
+     "/medicine/drug/brands": [],
+     "/medicine/drug/marketed_formulations": [
+       "Cocaine hydrochloride 100 solution",
+       "Cocaine hydrochloride 40 solution"
+     ],
+     "/medicine/drug/active_moieties": [
+       "Cocaine"
+     ],
+     "/medicine/drug/canonical_brands": [],
+     "id": "/en/cocaine",
+     "/medicine/drug/physiologic_effect": [],
+     "type": "/medicine/drug",
+     "name": "Cocaine",
+     "ns0:/medicine/drug/marketed_formulations": [
+       "Cocaine hydrochloride 100 solution",
+       "Cocaine hydrochloride 40 solution"
+     ],
+     "/medicine/drug/drug_class": [
+       "Local anesthetic"
+     ]
+   },
+   {
+     "/medicine/drug/part_of_compound_drug": [],
+     "/medicine/drug/brands": [],
+     "/medicine/drug/marketed_formulations": [
+       "Codeine sulfate 15 tablet",
+       "Codeine sulfate 60 tablet",
+       "Codeine sulfate 30 tablet"
+     ],
+     "/medicine/drug/active_moieties": [
+       "Codeine"
+     ],
+     "/medicine/drug/canonical_brands": [],
+     "id": "/en/codeine",
+     "/medicine/drug/physiologic_effect": [],
+     "type": "/medicine/drug",
+     "name": "Codeine",
+     "ns0:/medicine/drug/marketed_formulations": [
+       "Codeine sulfate 15 tablet",
+       "Codeine sulfate 60 tablet",
+       "Codeine sulfate 30 tablet"
+     ],
+     "/medicine/drug/drug_class": [
+       "Opiate",
+       "Analgesic",
+       "Antidiarrhoeal"
+     ]
+   },
+   {
+     "/medicine/drug/part_of_compound_drug": [],
+     "/medicine/drug/brands": [],
+     "/medicine/drug/marketed_formulations": [],
+     "/medicine/drug/active_moieties": [],
+     "/medicine/drug/canonical_brands": [],
+     "id": "/en/dehydroepiandrosterone",
+     "/medicine/drug/physiologic_effect": [],
+     "type": "/medicine/drug",
+     "name": "Dehydroepiandrosterone",
+     "ns0:/medicine/drug/marketed_formulations": [],
+     "/medicine/drug/drug_class": []
+   },
+   {
+     "/medicine/drug/part_of_compound_drug": [],
+     "/medicine/drug/brands": [],
+     "/medicine/drug/marketed_formulations": [
+       "Erythromycin lactobionate 500 lyophilized powder for injectable solution",
+       "Erythromycin 0.008 solution",
+       "Erythromycin 20 solution",
+       "Erythromycin ethylsuccinate 80 suspension",
+       "Erythromycin 20 gel",
+       "Erythromycin 0.5 ointment",
+       "Erythromycin 500 film coated tablet",
+       "Erythromycin 20 solution",
+       "Erythromycin 333 delayed release tablet",
+       "Erythromycin lactobionate 50 lyophilized powder for injectable solution",
+       "Erythromycin stearate 500 film coated tablet",
+       "Erythromycin 250 delayed release pellets in capsule",
+       "Erythromycin 20 solution",
+       "Erythromycin 250 delayed release capsule",
+       "Erythromycin 250 film coated tablet",
+       "Erythromycin 250 coated pellets in capsule",
+       "Erythromycin 5 ointment",
+       "Erythromycin 333 tablet",
+       "Erythromycin 15 solution",
+       "Erythromycin ethylsuccinate 40 granule for suspension",
+       "Erythromycin ethylsuccinate 40 suspension",
+       "Erythromycin lactobionate 1 lyophilized powder for injectable solution",
+       "Erythromycin 250 delayed release tablet",
+       "Erythromycin base 500 tablet",
+       "Erythromycin 20 ointment",
+       "Erythromycin ethylsuccinate 400 film coated tablet",
+       "Erythromycin stearate 250 film coated tablet",
+       "Erythromycin ethylsuccinate 400 tablet",
+       "Erythromycin 20 solution",
+       "Erythromycin 500 delayed release tablet",
+       "Erythromycin ethylsuccinate 333 tablet",
+       "Erythromycin ethylsuccinate 500 tablet"
+     ],
+     "/medicine/drug/active_moieties": [
+       "Erythromycin"
+     ],
+     "/medicine/drug/canonical_brands": [
+       "Ery",
+       "Ery-tab",
+       "Erythra-Derm",
+       "Eryc",
+       "Ery-Ped",
+       "Pce",
+       "Akne-mycin",
+       "Ilotycin",
+       "T-Stat"
+     ],
+     "id": "/en/erythromycin",
+     "/medicine/drug/physiologic_effect": [
+       "Decreased Sebaceous Gland Activity"
+     ],
+     "type": "/medicine/drug",
+     "name": "Erythromycin",
+     "ns0:/medicine/drug/marketed_formulations": [
+       "Erythromycin lactobionate 500 lyophilized powder for injectable solution",
+       "Erythromycin 0.008 solution",
+       "Erythromycin 20 solution",
+       "Erythromycin ethylsuccinate 80 suspension",
+       "Erythromycin 20 gel",
+       "Erythromycin 0.5 ointment",
+       "Erythromycin 500 film coated tablet",
+       "Erythromycin 20 solution",
+       "Erythromycin 333 delayed release tablet",
+       "Erythromycin lactobionate 50 lyophilized powder for injectable solution",
+       "Erythromycin stearate 500 film coated tablet",
+       "Erythromycin 250 delayed release pellets in capsule",
+       "Erythromycin 20 solution",
+       "Erythromycin 250 delayed release capsule",
+       "Erythromycin 250 film coated tablet",
+       "Erythromycin 250 coated pellets in capsule",
+       "Erythromycin 5 ointment",
+       "Erythromycin 333 tablet",
+       "Erythromycin 15 solution",
+       "Erythromycin ethylsuccinate 40 granule for suspension",
+       "Erythromycin ethylsuccinate 40 suspension",
+       "Erythromycin lactobionate 1 lyophilized powder for injectable solution",
+       "Erythromycin 250 delayed release tablet",
+       "Erythromycin base 500 tablet",
+       "Erythromycin 20 ointment",
+       "Erythromycin ethylsuccinate 400 film coated tablet",
+       "Erythromycin stearate 250 film coated tablet",
+       "Erythromycin ethylsuccinate 400 tablet",
+       "Erythromycin 20 solution",
+       "Erythromycin 500 delayed release tablet",
+       "Erythromycin ethylsuccinate 333 tablet",
+       "Erythromycin ethylsuccinate 500 tablet"
+     ],
+     "/medicine/drug/drug_class": [
+       "Macrolide Antibiotic",
+       "Macrolide Antimicrobial"
+     ]
+   },
+   {
+     "/medicine/drug/part_of_compound_drug": [],
+     "/medicine/drug/brands": [],
+     "/medicine/drug/marketed_formulations": [
+       "Epinephrine 1 injection",
+       "Epinephrine 1 injectable solution",
+       "Epinephrine 1 injection",
+       "Epinephrine 0.1 injection",
+       "Epinephrine bitartrate 0.16 metered aerosol",
+       "Epinephrine 0.22 inhalant",
+       "Epinephrine 1 injectable solution",
+       "Epinephrine 0.3 injection",
+       "Epinephrine 0.1 injectable solution",
+       "Epinephrine 0.1 injectable solution",
+       "Epinephrine 0.5 injection",
+       "Epinephrine 0.15 injection",
+       "Epinephrine 1 injection",
+       "Epinephrine 1 injectable solution"
+     ],
+     "/medicine/drug/active_moieties": [
+       "Epinephrine"
+     ],
+     "/medicine/drug/canonical_brands": [
+       "EpiPen",
+       "Adrenaclick",
+       "Medihaler-Epi",
+       "Twinject"
+     ],
+     "id": "/en/epinephrine",
+     "/medicine/drug/physiologic_effect": [],
+     "type": "/medicine/drug",
+     "name": "Epinephrine",
+     "ns0:/medicine/drug/marketed_formulations": [
+       "Epinephrine 1 injection",
+       "Epinephrine 1 injectable solution",
+       "Epinephrine 1 injection",
+       "Epinephrine 0.1 injection",
+       "Epinephrine bitartrate 0.16 metered aerosol",
+       "Epinephrine 0.22 inhalant",
+       "Epinephrine 1 injectable solution",
+       "Epinephrine 0.3 injection",
+       "Epinephrine 0.1 injectable solution",
+       "Epinephrine 0.1 injectable solution",
+       "Epinephrine 0.5 injection",
+       "Epinephrine 0.15 injection",
+       "Epinephrine 1 injection",
+       "Epinephrine 1 injectable solution"
+     ],
+     "/medicine/drug/drug_class": [
+       "Catecholamine",
+       "Beta-adrenergic agonist",
+       "Alpha-adrenergic agonist"
+     ]
+   },
+   {
+     "/medicine/drug/part_of_compound_drug": [],
+     "/medicine/drug/brands": [],
+     "/medicine/drug/marketed_formulations": [],
+     "/medicine/drug/active_moieties": [],
+     "/medicine/drug/canonical_brands": [],
+     "id": "/en/flunitrazepam",
+     "/medicine/drug/physiologic_effect": [],
+     "type": "/medicine/drug",
+     "name": "Flunitrazepam",
+     "ns0:/medicine/drug/marketed_formulations": [],
+     "/medicine/drug/drug_class": [
+       "Benzodiazepine"
+     ]
+   },
+   {
+     "/medicine/drug/part_of_compound_drug": [],
+     "/medicine/drug/brands": [
+       "Sodium oxybate"
+     ],
+     "/medicine/drug/marketed_formulations": [
+       "Sodium oxybate 500 solution"
+     ],
+     "/medicine/drug/active_moieties": [
+       "gamma-Hydroxybutyric acid"
+     ],
+     "/medicine/drug/canonical_brands": [
+       "Sodium oxybate"
+     ],
+     "id": "/en/gamma-hydroxybutyric_acid",
+     "/medicine/drug/physiologic_effect": [
+       "Central nervous system depression",
+       "Decreased Central Nervous System Organized Electrical Activity"
+     ],
+     "type": "/medicine/drug",
+     "name": "gamma-Hydroxybutyric acid",
+     "ns0:/medicine/drug/marketed_formulations": [
+       "Sodium oxybate 500 solution"
+     ],
+     "/medicine/drug/drug_class": [
+       "Central Nervous System Depressant"
+     ]
+   },
+   {
+     "/medicine/drug/part_of_compound_drug": [],
+     "/medicine/drug/brands": [],
+     "/medicine/drug/marketed_formulations": [],
+     "/medicine/drug/active_moieties": [],
+     "/medicine/drug/canonical_brands": [],
+     "id": "/en/heroin",
+     "/medicine/drug/physiologic_effect": [],
+     "type": "/medicine/drug",
+     "name": "Heroin",
+     "ns0:/medicine/drug/marketed_formulations": [],
+     "/medicine/drug/drug_class": []
+   },
+   {
+     "/medicine/drug/part_of_compound_drug": [],
+     "/medicine/drug/brands": [
+       "Vicodin"
+     ],
+     "/medicine/drug/marketed_formulations": [],
+     "/medicine/drug/active_moieties": [],
+     "/medicine/drug/canonical_brands": [],
+     "id": "/en/hydrocodone",
+     "/medicine/drug/physiologic_effect": [],
+     "type": "/medicine/drug",
+     "name": "Hydrocodone",
+     "ns0:/medicine/drug/marketed_formulations": [],
+     "/medicine/drug/drug_class": [
+       "Analgesic"
+     ]
+   },
+   {
+     "/medicine/drug/part_of_compound_drug": [],
+     "/medicine/drug/brands": [],
+     "/medicine/drug/marketed_formulations": [
+       "Ketamine hydrochloride 50 injectable concentrate solution",
+       "Ketamine hydrochloride 100 injection",
+       "Ketamine hydrochloride 100 injectable concentrate solution",
+       "Ketamine hydrochloride 100 injectable solution",
+       "Ketamine hydrochloride 50 injection",
+       "Ketamine hydrochloride 10 injection",
+       "Ketamine hydrochloride 10 injectable solution",
+       "Ketamine hydrochloride 50 injectable solution"
+     ],
+     "/medicine/drug/active_moieties": [
+       "Ketamine"
+     ],
+     "/medicine/drug/canonical_brands": [
+       "Ketalar"
+     ],
+     "id": "/en/ketamine",
+     "/medicine/drug/physiologic_effect": [
+       "General anaesthesia"
+     ],
+     "type": "/medicine/drug",
+     "name": "Ketamine",
+     "ns0:/medicine/drug/marketed_formulations": [
+       "Ketamine hydrochloride 50 injectable concentrate solution",
+       "Ketamine hydrochloride 100 injection",
+       "Ketamine hydrochloride 100 injectable concentrate solution",
+       "Ketamine hydrochloride 100 injectable solution",
+       "Ketamine hydrochloride 50 injection",
+       "Ketamine hydrochloride 10 injection",
+       "Ketamine hydrochloride 10 injectable solution",
+       "Ketamine hydrochloride 50 injectable solution"
+     ],
+     "/medicine/drug/drug_class": [
+       "NMDA receptor antagonist",
+       "General anaesthetic"
+     ]
+   },
+   {
+     "/medicine/drug/part_of_compound_drug": [],
+     "/medicine/drug/brands": [],
+     "/medicine/drug/marketed_formulations": [
+       "Ketoprofen 50 capsule",
+       "Ketoprofen 150 extended release capsule",
+       "Ketoprofen 75 tablet",
+       "Ketoprofen 200 extended release capsule",
+       "Ketoprofen 75 capsule",
+       "Ketoprofen 100 extended release capsule"
+     ],
+     "/medicine/drug/active_moieties": [
+       "Ketoprofen"
+     ],
+     "/medicine/drug/canonical_brands": [],
+     "id": "/en/ketoprofen",
+     "/medicine/drug/physiologic_effect": [],
+     "type": "/medicine/drug",
+     "name": "Ketoprofen",
+     "ns0:/medicine/drug/marketed_formulations": [
+       "Ketoprofen 50 capsule",
+       "Ketoprofen 150 extended release capsule",
+       "Ketoprofen 75 tablet",
+       "Ketoprofen 200 extended release capsule",
+       "Ketoprofen 75 capsule",
+       "Ketoprofen 100 extended release capsule"
+     ],
+     "/medicine/drug/drug_class": [
+       "Nonsteroidal anti-inflammatory drug",
+       "Analgesic"
+     ]
+   },
+   {
+     "/medicine/drug/part_of_compound_drug": [],
+     "/medicine/drug/brands": [],
+     "/medicine/drug/marketed_formulations": [],
+     "/medicine/drug/active_moieties": [],
+     "/medicine/drug/canonical_brands": [],
+     "id": "/en/lsd",
+     "/medicine/drug/physiologic_effect": [],
+     "type": "/medicine/drug",
+     "name": "Lysergic acid diethylamide",
+     "ns0:/medicine/drug/marketed_formulations": [],
+     "/medicine/drug/drug_class": []
+   },
+   {
+     "/medicine/drug/part_of_compound_drug": [],
+     "/medicine/drug/brands": [],
+     "/medicine/drug/marketed_formulations": [
+       "Morphine sulfate 100 extended release capsule",
+       "Morphine sulfate 4 solution",
+       "Morphine sulfate 60 tablet",
+       "Morphine sulfate 100 tablet",
+       "Morphine sulfate 1 injectable solution",
+       "Morphine sulfate 200 tablet",
+       "Morphine sulfate 2 injectable solution",
+       "Morphine sulfate 10 injectable solution",
+       "Morphine sulfate 1 injectable solution",
+       "Morphine sulfate 60 extended release film coated tablet",
+       "Morphine sulfate 10 extended release capsule",
+       "Morphine sulfate 15 extended release tablet",
+       "Morphine sulfate 5 injectable solution",
+       "Morphine sulfate 20 concentrate solution",
+       "Morphine sulfate 90 extended release capsule",
+       "Morphine sulfate 15 extended release film coated tablet",
+       "Morphine sulfate 10 injection",
+       "Morphine sulfate 0.5 injectable solution",
+       "Morphine 10 tincture",
+       "Morphine sulfate 2 solution",
+       "Morphine sulfate 0.5 injectable solution",
+       "Morphine sulfate 60 extended release capsule",
+       "Morphine sulfate 0.5 injectable solution",
+       "Morphine sulfate 10 injectable lipid complex",
+       "Morphine sulfate 0.5 injection",
+       "Morphine sulfate 1 injection",
+       "Morphine sulfate 20 extended release capsule",
+       "Morphine sulfate 4 injectable solution",
+       "Morphine sulfate 75 extended release capsule",
+       "Morphine sulfate 14.286 injection",
+       "Morphine sulfate 30 extended release capsule",
+       "Morphine 10 solution",
+       "Morphine sulfate 200 extended release tablet",
+       "Morphine sulfate 1 injection",
+       "Morphine sulfate 100 extended release film coated tablet",
+       "Morphine sulfate 60 extended release tablet",
+       "Morphine sulfate 60 extended release coated capsule",
+       "Morphine sulfate 30 tablet",
+       "Morphine sulfate 50 extended release capsule",
+       "Morphine sulfate 200 extended release film coated tablet",
+       "Morphine sulfate 15 tablet",
+       "Morphine sulfate 1 injectable solution",
+       "Morphine sulfate 8 injectable solution",
+       "Morphine sulfate 20 solution",
+       "Morphine sulfate 30 extended release tablet",
+       "Morphine sulfate 100 extended release tablet",
+       "Morphine sulfate 8 injection",
+       "Morphine sulfate 200 extended release capsule",
+       "Morphine sulfate 15 injectable solution",
+       "Morphine sulfate 45 extended release capsule",
+       "Morphine sulfate 30 extended release film coated tablet",
+       "Morphine sulfate 20 capsule",
+       "Morphine sulfate 5 injection",
+       "Morphine sulfate 120 extended release capsule",
+       "Morphine sulfate 15 injection",
+       "Morphine sulfate 80 extended release capsule",
+       "Morphine sulfate 1 injectable solution"
+     ],
+     "/medicine/drug/active_moieties": [
+       "Morphine"
+     ],
+     "/medicine/drug/canonical_brands": [
+       "Avinza",
+       "Astramorph",
+       "Duramorph",
+       "DepoDur"
+     ],
+     "id": "/en/morphine",
+     "/medicine/drug/physiologic_effect": [],
+     "type": "/medicine/drug",
+     "name": "Morphine",
+     "ns0:/medicine/drug/marketed_formulations": [
+       "Morphine sulfate 100 extended release capsule",
+       "Morphine sulfate 4 solution",
+       "Morphine sulfate 60 tablet",
+       "Morphine sulfate 100 tablet",
+       "Morphine sulfate 1 injectable solution",
+       "Morphine sulfate 200 tablet",
+       "Morphine sulfate 2 injectable solution",
+       "Morphine sulfate 10 injectable solution",
+       "Morphine sulfate 1 injectable solution",
+       "Morphine sulfate 60 extended release film coated tablet",
+       "Morphine sulfate 10 extended release capsule",
+       "Morphine sulfate 15 extended release tablet",
+       "Morphine sulfate 5 injectable solution",
+       "Morphine sulfate 20 concentrate solution",
+       "Morphine sulfate 90 extended release capsule",
+       "Morphine sulfate 15 extended release film coated tablet",
+       "Morphine sulfate 10 injection",
+       "Morphine sulfate 0.5 injectable solution",
+       "Morphine 10 tincture",
+       "Morphine sulfate 2 solution",
+       "Morphine sulfate 0.5 injectable solution",
+       "Morphine sulfate 60 extended release capsule",
+       "Morphine sulfate 0.5 injectable solution",
+       "Morphine sulfate 10 injectable lipid complex",
+       "Morphine sulfate 0.5 injection",
+       "Morphine sulfate 1 injection",
+       "Morphine sulfate 20 extended release capsule",
+       "Morphine sulfate 4 injectable solution",
+       "Morphine sulfate 75 extended release capsule",
+       "Morphine sulfate 14.286 injection",
+       "Morphine sulfate 30 extended release capsule",
+       "Morphine 10 solution",
+       "Morphine sulfate 200 extended release tablet",
+       "Morphine sulfate 1 injection",
+       "Morphine sulfate 100 extended release film coated tablet",
+       "Morphine sulfate 60 extended release tablet",
+       "Morphine sulfate 60 extended release coated capsule",
+       "Morphine sulfate 30 tablet",
+       "Morphine sulfate 50 extended release capsule",
+       "Morphine sulfate 200 extended release film coated tablet",
+       "Morphine sulfate 15 tablet",
+       "Morphine sulfate 1 injectable solution",
+       "Morphine sulfate 8 injectable solution",
+       "Morphine sulfate 20 solution",
+       "Morphine sulfate 30 extended release tablet",
+       "Morphine sulfate 100 extended release tablet",
+       "Morphine sulfate 8 injection",
+       "Morphine sulfate 200 extended release capsule",
+       "Morphine sulfate 15 injectable solution",
+       "Morphine sulfate 45 extended release capsule",
+       "Morphine sulfate 30 extended release film coated tablet",
+       "Morphine sulfate 20 capsule",
+       "Morphine sulfate 5 injection",
+       "Morphine sulfate 120 extended release capsule",
+       "Morphine sulfate 15 injection",
+       "Morphine sulfate 80 extended release capsule",
+       "Morphine sulfate 1 injectable solution"
+     ],
+     "/medicine/drug/drug_class": [
+       "Analgesic",
+       "Opioid"
+     ]
+   },
+   {
+     "/medicine/drug/part_of_compound_drug": [],
+     "/medicine/drug/brands": [
+       "Provigil"
+     ],
+     "/medicine/drug/marketed_formulations": [
+       "Modafinil 100 tablet",
+       "Modafinil 200 tablet"
+     ],
+     "/medicine/drug/active_moieties": [
+       "Modafinil"
+     ],
+     "/medicine/drug/canonical_brands": [
+       "Provigil"
+     ],
+     "id": "/en/modafinil",
+     "/medicine/drug/physiologic_effect": [
+       "Central Nervous System Stimulation",
+       "Increased Sympathetic Activity"
+     ],
+     "type": "/medicine/drug",
+     "name": "Modafinil",
+     "ns0:/medicine/drug/marketed_formulations": [
+       "Modafinil 100 tablet",
+       "Modafinil 200 tablet"
+     ],
+     "/medicine/drug/drug_class": [
+       "Sympathomimetic-like Agent"
+     ]
+   },
+   {
+     "/medicine/drug/part_of_compound_drug": [],
+     "/medicine/drug/brands": [],
+     "/medicine/drug/marketed_formulations": [
+       "Methadone hydrochloride 10 concentrate",
+       "Methadone hydrochloride 10 tablet",
+       "Methadone hydrochloride 5 tablet",
+       "Methadone hydrochloride 40 tablet",
+       "Methadone hydrochloride 1 solution",
+       "Methadone hydrochloride 10 injectable solution",
+       "Methadone hydrochloride 1 powder",
+       "Methadone hydrochloride 2 solution",
+       "Methadone hydrochloride 10 injectable solution"
+     ],
+     "/medicine/drug/active_moieties": [
+       "Methadone"
+     ],
+     "/medicine/drug/canonical_brands": [
+       "Diskets",
+       "Methadose",
+       "Dolophine"
+     ],
+     "id": "/en/methadone",
+     "/medicine/drug/physiologic_effect": [],
+     "type": "/medicine/drug",
+     "name": "Methadone",
+     "ns0:/medicine/drug/marketed_formulations": [
+       "Methadone hydrochloride 10 concentrate",
+       "Methadone hydrochloride 10 tablet",
+       "Methadone hydrochloride 5 tablet",
+       "Methadone hydrochloride 40 tablet",
+       "Methadone hydrochloride 1 solution",
+       "Methadone hydrochloride 10 injectable solution",
+       "Methadone hydrochloride 1 powder",
+       "Methadone hydrochloride 2 solution",
+       "Methadone hydrochloride 10 injectable solution"
+     ],
+     "/medicine/drug/drug_class": [
+       "Analgesic",
+       "Opioid"
+     ]
+   },
+   {
+     "/medicine/drug/part_of_compound_drug": [],
+     "/medicine/drug/brands": [],
+     "/medicine/drug/marketed_formulations": [
+       "Oxycodone hydrochloride 20 extended release tablet",
+       "Oxycodone hydrochloride 40 extended release tablet",
+       "Oxycodone hydrochloride 40 extended release film coated tablet",
+       "Oxycodone hydrochloride 40 tablet",
+       "Oxycodone hydrochloride 1 solution",
+       "Oxycodone hydrochloride 10 extended release film coated tablet",
+       "Oxycodone hcl,usp 7.5 tablet",
+       "Oxycodone hydrochloride 15 tablet",
+       "Oxycodone hydrochloride 20 concentrate solution",
+       "Oxycodone hydrochloride 80 tablet",
+       "Oxycodone hydrochloride 80 extended release film coated tablet",
+       "Oxycodone hydrochloride 5 capsule",
+       "Oxycodone hydrochloride 60 extended release film coated tablet",
+       "Oxycodone hydrochloride 10 extended release tablet",
+       "Oxycodone hydrochloride 160 extended release film coated tablet",
+       "Oxycodone hydrochloride 80 extended release tablet",
+       "Oxycodone hydrochloride 10 tablet",
+       "Oxycodone hydrochloride 20 solution",
+       "Oxycodone hydrochloride 20 tablet",
+       "Oxycodone hydrochloride 5 tablet",
+       "Oxycodone hydrochloride 30 tablet",
+       "Oxycodone hydrochloride 20 extended release film coated tablet",
+       "Oxycodone hydrochloride 15 extended release film coated tablet",
+       "Oxycodone hydrochloride 30 extended release film coated tablet",
+       "Oxycodone hydrochloride 40 extended release film coated tablet"
+     ],
+     "/medicine/drug/active_moieties": [
+       "Oxycodone"
+     ],
+     "/medicine/drug/canonical_brands": [
+       "Oxycontin",
+       "Oxecta",
+       "Roxicodone"
+     ],
+     "id": "/en/oxycodone",
+     "/medicine/drug/physiologic_effect": [],
+     "type": "/medicine/drug",
+     "name": "Oxycodone",
+     "ns0:/medicine/drug/marketed_formulations": [
+       "Oxycodone hydrochloride 20 extended release tablet",
+       "Oxycodone hydrochloride 40 extended release tablet",
+       "Oxycodone hydrochloride 40 extended release film coated tablet",
+       "Oxycodone hydrochloride 40 tablet",
+       "Oxycodone hydrochloride 1 solution",
+       "Oxycodone hydrochloride 10 extended release film coated tablet",
+       "Oxycodone hcl,usp 7.5 tablet",
+       "Oxycodone hydrochloride 15 tablet",
+       "Oxycodone hydrochloride 20 concentrate solution",
+       "Oxycodone hydrochloride 80 tablet",
+       "Oxycodone hydrochloride 80 extended release film coated tablet",
+       "Oxycodone hydrochloride 5 capsule",
+       "Oxycodone hydrochloride 60 extended release film coated tablet",
+       "Oxycodone hydrochloride 10 extended release tablet",
+       "Oxycodone hydrochloride 160 extended release film coated tablet",
+       "Oxycodone hydrochloride 80 extended release tablet",
+       "Oxycodone hydrochloride 10 tablet",
+       "Oxycodone hydrochloride 20 solution",
+       "Oxycodone hydrochloride 20 tablet",
+       "Oxycodone hydrochloride 5 tablet",
+       "Oxycodone hydrochloride 30 tablet",
+       "Oxycodone hydrochloride 20 extended release film coated tablet",
+       "Oxycodone hydrochloride 15 extended release film coated tablet",
+       "Oxycodone hydrochloride 30 extended release film coated tablet",
+       "Oxycodone hydrochloride 40 extended release film coated tablet"
+     ],
+     "/medicine/drug/drug_class": [
+       "Analgesic",
+       "Opioid"
+     ]
+   },
+   {
+     "/medicine/drug/part_of_compound_drug": [],
+     "/medicine/drug/brands": [],
+     "/medicine/drug/marketed_formulations": [
+       "Quinine sulfate 324 capsule"
+     ],
+     "/medicine/drug/active_moieties": [
+       "Quinine"
+     ],
+     "/medicine/drug/canonical_brands": [
+       "Qualaquin"
+     ],
+     "id": "/en/quinine",
+     "/medicine/drug/physiologic_effect": [],
+     "type": "/medicine/drug",
+     "name": "Quinine",
+     "ns0:/medicine/drug/marketed_formulations": [
+       "Quinine sulfate 324 capsule"
+     ],
+     "/medicine/drug/drug_class": [
+       "Antimalarial medication"
+     ]
+   },
+   {
+     "/medicine/drug/part_of_compound_drug": [],
+     "/medicine/drug/brands": [],
+     "/medicine/drug/marketed_formulations": [
+       "Scopolamine 1.5 patch"
+     ],
+     "/medicine/drug/active_moieties": [
+       "Scopolamine"
+     ],
+     "/medicine/drug/canonical_brands": [],
+     "id": "/en/scopolamine",
+     "/medicine/drug/physiologic_effect": [],
+     "type": "/medicine/drug",
+     "name": "Scopolamine",
+     "ns0:/medicine/drug/marketed_formulations": [
+       "Scopolamine 1.5 patch"
+     ],
+     "/medicine/drug/drug_class": []
+   },
+   {
+     "/medicine/drug/part_of_compound_drug": [],
+     "/medicine/drug/brands": [],
+     "/medicine/drug/marketed_formulations": [],
+     "/medicine/drug/active_moieties": [],
+     "/medicine/drug/canonical_brands": [],
+     "id": "/en/sodium_thiopental",
+     "/medicine/drug/physiologic_effect": [],
+     "type": "/medicine/drug",
+     "name": "Sodium thiopental",
+     "ns0:/medicine/drug/marketed_formulations": [],
+     "/medicine/drug/drug_class": [
+       "Barbiturate"
+     ]
+   },
+   {
+     "/medicine/drug/part_of_compound_drug": [],
+     "/medicine/drug/brands": [],
+     "/medicine/drug/marketed_formulations": [
+       "Tetracycline hydrochloride 500 capsule",
+       "Tetracycline hydrochloride 250 capsule",
+       "Tetracycline hydrochloride 0.03 ointment"
+     ],
+     "/medicine/drug/active_moieties": [
+       "Tetracycline"
+     ],
+     "/medicine/drug/canonical_brands": [
+       "Acnecycline",
+       "Dyabetex",
+       "Diabecline",
+       "Tetra-abc"
+     ],
+     "id": "/en/tetracycline",
+     "/medicine/drug/physiologic_effect": [],
+     "type": "/medicine/drug",
+     "name": "Tetracycline",
+     "ns0:/medicine/drug/marketed_formulations": [
+       "Tetracycline hydrochloride 500 capsule",
+       "Tetracycline hydrochloride 250 capsule",
+       "Tetracycline hydrochloride 0.03 ointment"
+     ],
+     "/medicine/drug/drug_class": [
+       "Tetracycline antibiotics",
+       "Tetracycline-class Antimicrobial"
+     ]
+   },
+   {
+     "/medicine/drug/part_of_compound_drug": [],
+     "/medicine/drug/brands": [],
+     "/medicine/drug/marketed_formulations": [
+       "Testosterone enanthate 200 injection",
+       "Testosterone 5 patch",
+       "Testosterone 2.5 patch",
+       "Testosterone 0.02 metered gel",
+       "Testosterone 2 patch",
+       "Testosterone 30 tablet",
+       "Testosterone 20 solution",
+       "Testosterone 10 gel",
+       "Testosterone 12.2 patch",
+       "Testosterone cypionate 200 injection",
+       "Testosterone 0.01 gel",
+       "Testosterone cypionate 100 injectable solution",
+       "Testosterone 4 patch",
+       "Testosterone 16.2 gel",
+       "Testosterone 75 pellet",
+       "Testosterone cypionate 200 injectable solution",
+       "Testosterone enanthate 200 injectable solution",
+       "Testosterone 0.01 gel",
+       "Testosterone 24.3 patch"
+     ],
+     "/medicine/drug/active_moieties": [
+       "Testosterone"
+     ],
+     "/medicine/drug/canonical_brands": [
+       "Testopel",
+       "Androgel",
+       "Fortesta",
+       "Testim",
+       "Delatestryl",
+       "Striant",
+       "Androderm",
+       "Axiron"
+     ],
+     "id": "/en/testosterone",
+     "/medicine/drug/physiologic_effect": [],
+     "type": "/medicine/drug",
+     "name": "Testosterone",
+     "ns0:/medicine/drug/marketed_formulations": [
+       "Testosterone enanthate 200 injection",
+       "Testosterone 5 patch",
+       "Testosterone 2.5 patch",
+       "Testosterone 0.02 metered gel",
+       "Testosterone 2 patch",
+       "Testosterone 30 tablet",
+       "Testosterone 20 solution",
+       "Testosterone 10 gel",
+       "Testosterone 12.2 patch",
+       "Testosterone cypionate 200 injection",
+       "Testosterone 0.01 gel",
+       "Testosterone cypionate 100 injectable solution",
+       "Testosterone 4 patch",
+       "Testosterone 16.2 gel",
+       "Testosterone 75 pellet",
+       "Testosterone cypionate 200 injectable solution",
+       "Testosterone enanthate 200 injectable solution",
+       "Testosterone 0.01 gel",
+       "Testosterone 24.3 patch"
+     ],
+     "/medicine/drug/drug_class": [
+       "Androgen"
+     ]
+   },
+   {
+     "/medicine/drug/part_of_compound_drug": [],
+     "/medicine/drug/brands": [],
+     "/medicine/drug/marketed_formulations": [],
+     "/medicine/drug/active_moieties": [],
+     "/medicine/drug/canonical_brands": [],
+     "id": "/en/theobromine",
+     "/medicine/drug/physiologic_effect": [],
+     "type": "/medicine/drug",
+     "name": "Theobromine",
+     "ns0:/medicine/drug/marketed_formulations": [],
+     "/medicine/drug/drug_class": []
+   },
+   {
+     "/medicine/drug/part_of_compound_drug": [],
+     "/medicine/drug/brands": [
+       "Viagra",
+       "Revatio"
+     ],
+     "/medicine/drug/marketed_formulations": [
+       "Sildenafil citrate 25 film coated tablet",
+       "Sildenafil citrate 20 film coated tablet",
+       "Sildenafil citrate 0.8 solution",
+       "Sildenafil citrate 50 film coated tablet",
+       "Sildenafil citrate 100 film coated tablet"
+     ],
+     "/medicine/drug/active_moieties": [
+       "Sildenafil"
+     ],
+     "/medicine/drug/canonical_brands": [
+       "Viagra"
+     ],
+     "id": "/en/sildenafil",
+     "/medicine/drug/physiologic_effect": [],
+     "type": "/medicine/drug",
+     "name": "Sildenafil",
+     "ns0:/medicine/drug/marketed_formulations": [
+       "Sildenafil citrate 25 film coated tablet",
+       "Sildenafil citrate 20 film coated tablet",
+       "Sildenafil citrate 0.8 solution",
+       "Sildenafil citrate 50 film coated tablet",
+       "Sildenafil citrate 100 film coated tablet"
+     ],
+     "/medicine/drug/drug_class": [
+       "PDE5 inhibitor"
+     ]
+   },
+   {
+     "/medicine/drug/part_of_compound_drug": [],
+     "/medicine/drug/brands": [],
+     "/medicine/drug/marketed_formulations": [
+       "Paclitaxel 6 injectable solution",
+       "Paclitaxel 6 injectable concentrate solution",
+       "Paclitaxel 5 lyophilized powder for injectable suspension",
+       "Paclitaxel 6 injection",
+       "Paclitaxel 5.988 injection"
+     ],
+     "/medicine/drug/active_moieties": [
+       "Paclitaxel"
+     ],
+     "/medicine/drug/canonical_brands": [
+       "Onxol",
+       "Abraxane"
+     ],
+     "id": "/en/paclitaxel",
+     "/medicine/drug/physiologic_effect": [
+       "Microtubule Inhibition"
+     ],
+     "type": "/medicine/drug",
+     "name": "Paclitaxel",
+     "ns0:/medicine/drug/marketed_formulations": [
+       "Paclitaxel 6 injectable solution",
+       "Paclitaxel 6 injectable concentrate solution",
+       "Paclitaxel 5 lyophilized powder for injectable suspension",
+       "Paclitaxel 6 injection",
+       "Paclitaxel 5.988 injection"
+     ],
+     "/medicine/drug/drug_class": [
+       "Microtubule Inhibitor"
+     ]
+   },
+   {
+     "/medicine/drug/part_of_compound_drug": [],
+     "/medicine/drug/brands": [],
+     "/medicine/drug/marketed_formulations": [
+       "Darbepoetin alfa 40 solution",
+       "Darbepoetin alfa 300 solution",
+       "Darbepoetin alfa 200 solution",
+       "Darbepoetin alfa 100 solution",
+       "Darbepoetin alfa 0.5 injectable solution",
+       "Darbepoetin alfa 0.1 injectable solution",
+       "Darbepoetin alfa 0.2 solution",
+       "Darbepoetin alfa 25 solution",
+       "Darbepoetin alfa 0.0595 injectable solution",
+       "Darbepoetin alfa 500 injectable solution",
+       "Darbepoetin alfa 60 solution",
+       "Darbepoetin alfa 0.2 injectable solution"
+     ],
+     "/medicine/drug/active_moieties": [
+       "Darbepoetin alfa"
+     ],
+     "/medicine/drug/canonical_brands": [],
+     "id": "/en/darbepoetin_alfa",
+     "/medicine/drug/physiologic_effect": [
+       "Increased Erythroid Cell Production"
+     ],
+     "type": "/medicine/drug",
+     "name": "Darbepoetin alfa",
+     "ns0:/medicine/drug/marketed_formulations": [
+       "Darbepoetin alfa 40 solution",
+       "Darbepoetin alfa 300 solution",
+       "Darbepoetin alfa 200 solution",
+       "Darbepoetin alfa 100 solution",
+       "Darbepoetin alfa 0.5 injectable solution",
+       "Darbepoetin alfa 0.1 injectable solution",
+       "Darbepoetin alfa 0.2 solution",
+       "Darbepoetin alfa 25 solution",
+       "Darbepoetin alfa 0.0595 injectable solution",
+       "Darbepoetin alfa 500 injectable solution",
+       "Darbepoetin alfa 60 solution",
+       "Darbepoetin alfa 0.2 injectable solution"
+     ],
+     "/medicine/drug/drug_class": [
+       "Erythropoiesis-stimulating agent"
+     ]
+   },
+   {
+     "/medicine/drug/part_of_compound_drug": [],
+     "/medicine/drug/brands": [],
+     "/medicine/drug/marketed_formulations": [
+       "Fluoxetine hydrochloride 40 capsule",
+       "Fluoxetine hydrochloride 20 capsule",
+       "Fluoxetine hydrochloride 90 delayed release capsule",
+       "Fluoxetine hydrochloride 20 film coated tablet",
+       "Fluoxetine hydrochloride 20 tablet",
+       "Fluoxetine hydrochloride 90 delayed release pellets in capsule",
+       "Fluoxetine hydrochloride 4 solution",
+       "Fluoxetine hydrochloride 10 capsule",
+       "Fluoxetine hydrochloride 15 tablet",
+       "Fluoxetine hcl 60 film coated tablet",
+       "Fluoxetine hydrochloride 4 liquid",
+       "Fluoxetine hydrochloride 10 tablet",
+       "Fluoxetine hydrochloride 10 film coated tablet"
+     ],
+     "/medicine/drug/active_moieties": [
+       "Fluoxetine"
+     ],
+     "/medicine/drug/canonical_brands": [
+       "Sarafem"
+     ],
+     "id": "/en/fluoxetine",
+     "/medicine/drug/physiologic_effect": [],
+     "type": "/medicine/drug",
+     "name": "Fluoxetine",
+     "ns0:/medicine/drug/marketed_formulations": [
+       "Fluoxetine hydrochloride 40 capsule",
+       "Fluoxetine hydrochloride 20 capsule",
+       "Fluoxetine hydrochloride 90 delayed release capsule",
+       "Fluoxetine hydrochloride 20 film coated tablet",
+       "Fluoxetine hydrochloride 20 tablet",
+       "Fluoxetine hydrochloride 90 delayed release pellets in capsule",
+       "Fluoxetine hydrochloride 4 solution",
+       "Fluoxetine hydrochloride 10 capsule",
+       "Fluoxetine hydrochloride 15 tablet",
+       "Fluoxetine hcl 60 film coated tablet",
+       "Fluoxetine hydrochloride 4 liquid",
+       "Fluoxetine hydrochloride 10 tablet",
+       "Fluoxetine hydrochloride 10 film coated tablet"
+     ],
+     "/medicine/drug/drug_class": [
+       "Selective serotonin reuptake inhibitor",
+       "Serotonin reuptake inhibitor"
+     ]
+   },
+   {
+     "/medicine/drug/part_of_compound_drug": [],
+     "/medicine/drug/brands": [],
+     "/medicine/drug/marketed_formulations": [
+       "Clozapine 12.5 orally disintegrating tablet",
+       "Clozapine 200 tablet",
+       "Clozapine 25 tablet",
+       "Clozapine 50 tablet",
+       "Clozapine 150 orally disintegrating tablet",
+       "Clozapine 200 orally disintegrating tablet",
+       "Clozapine 100 orally disintegrating tablet",
+       "Clozapine 100 tablet",
+       "Clozapine 25 orally disintegrating tablet"
+     ],
+     "/medicine/drug/active_moieties": [
+       "Clozapine"
+     ],
+     "/medicine/drug/canonical_brands": [
+       "Clozaril"
+     ],
+     "id": "/en/clozapine",
+     "/medicine/drug/physiologic_effect": [],
+     "type": "/medicine/drug",
+     "name": "Clozapine",
+     "ns0:/medicine/drug/marketed_formulations": [
+       "Clozapine 12.5 orally disintegrating tablet",
+       "Clozapine 200 tablet",
+       "Clozapine 25 tablet",
+       "Clozapine 50 tablet",
+       "Clozapine 150 orally disintegrating tablet",
+       "Clozapine 200 orally disintegrating tablet",
+       "Clozapine 100 orally disintegrating tablet",
+       "Clozapine 100 tablet",
+       "Clozapine 25 orally disintegrating tablet"
+     ],
+     "/medicine/drug/drug_class": [
+       "Benzodiazepine",
+       "Atypical antipsychotic"
+     ]
+   },
+   {
+     "/medicine/drug/part_of_compound_drug": [],
+     "/medicine/drug/brands": [],
+     "/medicine/drug/marketed_formulations": [
+       "Phenytoin sodium 100 extended release capsule",
+       "Phenytoin sodium 30 extended release capsule",
+       "Phenytoin sodium 200 extended release capsule",
+       "Phenytoin sodium 50 injection",
+       "Fosphenytoin sodium 50 injectable solution",
+       "Phenytoin sodium 50 injectable solution",
+       "Phenytoin sodium 50 injection",
+       "Phenytoin 50 chewable tablet",
+       "Fosphenytoin sodium 50 injectable solution",
+       "Phenytoin 25 suspension",
+       "Phenytoin sodium 100 capsule",
+       "Phenytoin sodium 300 extended release capsule"
+     ],
+     "/medicine/drug/active_moieties": [
+       "Phenytoin"
+     ],
+     "/medicine/drug/canonical_brands": [
+       "Dilantin-125",
+       "Dilantin",
+       "Phenytek"
+     ],
+     "id": "/en/phenytoin",
+     "/medicine/drug/physiologic_effect": [
+       "Decreased Central Nervous System Disorganized Electrical Activity"
+     ],
+     "type": "/medicine/drug",
+     "name": "Phenytoin",
+     "ns0:/medicine/drug/marketed_formulations": [
+       "Phenytoin sodium 100 extended release capsule",
+       "Phenytoin sodium 30 extended release capsule",
+       "Phenytoin sodium 200 extended release capsule",
+       "Phenytoin sodium 50 injection",
+       "Fosphenytoin sodium 50 injectable solution",
+       "Phenytoin sodium 50 injectable solution",
+       "Phenytoin sodium 50 injection",
+       "Phenytoin 50 chewable tablet",
+       "Fosphenytoin sodium 50 injectable solution",
+       "Phenytoin 25 suspension",
+       "Phenytoin sodium 100 capsule",
+       "Phenytoin sodium 300 extended release capsule"
+     ],
+     "/medicine/drug/drug_class": [
+       "Anti-epileptic Agent"
+     ]
+   },
+   {
+     "/medicine/drug/part_of_compound_drug": [],
+     "/medicine/drug/brands": [
+       "Thalomid"
+     ],
+     "/medicine/drug/marketed_formulations": [
+       "Thalidomide 150 capsule",
+       "Thalidomide 200 capsule",
+       "Thalidomide 100 capsule",
+       "Thalidomide 50 capsule"
+     ],
+     "/medicine/drug/active_moieties": [
+       "Thalidomide"
+     ],
+     "/medicine/drug/canonical_brands": [
+       "Thalomid"
+     ],
+     "id": "/en/thalidomide",
+     "/medicine/drug/physiologic_effect": [
+       "Decreased Immunologically Active Molecule Activity"
+     ],
+     "type": "/medicine/drug",
+     "name": "Thalidomide",
+     "ns0:/medicine/drug/marketed_formulations": [
+       "Thalidomide 150 capsule",
+       "Thalidomide 200 capsule",
+       "Thalidomide 100 capsule",
+       "Thalidomide 50 capsule"
+     ],
+     "/medicine/drug/drug_class": []
+   },
+   {
+     "/medicine/drug/part_of_compound_drug": [],
+     "/medicine/drug/brands": [],
+     "/medicine/drug/marketed_formulations": [
+       "Acetylcholine chloride 10 kit"
+     ],
+     "/medicine/drug/active_moieties": [
+       "Acetylcholine"
+     ],
+     "/medicine/drug/canonical_brands": [],
+     "id": "/en/acetylcholine",
+     "/medicine/drug/physiologic_effect": [],
+     "type": "/medicine/drug",
+     "name": "Acetylcholine",
+     "ns0:/medicine/drug/marketed_formulations": [
+       "Acetylcholine chloride 10 kit"
+     ],
+     "/medicine/drug/drug_class": []
+   },
+   {
+     "/medicine/drug/part_of_compound_drug": [],
+     "/medicine/drug/brands": [],
+     "/medicine/drug/marketed_formulations": [],
+     "/medicine/drug/active_moieties": [],
+     "/medicine/drug/canonical_brands": [],
+     "id": "/en/cyanocobalamin",
+     "/medicine/drug/physiologic_effect": [],
+     "type": "/medicine/drug",
+     "name": "Vitamin B-12",
+     "ns0:/medicine/drug/marketed_formulations": [],
+     "/medicine/drug/drug_class": []
+   },
+   {
+     "/medicine/drug/part_of_compound_drug": [],
+     "/medicine/drug/brands": [],
+     "/medicine/drug/marketed_formulations": [
+       "Divalproex sodium 125 coated pellets in capsule",
+       "Divalproex sodium 250 delayed release tablet",
+       "Valproate sodium 100 injection",
+       "Divalproex sodium 250 extended release tablet",
+       "Divalproex sodium 500 delayed release particles in tablet",
+       "Valproic acid 250 tablet",
+       "Divalproex sodium 125 delayed release pellets in capsule",
+       "Divalproex sodium 250 extended release film coated tablet",
+       "Valproic acid 250 capsule",
+       "Divalproex sodium 500 delayed release tablet",
+       "Divalproex sodium 500 extended release film coated tablet",
+       "Valproic acid 500 delayed release capsule",
+       "Divalproex sodium 500 extended release tablet",
+       "Valproic acid 250 liquid filled capsule",
+       "Divalproex sodium 250 film coated tablet",
+       "Valproic acid 125 delayed release capsule",
+       "Valproic acid 50 solution",
+       "Divalproex sodium 500 film coated tablet",
+       "Divalproex sodium 125 delayed release tablet",
+       "Divalproex sodium 500 delayed release tablet",
+       "Divalproex sodium 125 extended release film coated tablet",
+       "Divalproex sodium 125 film coated tablet",
+       "Divalproex sodium 125 capsule",
+       "Valproic acid 250 delayed release capsule"
+     ],
+     "/medicine/drug/active_moieties": [
+       "Valproate"
+     ],
+     "/medicine/drug/canonical_brands": [
+       "Depakote",
+       "Depakene",
+       "Depacon",
+       "Stavzor",
+       "Valproic"
+     ],
+     "id": "/en/valproic_acid",
+     "/medicine/drug/physiologic_effect": [
+       "Decreased Central Nervous System Disorganized Electrical Activity"
+     ],
+     "type": "/medicine/drug",
+     "name": "Valproate",
+     "ns0:/medicine/drug/marketed_formulations": [
+       "Divalproex sodium 125 coated pellets in capsule",
+       "Divalproex sodium 250 delayed release tablet",
+       "Valproate sodium 100 injection",
+       "Divalproex sodium 250 extended release tablet",
+       "Divalproex sodium 500 delayed release particles in tablet",
+       "Valproic acid 250 tablet",
+       "Divalproex sodium 125 delayed release pellets in capsule",
+       "Divalproex sodium 250 extended release film coated tablet",
+       "Valproic acid 250 capsule",
+       "Divalproex sodium 500 delayed release tablet",
+       "Divalproex sodium 500 extended release film coated tablet",
+       "Valproic acid 500 delayed release capsule",
+       "Divalproex sodium 500 extended release tablet",
+       "Valproic acid 250 liquid filled capsule",
+       "Divalproex sodium 250 film coated tablet",
+       "Valproic acid 125 delayed release capsule",
+       "Valproic acid 50 solution",
+       "Divalproex sodium 500 film coated tablet",
+       "Divalproex sodium 125 delayed release tablet",
+       "Divalproex sodium 500 delayed release tablet",
+       "Divalproex sodium 125 extended release film coated tablet",
+       "Divalproex sodium 125 film coated tablet",
+       "Divalproex sodium 125 capsule",
+       "Valproic acid 250 delayed release capsule"
+     ],
+     "/medicine/drug/drug_class": [
+       "Anti-epileptic Agent",
+       "Mood stabilizer"
+     ]
+   },
+   {
+     "/medicine/drug/part_of_compound_drug": [],
+     "/medicine/drug/brands": [],
+     "/medicine/drug/marketed_formulations": [
+       "Methamphetamine hydrochloride 5 tablet"
+     ],
+     "/medicine/drug/active_moieties": [
+       "Methamphetamine"
+     ],
+     "/medicine/drug/canonical_brands": [
+       "Desoxyn"
+     ],
+     "id": "/en/methamphetamine",
+     "/medicine/drug/physiologic_effect": [
+       "Appetite Suppression",
+       "Central Nervous System Stimulation",
+       "Increased Sympathetic Activity"
+     ],
+     "type": "/medicine/drug",
+     "name": "Methamphetamine",
+     "ns0:/medicine/drug/marketed_formulations": [
+       "Methamphetamine hydrochloride 5 tablet"
+     ],
+     "/medicine/drug/drug_class": [
+       "Amphetamine Anorectic",
+       "Central Nervous System Stimulant"
+     ]
+   },
+   {
+     "/medicine/drug/part_of_compound_drug": [],
+     "/medicine/drug/brands": [],
+     "/medicine/drug/marketed_formulations": [
+       "Theophylline, anhydrous 300 extended release capsule",
+       "Theophylline anhydrous 1.6 injectable solution",
+       "Theophylline 450 extended release tablet",
+       "Theophylline 125 tablet",
+       "Theophylline 100 extended release tablet",
+       "Theophylline 300 tablet",
+       "Theophylline anhydrous 5.333 liquid",
+       "Theophylline, anhydrous 400 extended release capsule",
+       "Theophylline 400 extended release tablet",
+       "Theophylline 2 injectable solution",
+       "Theophylline, anhydrous 200 extended release capsule",
+       "Theophylline 250 tablet",
+       "Theophylline anhydrous 0.8 injectable solution",
+       "Theophylline 3.2 injectable solution",
+       "Theophylline, anhydrous 300 extended release tablet",
+       "Theophylline 1.6 injectable solution",
+       "Theophylline, anhydrous 125 extended release capsule",
+       "Theophylline 200 extended release tablet",
+       "Theophylline 4 injectable solution",
+       "Theophylline anhydrous 300 tablet",
+       "Theophylline 300 extended release tablet",
+       "Theophylline, anhydrous 100 extended release capsule",
+       "Theophylline 5.333 solution",
+       "Theophylline, anhydrous 200 extended release tablet",
+       "Theophylline anhydrous 600 tablet",
+       "Theophylline 600 extended release tablet",
+       "Theophylline anhydrous 400 tablet"
+     ],
+     "/medicine/drug/active_moieties": [
+       "Theophylline"
+     ],
+     "/medicine/drug/canonical_brands": [
+       "Elixophyllin",
+       "Theo-24",
+       "Elixophylline",
+       "Uniphyl",
+       "Quibron-T"
+     ],
+     "id": "/en/theophylline",
+     "/medicine/drug/physiologic_effect": [],
+     "type": "/medicine/drug",
+     "name": "Theophylline",
+     "ns0:/medicine/drug/marketed_formulations": [
+       "Theophylline, anhydrous 300 extended release capsule",
+       "Theophylline anhydrous 1.6 injectable solution",
+       "Theophylline 450 extended release tablet",
+       "Theophylline 125 tablet",
+       "Theophylline 100 extended release tablet",
+       "Theophylline 300 tablet",
+       "Theophylline anhydrous 5.333 liquid",
+       "Theophylline, anhydrous 400 extended release capsule",
+       "Theophylline 400 extended release tablet",
+       "Theophylline 2 injectable solution",
+       "Theophylline, anhydrous 200 extended release capsule",
+       "Theophylline 250 tablet",
+       "Theophylline anhydrous 0.8 injectable solution",
+       "Theophylline 3.2 injectable solution",
+       "Theophylline, anhydrous 300 extended release tablet",
+       "Theophylline 1.6 injectable solution",
+       "Theophylline, anhydrous 125 extended release capsule",
+       "Theophylline 200 extended release tablet",
+       "Theophylline 4 injectable solution",
+       "Theophylline anhydrous 300 tablet",
+       "Theophylline 300 extended release tablet",
+       "Theophylline, anhydrous 100 extended release capsule",
+       "Theophylline 5.333 solution",
+       "Theophylline, anhydrous 200 extended release tablet",
+       "Theophylline anhydrous 600 tablet",
+       "Theophylline 600 extended release tablet",
+       "Theophylline anhydrous 400 tablet"
+     ],
+     "/medicine/drug/drug_class": [
+       "Methylxanthine"
+     ]
+   },
+   {
+     "/medicine/drug/part_of_compound_drug": [],
+     "/medicine/drug/brands": [],
+     "/medicine/drug/marketed_formulations": [
+       "Progesterone 100 insert",
+       "Progesterone 0.08 gel",
+       "Progesterone 200 capsule",
+       "Progesterone 0.04 gel",
+       "Progesterone 50 injection",
+       "Progesterone 100 capsule",
+       "Progesterone 50 injectable solution"
+     ],
+     "/medicine/drug/active_moieties": [
+       "Progesterone"
+     ],
+     "/medicine/drug/canonical_brands": [
+       "Crinone",
+       "Endometrin",
+       "Prometrium",
+       "Prochieve"
+     ],
+     "id": "/en/progesterone",
+     "/medicine/drug/physiologic_effect": [],
+     "type": "/medicine/drug",
+     "name": "Progesterone",
+     "ns0:/medicine/drug/marketed_formulations": [
+       "Progesterone 100 insert",
+       "Progesterone 0.08 gel",
+       "Progesterone 200 capsule",
+       "Progesterone 0.04 gel",
+       "Progesterone 50 injection",
+       "Progesterone 100 capsule",
+       "Progesterone 50 injectable solution"
+     ],
+     "/medicine/drug/drug_class": [
+       "Progesterone"
+     ]
+   },
+   {
+     "/medicine/drug/part_of_compound_drug": [],
+     "/medicine/drug/brands": [
+       "Sudafed"
+     ],
+     "/medicine/drug/marketed_formulations": [
+       "Pseudoephedrine hydrochloride 240 extended release tablet",
+       "Pseudoephedrine hydrochloride 60 film coated tablet",
+       "Pseudoephedrine 1 liquid",
+       "Pseudoephedrine hcl 30 film coated tablet",
+       "Pseudoephedrine hydrochloride 120 extended release film coated tablet",
+       "Pseudoephedrine hydrochloride 60 tablet",
+       "Pseudoephedrine hydrochloride 6 liquid",
+       "Pseudoephedrine hydrochloride 30 tablet",
+       "Pseudoephedrine hcl 30 sugar coated tablet",
+       "Pseudoephedrine hydrochloride 3 liquid",
+       "Pseudoephedrine hydrochloride 120 extended release tablet",
+       "Pseudoephedrine hydrochloride 30 coated tablet",
+       "Pseudoephedrine hydrochloride 120 film coated tablet"
+     ],
+     "/medicine/drug/active_moieties": [
+       "Pseudoephedrine"
+     ],
+     "/medicine/drug/canonical_brands": [
+       "Sudafed"
+     ],
+     "id": "/en/pseudoephedrine",
+     "/medicine/drug/physiologic_effect": [],
+     "type": "/medicine/drug",
+     "name": "Pseudoephedrine",
+     "ns0:/medicine/drug/marketed_formulations": [
+       "Pseudoephedrine hydrochloride 240 extended release tablet",
+       "Pseudoephedrine hydrochloride 60 film coated tablet",
+       "Pseudoephedrine 1 liquid",
+       "Pseudoephedrine hcl 30 film coated tablet",
+       "Pseudoephedrine hydrochloride 120 extended release film coated tablet",
+       "Pseudoephedrine hydrochloride 60 tablet",
+       "Pseudoephedrine hydrochloride 6 liquid",
+       "Pseudoephedrine hydrochloride 30 tablet",
+       "Pseudoephedrine hcl 30 sugar coated tablet",
+       "Pseudoephedrine hydrochloride 3 liquid",
+       "Pseudoephedrine hydrochloride 120 extended release tablet",
+       "Pseudoephedrine hydrochloride 30 coated tablet",
+       "Pseudoephedrine hydrochloride 120 film coated tablet"
+     ],
+     "/medicine/drug/drug_class": [
+       "Decongestant",
+       "Alpha-adrenergic agonist"
+     ]
+   },
+   {
+     "/medicine/drug/part_of_compound_drug": [],
+     "/medicine/drug/brands": [],
+     "/medicine/drug/marketed_formulations": [
+       "Ribavirin 200 film coated tablet",
+       "Ribavirin 600 film coated tablet",
+       "Ribavirin 200 capsule",
+       "Ribavirin 200 tablet",
+       "Ribavirin 500 film coated tablet",
+       "Ribavirin 200 coated tablet",
+       "Ribavirin 400 film coated tablet",
+       "Ribavirin 6 powder for solution",
+       "Ribavirin 400,600 kit",
+       "Ribavirin 600 tablet",
+       "Ribavirin 40 liquid",
+       "Ribavirin 400 tablet"
+     ],
+     "/medicine/drug/active_moieties": [
+       "Ribavirin"
+     ],
+     "/medicine/drug/canonical_brands": [
+       "Rebetol",
+       "Ribasphere",
+       "Virazole"
+     ],
+     "id": "/en/ribavirin",
+     "/medicine/drug/physiologic_effect": [],
+     "type": "/medicine/drug",
+     "name": "Ribavirin",
+     "ns0:/medicine/drug/marketed_formulations": [
+       "Ribavirin 200 film coated tablet",
+       "Ribavirin 600 film coated tablet",
+       "Ribavirin 200 capsule",
+       "Ribavirin 200 tablet",
+       "Ribavirin 500 film coated tablet",
+       "Ribavirin 200 coated tablet",
+       "Ribavirin 400 film coated tablet",
+       "Ribavirin 6 powder for solution",
+       "Ribavirin 400,600 kit",
+       "Ribavirin 600 tablet",
+       "Ribavirin 40 liquid",
+       "Ribavirin 400 tablet"
+     ],
+     "/medicine/drug/drug_class": [
+       "Nucleoside analogue"
+     ]
+   },
+   {
+     "/medicine/drug/part_of_compound_drug": [],
+     "/medicine/drug/brands": [
+       "Tylenol",
+       "Vicodin"
+     ],
+     "/medicine/drug/marketed_formulations": [
+       "Acetaminophen 0.8 liquid",
+       "Acetaminophen 500 coated tablet",
+       "Acetaminophen 650 extended release film coated tablet",
+       "Acetaminophen 325 tablet",
+       "Acetaminophen 100 liquid",
+       "Acetaminophen 500 tablet",
+       "Acetaminophen 325 suppository",
+       "Acetaminophen 500 gelatin coated capsule",
+       "Acetaminophen 100 solution/drops",
+       "Acetaminophen 325 film coated tablet",
+       "Acetaminophen 160 tablet",
+       "Acetaminophen 120 suppository",
+       "Acetaminophen 500 liquid filled capsule",
+       "Acetaminophen 100 syrup",
+       "Acetaminophen 32 solution",
+       "Acetaminophen 500 coated capsule",
+       "Acetaminophen 32.02 suspension",
+       "Acetaminophen 10 injectable solution",
+       "Acetaminophen 32 syrup",
+       "Acetaminophen 650 suppository",
+       "Acetaminophen 32 liquid",
+       "Acetaminophen 32 suspension",
+       "Acetaminophen 500 film coated tablet",
+       "Acetaminophen 650 tablet",
+       "Acetaminophen 500 capsule",
+       "Acetaminophen 160 chewable tablet",
+       "Acetaminophen 80 chewable tablet",
+       "Acetaminophen 100 suspension/drops",
+       "Acetaminophen 33.333 liquid",
+       "Acetaminophen 80 suppository",
+       "Acetaminophen 100 suspension"
+     ],
+     "/medicine/drug/active_moieties": [
+       "Paracetamol"
+     ],
+     "/medicine/drug/canonical_brands": [
+       "Tylenol",
+       "Xl-dol",
+       "Apap",
+       "Panadol",
+       "Aphen",
+       "Acephen",
+       "Ringl",
+       "Feverall",
+       "Bf-paradac",
+       "Mejoralito",
+       "Mapap",
+       "Tempra",
+       "Nortemp",
+       "Ofirmev"
+     ],
+     "id": "/en/paracetamol",
+     "/medicine/drug/physiologic_effect": [],
+     "type": "/medicine/drug",
+     "name": "Paracetamol",
+     "ns0:/medicine/drug/marketed_formulations": [
+       "Acetaminophen 0.8 liquid",
+       "Acetaminophen 500 coated tablet",
+       "Acetaminophen 650 extended release film coated tablet",
+       "Acetaminophen 325 tablet",
+       "Acetaminophen 100 liquid",
+       "Acetaminophen 500 tablet",
+       "Acetaminophen 325 suppository",
+       "Acetaminophen 500 gelatin coated capsule",
+       "Acetaminophen 100 solution/drops",
+       "Acetaminophen 325 film coated tablet",
+       "Acetaminophen 160 tablet",
+       "Acetaminophen 120 suppository",
+       "Acetaminophen 500 liquid filled capsule",
+       "Acetaminophen 100 syrup",
+       "Acetaminophen 32 solution",
+       "Acetaminophen 500 coated capsule",
+       "Acetaminophen 32.02 suspension",
+       "Acetaminophen 10 injectable solution",
+       "Acetaminophen 32 syrup",
+       "Acetaminophen 650 suppository",
+       "Acetaminophen 32 liquid",
+       "Acetaminophen 32 suspension",
+       "Acetaminophen 500 film coated tablet",
+       "Acetaminophen 650 tablet",
+       "Acetaminophen 500 capsule",
+       "Acetaminophen 160 chewable tablet",
+       "Acetaminophen 80 chewable tablet",
+       "Acetaminophen 100 suspension/drops",
+       "Acetaminophen 33.333 liquid",
+       "Acetaminophen 80 suppository",
+       "Acetaminophen 100 suspension"
+     ],
+     "/medicine/drug/drug_class": [
+       "Analgesic"
+     ]
+   },
+   {
+     "/medicine/drug/part_of_compound_drug": [],
+     "/medicine/drug/brands": [],
+     "/medicine/drug/marketed_formulations": [
+       "Adenosine 3 injectable solution",
+       "Adenosine 0.002 cream",
+       "Adenosine 3 injection",
+       "Adenosine 3 solution",
+       "Adenosine 0.0004 liquid",
+       "Adenosine 0.04 cream",
+       "Adenosine 0.0004 cream",
+       "Adenosine 0.0004 cream"
+     ],
+     "/medicine/drug/active_moieties": [
+       "Adenosine"
+     ],
+     "/medicine/drug/canonical_brands": [
+       "Adenocard"
+     ],
+     "id": "/en/adenosine",
+     "/medicine/drug/physiologic_effect": [],
+     "type": "/medicine/drug",
+     "name": "Adenosine",
+     "ns0:/medicine/drug/marketed_formulations": [
+       "Adenosine 3 injectable solution",
+       "Adenosine 0.002 cream",
+       "Adenosine 3 injection",
+       "Adenosine 3 solution",
+       "Adenosine 0.0004 liquid",
+       "Adenosine 0.04 cream",
+       "Adenosine 0.0004 cream",
+       "Adenosine 0.0004 cream"
+     ],
+     "/medicine/drug/drug_class": [
+       "Adenosine Receptor Agonist"
+     ]
+   },
+   {
+     "/medicine/drug/part_of_compound_drug": [],
+     "/medicine/drug/brands": [],
+     "/medicine/drug/marketed_formulations": [],
+     "/medicine/drug/active_moieties": [],
+     "/medicine/drug/canonical_brands": [],
+     "id": "/en/inosine",
+     "/medicine/drug/physiologic_effect": [],
+     "type": "/medicine/drug",
+     "name": "Inosine",
+     "ns0:/medicine/drug/marketed_formulations": [],
+     "/medicine/drug/drug_class": []
+   },
+   {
+     "/medicine/drug/part_of_compound_drug": [],
+     "/medicine/drug/brands": [],
+     "/medicine/drug/marketed_formulations": [
+       "Trimethoprim 200 tablet",
+       "Trimethoprim 100 tablet",
+       "Trimethoprim hydrochloride 10 solution"
+     ],
+     "/medicine/drug/active_moieties": [
+       "Trimethoprim"
+     ],
+     "/medicine/drug/canonical_brands": [
+       "Primsol",
+       "Proloprim"
+     ],
+     "id": "/en/trimethoprim",
+     "/medicine/drug/physiologic_effect": [],
+     "type": "/medicine/drug",
+     "name": "Trimethoprim",
+     "ns0:/medicine/drug/marketed_formulations": [
+       "Trimethoprim 200 tablet",
+       "Trimethoprim 100 tablet",
+       "Trimethoprim hydrochloride 10 solution"
+     ],
+     "/medicine/drug/drug_class": [
+       "Dihydrofolate Reductase Inhibitor Antibacterial"
+     ]
+   },
+   {
+     "/medicine/drug/part_of_compound_drug": [],
+     "/medicine/drug/brands": [],
+     "/medicine/drug/marketed_formulations": [
+       "Paroxetine hydrochloride hemihydrate 40 film coated tablet",
+       "Paroxetine hydrochloride 30 film coated tablet",
+       "Paroxetine hydrochloride 40 film coated tablet",
+       "Paroxetine 20 film coated tablet",
+       "Paroxetine mesylate 10 film coated tablet",
+       "Paroxetine mesylate 20 film coated tablet",
+       "Paroxetine 40 film coated tablet",
+       "Paroxetine hydrochloride 20 tablet",
+       "Paroxetine hydrochloride hemihydrate 30 film coated tablet",
+       "Paroxetine hydrochloride hemihydrate 10 film coated tablet",
+       "Paroxetine hydrochloride 37.5 extended release film coated tablet",
+       "Paroxetine 10 film coated tablet",
+       "Paroxetine hydrochloride 12.5 extended release film coated tablet",
+       "Paroxetine hydrochloride 20 film coated tablet",
+       "Paroxetine hydrochloride 25 extended release film coated tablet",
+       "Paroxetine hydrochloride hemihydrate 20 film coated tablet",
+       "Paroxetine mesylate 40 film coated tablet",
+       "Paroxetine hydrochloride 10 tablet",
+       "Paroxetine hydrochloride 30 tablet",
+       "Paroxetine hydrochloride 30 tablet",
+       "Paroxetine hydrochloride 10 tablet",
+       "Paroxetine hydrochloride hemihydrate 20 tablet",
+       "Paroxetine mesylate 30 film coated tablet",
+       "Paroxetine hydrochloride 10 film coated tablet",
+       "Paroxetine 30 film coated tablet",
+       "Paroxetine hydrochloride 40 tablet",
+       "Paroxetine hydrochloride 2 suspension"
+     ],
+     "/medicine/drug/active_moieties": [
+       "Paroxetine"
+     ],
+     "/medicine/drug/canonical_brands": [
+       "Pexeva",
+       "Paxil"
+     ],
+     "id": "/en/paroxetine",
+     "/medicine/drug/physiologic_effect": [],
+     "type": "/medicine/drug",
+     "name": "Paroxetine",
+     "ns0:/medicine/drug/marketed_formulations": [
+       "Paroxetine hydrochloride hemihydrate 40 film coated tablet",
+       "Paroxetine hydrochloride 30 film coated tablet",
+       "Paroxetine hydrochloride 40 film coated tablet",
+       "Paroxetine 20 film coated tablet",
+       "Paroxetine mesylate 10 film coated tablet",
+       "Paroxetine mesylate 20 film coated tablet",
+       "Paroxetine 40 film coated tablet",
+       "Paroxetine hydrochloride 20 tablet",
+       "Paroxetine hydrochloride hemihydrate 30 film coated tablet",
+       "Paroxetine hydrochloride hemihydrate 10 film coated tablet",
+       "Paroxetine hydrochloride 37.5 extended release film coated tablet",
+       "Paroxetine 10 film coated tablet",
+       "Paroxetine hydrochloride 12.5 extended release film coated tablet",
+       "Paroxetine hydrochloride 20 film coated tablet",
+       "Paroxetine hydrochloride 25 extended release film coated tablet",
+       "Paroxetine hydrochloride hemihydrate 20 film coated tablet",
+       "Paroxetine mesylate 40 film coated tablet",
+       "Paroxetine hydrochloride 10 tablet",
+       "Paroxetine hydrochloride 30 tablet",
+       "Paroxetine hydrochloride 30 tablet",
+       "Paroxetine hydrochloride 10 tablet",
+       "Paroxetine hydrochloride hemihydrate 20 tablet",
+       "Paroxetine mesylate 30 film coated tablet",
+       "Paroxetine hydrochloride 10 film coated tablet",
+       "Paroxetine 30 film coated tablet",
+       "Paroxetine hydrochloride 40 tablet",
+       "Paroxetine hydrochloride 2 suspension"
+     ],
+     "/medicine/drug/drug_class": [
+       "Selective serotonin reuptake inhibitor",
+       "Serotonin reuptake inhibitor"
+     ]
+   },
+   {
+     "/medicine/drug/part_of_compound_drug": [],
+     "/medicine/drug/brands": [],
+     "/medicine/drug/marketed_formulations": [
+       "Fentanyl citrate 600 soluable film",
+       "Fentanyl 25 patch",
+       "Fentanyl 400 tablet",
+       "Fentanyl 75 extended release patch",
+       "Fentanyl 50 patch",
+       "Fentanyl citrate 600 lozenge",
+       "Fentanyl 50 extended release patch",
+       "Fentanyl 2.55 patch",
+       "Fentanyl 12 patch",
+       "Fentanyl hydrochloride 10.8 electronically controlled extended release patch",
+       "Fentanyl citrate 800 tablet",
+       "Fentanyl 50 patch",
+       "Fentanyl 5 extended release patch",
+       "Fentanyl citrate 1600 lozenge",
+       "Fentanyl citrate 400 lozenge",
+       "Fentanyl citrate 600 tablet",
+       "Fentanyl 7.5 extended release patch",
+       "Fentanyl 12 patch",
+       "Fentanyl 75 patch",
+       "Fentanyl 5.1 patch",
+       "Fentanyl 100 patch",
+       "Fentanyl citrate 200 lozenge",
+       "Fentanyl citrate 200 tablet",
+       "Fentanyl 0.0694 extended release patch",
+       "Fentanyl citrate 1200 lozenge",
+       "Fentanyl citrate 200 lozenge",
+       "Fentanyl 12.5 patch",
+       "Fentanyl 75 patch",
+       "Fentanyl 10.2 patch",
+       "Fentanyl 100 extended release patch",
+       "Fentanyl 1.28 patch",
+       "Fentanyl citrate 1200 lozenge",
+       "Fentanyl 10 extended release patch",
+       "Fentanyl 300 tablet",
+       "Fentanyl 25 extended release patch",
+       "Fentanyl 200 tablet",
+       "Fentanyl citrate 400 soluable film",
+       "Fentanyl 7.65 patch",
+       "Fentanyl citrate 400 lozenge",
+       "Fentanyl 25 patch",
+       "Fentanyl citrate 1600 lozenge",
+       "Fentanyl citrate 1200 soluable film",
+       "Fentanyl 100 patch",
+       "Fentanyl 600 tablet",
+       "Fentanyl 1.25 extended release patch",
+       "Fentanyl citrate 600 lozenge",
+       "Fentanyl 0.0347 extended release patch",
+       "Fentanyl 800 tablet",
+       "Fentanyl citrate 800 lozenge",
+       "Fentanyl citrate 200 soluable film",
+       "Fentanyl 2.5 extended release patch",
+       "Fentanyl citrate 1200 lozenge",
+       "Fentanyl citrate 800 soluable film",
+       "Fentanyl 100 tablet",
+       "Fentanyl citrate 100 tablet",
+       "Fentanyl citrate 800 lozenge",
+       "Fentanyl citrate 400 tablet",
+       "Fentanyl citrate 50 injectable solution",
+       "Fentanyl 0.139 extended release patch",
+       "Fentanyl citrate 50 injection",
+       "Fentanyl 0.4 spray",
+       "Fentanyl 0.104 extended release patch",
+       "Fentanyl 0.2 spray",
+       "Fentanyl citrate 400 spray",
+       "Fentanyl citrate 100 spray",
+       "Fentanyl 0.8 spray",
+       "Fentanyl 0.1 spray",
+       "Fentanyl 0.6 spray"
+     ],
+     "/medicine/drug/active_moieties": [
+       "Fentanyl"
+     ],
+     "/medicine/drug/canonical_brands": [
+       "Sublimaze",
+       "Lazanda",
+       "Subsys",
+       "Actiq",
+       "Abstral",
+       "Ionsys",
+       "Duragesic",
+       "Onsolis",
+       "Fentora"
+     ],
+     "id": "/en/fentanyl",
+     "/medicine/drug/physiologic_effect": [],
+     "type": "/medicine/drug",
+     "name": "Fentanyl",
+     "ns0:/medicine/drug/marketed_formulations": [
+       "Fentanyl citrate 600 soluable film",
+       "Fentanyl 25 patch",
+       "Fentanyl 400 tablet",
+       "Fentanyl 75 extended release patch",
+       "Fentanyl 50 patch",
+       "Fentanyl citrate 600 lozenge",
+       "Fentanyl 50 extended release patch",
+       "Fentanyl 2.55 patch",
+       "Fentanyl 12 patch",
+       "Fentanyl hydrochloride 10.8 electronically controlled extended release patch",
+       "Fentanyl citrate 800 tablet",
+       "Fentanyl 50 patch",
+       "Fentanyl 5 extended release patch",
+       "Fentanyl citrate 1600 lozenge",
+       "Fentanyl citrate 400 lozenge",
+       "Fentanyl citrate 600 tablet",
+       "Fentanyl 7.5 extended release patch",
+       "Fentanyl 12 patch",
+       "Fentanyl 75 patch",
+       "Fentanyl 5.1 patch",
+       "Fentanyl 100 patch",
+       "Fentanyl citrate 200 lozenge",
+       "Fentanyl citrate 200 tablet",
+       "Fentanyl 0.0694 extended release patch",
+       "Fentanyl citrate 1200 lozenge",
+       "Fentanyl citrate 200 lozenge",
+       "Fentanyl 12.5 patch",
+       "Fentanyl 75 patch",
+       "Fentanyl 10.2 patch",
+       "Fentanyl 100 extended release patch",
+       "Fentanyl 1.28 patch",
+       "Fentanyl citrate 1200 lozenge",
+       "Fentanyl 10 extended release patch",
+       "Fentanyl 300 tablet",
+       "Fentanyl 25 extended release patch",
+       "Fentanyl 200 tablet",
+       "Fentanyl citrate 400 soluable film",
+       "Fentanyl 7.65 patch",
+       "Fentanyl citrate 400 lozenge",
+       "Fentanyl 25 patch",
+       "Fentanyl citrate 1600 lozenge",
+       "Fentanyl citrate 1200 soluable film",
+       "Fentanyl 100 patch",
+       "Fentanyl 600 tablet",
+       "Fentanyl 1.25 extended release patch",
+       "Fentanyl citrate 600 lozenge",
+       "Fentanyl 0.0347 extended release patch",
+       "Fentanyl 800 tablet",
+       "Fentanyl citrate 800 lozenge",
+       "Fentanyl citrate 200 soluable film",
+       "Fentanyl 2.5 extended release patch",
+       "Fentanyl citrate 1200 lozenge",
+       "Fentanyl citrate 800 soluable film",
+       "Fentanyl 100 tablet",
+       "Fentanyl citrate 100 tablet",
+       "Fentanyl citrate 800 lozenge",
+       "Fentanyl citrate 400 tablet",
+       "Fentanyl citrate 50 injectable solution",
+       "Fentanyl 0.139 extended release patch",
+       "Fentanyl citrate 50 injection",
+       "Fentanyl 0.4 spray",
+       "Fentanyl 0.104 extended release patch",
+       "Fentanyl 0.2 spray",
+       "Fentanyl citrate 400 spray",
+       "Fentanyl citrate 100 spray",
+       "Fentanyl 0.8 spray",
+       "Fentanyl 0.1 spray",
+       "Fentanyl 0.6 spray"
+     ],
+     "/medicine/drug/drug_class": [
+       "Analgesic",
+       "Opioid"
+     ]
+   },
+   {
+     "/medicine/drug/part_of_compound_drug": [],
+     "/medicine/drug/brands": [],
+     "/medicine/drug/marketed_formulations": [
+       "Triprolidine hydrochloride 0.25 liquid"
+     ],
+     "/medicine/drug/active_moieties": [
+       "Triprolidine"
+     ],
+     "/medicine/drug/canonical_brands": [
+       "Tripohist"
+     ],
+     "id": "/en/triprolidine",
+     "/medicine/drug/physiologic_effect": [],
+     "type": "/medicine/drug",
+     "name": "Triprolidine",
+     "ns0:/medicine/drug/marketed_formulations": [
+       "Triprolidine hydrochloride 0.25 liquid"
+     ],
+     "/medicine/drug/drug_class": []
+   },
+   {
+     "/medicine/drug/part_of_compound_drug": [],
+     "/medicine/drug/brands": [],
+     "/medicine/drug/marketed_formulations": [
+       "Trifluoperazine hydrochloride 1 tablet",
+       "Trifluoperazine hydrochloride 5 film coated tablet",
+       "Trifluoperazine hydrochloride 10 film coated tablet",
+       "Trifluoperazine hydrochloride 2 film coated tablet",
+       "Trifluoperazine hydrochloride 1 film coated tablet"
+     ],
+     "/medicine/drug/active_moieties": [
+       "Trifluoperazine"
+     ],
+     "/medicine/drug/canonical_brands": [],
+     "id": "/en/trifluoperazine",
+     "/medicine/drug/physiologic_effect": [],
+     "type": "/medicine/drug",
+     "name": "Trifluoperazine",
+     "ns0:/medicine/drug/marketed_formulations": [
+       "Trifluoperazine hydrochloride 1 tablet",
+       "Trifluoperazine hydrochloride 5 film coated tablet",
+       "Trifluoperazine hydrochloride 10 film coated tablet",
+       "Trifluoperazine hydrochloride 2 film coated tablet",
+       "Trifluoperazine hydrochloride 1 film coated tablet"
+     ],
+     "/medicine/drug/drug_class": [
+       "Phenothiazine"
+     ]
+   },
+   {
+     "/medicine/drug/part_of_compound_drug": [],
+     "/medicine/drug/brands": [],
+     "/medicine/drug/marketed_formulations": [
+       "Halothane 1 inhalant"
+     ],
+     "/medicine/drug/active_moieties": [
+       "Halothane"
+     ],
+     "/medicine/drug/canonical_brands": [],
+     "id": "/en/halothane",
+     "/medicine/drug/physiologic_effect": [],
+     "type": "/medicine/drug",
+     "name": "Halothane",
+     "ns0:/medicine/drug/marketed_formulations": [
+       "Halothane 1 inhalant"
+     ],
+     "/medicine/drug/drug_class": []
+   },
+   {
+     "/medicine/drug/part_of_compound_drug": [],
+     "/medicine/drug/brands": [],
+     "/medicine/drug/marketed_formulations": [
+       "Naloxone hydrochloride 0.4 injectable solution",
+       "Naloxone hydrochloride 0.4 injection",
+       "Naloxone hydrochloride 1 injection",
+       "Naloxone hydrochloride 1 injection",
+       "Naloxone hydrochloride 0.02 injection",
+       "Naloxone hydrochloride 0.4 injection",
+       "Naloxone hydrochloride 0.4 injection"
+     ],
+     "/medicine/drug/active_moieties": [
+       "Naloxone"
+     ],
+     "/medicine/drug/canonical_brands": [
+       "Narcan"
+     ],
+     "id": "/en/naloxone",
+     "/medicine/drug/physiologic_effect": [],
+     "type": "/medicine/drug",
+     "name": "Naloxone",
+     "ns0:/medicine/drug/marketed_formulations": [
+       "Naloxone hydrochloride 0.4 injectable solution",
+       "Naloxone hydrochloride 0.4 injection",
+       "Naloxone hydrochloride 1 injection",
+       "Naloxone hydrochloride 1 injection",
+       "Naloxone hydrochloride 0.02 injection",
+       "Naloxone hydrochloride 0.4 injection",
+       "Naloxone hydrochloride 0.4 injection"
+     ],
+     "/medicine/drug/drug_class": [
+       "Opioid antagonist"
+     ]
+   },
+   {
+     "/medicine/drug/part_of_compound_drug": [],
+     "/medicine/drug/brands": [],
+     "/medicine/drug/marketed_formulations": [
+       "Atropine sulfate 0.8 injectable solution",
+       "Atropine sulfate 0.1 injectable solution",
+       "Atropine sulfate 10 solution",
+       "Atropine sulfate 1 solution",
+       "Atropine sulfate 1 injectable solution",
+       "Atropine sulfate 1.429 injection",
+       "Atropine sulfate 0.1 injectable solution",
+       "Atropine sulfate 0.4 injectable solution",
+       "Atropine sulfate 0.1 injection",
+       "Atropine sulfate 2.857 injection",
+       "Atropine sulfate 0.833 injection",
+       "Atropine sulfate 10 solution/drops",
+       "Atropine sulfate 0.714 injection",
+       "Atropine sulfate 0.05 injectable solution",
+       "Atropine sulfate 0.1 injection",
+       "Atropine sulfate 0.4 injection"
+     ],
+     "/medicine/drug/active_moieties": [
+       "Atropine"
+     ],
+     "/medicine/drug/canonical_brands": [],
+     "id": "/en/atropine",
+     "/medicine/drug/physiologic_effect": [],
+     "type": "/medicine/drug",
+     "name": "Atropine",
+     "ns0:/medicine/drug/marketed_formulations": [
+       "Atropine sulfate 0.8 injectable solution",
+       "Atropine sulfate 0.1 injectable solution",
+       "Atropine sulfate 10 solution",
+       "Atropine sulfate 1 solution",
+       "Atropine sulfate 1 injectable solution",
+       "Atropine sulfate 1.429 injection",
+       "Atropine sulfate 0.1 injectable solution",
+       "Atropine sulfate 0.4 injectable solution",
+       "Atropine sulfate 0.1 injection",
+       "Atropine sulfate 2.857 injection",
+       "Atropine sulfate 0.833 injection",
+       "Atropine sulfate 10 solution/drops",
+       "Atropine sulfate 0.714 injection",
+       "Atropine sulfate 0.05 injectable solution",
+       "Atropine sulfate 0.1 injection",
+       "Atropine sulfate 0.4 injection"
+     ],
+     "/medicine/drug/drug_class": [
+       "Anticholinergic",
+       "Muscarinic receptor antagonists"
+     ]
+   },
+   {
+     "/medicine/drug/part_of_compound_drug": [],
+     "/medicine/drug/brands": [],
+     "/medicine/drug/marketed_formulations": [
+       "Vancomycin hydrochloride 4 lyophilized powder for injectable solution",
+       "Vancomycin hydrochloride 100 lyophilized powder for injectable solution",
+       "Vancomycin hydrochloride 1 lyophilized powder for injectable solution",
+       "Vancomycin hydrochloride 3 lyophilized powder for injectable solution",
+       "Vancomycin hydrochloride 250 capsule",
+       "Vancomycin hydrochloride 5 lyophilized powder for injectable solution",
+       "Vancomycin hydrochloride 50 lyophilized powder for injectable solution",
+       "Vancomycin hydrochloride 5 injectable solution",
+       "Vancomycin hydrochloride 125 capsule"
+     ],
+     "/medicine/drug/active_moieties": [
+       "Vancomycin"
+     ],
+     "/medicine/drug/canonical_brands": [
+       "Vancocin"
+     ],
+     "id": "/en/vancomycin",
+     "/medicine/drug/physiologic_effect": [],
+     "type": "/medicine/drug",
+     "name": "Vancomycin",
+     "ns0:/medicine/drug/marketed_formulations": [
+       "Vancomycin hydrochloride 4 lyophilized powder for injectable solution",
+       "Vancomycin hydrochloride 100 lyophilized powder for injectable solution",
+       "Vancomycin hydrochloride 1 lyophilized powder for injectable solution",
+       "Vancomycin hydrochloride 3 lyophilized powder for injectable solution",
+       "Vancomycin hydrochloride 250 capsule",
+       "Vancomycin hydrochloride 5 lyophilized powder for injectable solution",
+       "Vancomycin hydrochloride 50 lyophilized powder for injectable solution",
+       "Vancomycin hydrochloride 5 injectable solution",
+       "Vancomycin hydrochloride 125 capsule"
+     ],
+     "/medicine/drug/drug_class": [
+       "Glycopeptide antibiotic"
+     ]
+   },
+   {
+     "/medicine/drug/part_of_compound_drug": [],
+     "/medicine/drug/brands": [],
+     "/medicine/drug/marketed_formulations": [
+       "Chlorpromazine hydrochloride 25 film coated tablet",
+       "Chlorpromazine hydrochloride 100 sugar coated tablet",
+       "Chlorpromazine hydrochloride 200 tablet",
+       "Chlorpromazine hydrochloride 10 film coated tablet",
+       "Chlorpromazine hydrochloride 10 sugar coated tablet",
+       "Chlorpromazine hydrochloride 50 film coated tablet",
+       "Chlorpromazine hydrochloride 100 film coated tablet",
+       "Chlorpromazine hydrochloride 200 sugar coated tablet",
+       "Chlorpromazine hydrochloride 50 tablet",
+       "Chlorpromazine hydrochloride 25 sugar coated tablet",
+       "Chlorpromazine hydrochloride 200 film coated tablet",
+       "Chlorpromazine hydrochloride 25 injection",
+       "Chlorpromazine hydrochloride 100 tablet",
+       "Chlorpromazine hydrochloride 10 tablet",
+       "Chlorpromazine hydrochloride 50 sugar coated tablet",
+       "Chlorpromazine hydrochloride 25 tablet"
+     ],
+     "/medicine/drug/active_moieties": [
+       "Chlorpromazine"
+     ],
+     "/medicine/drug/canonical_brands": [],
+     "id": "/en/chlorpromazine",
+     "/medicine/drug/physiologic_effect": [],
+     "type": "/medicine/drug",
+     "name": "Chlorpromazine",
+     "ns0:/medicine/drug/marketed_formulations": [
+       "Chlorpromazine hydrochloride 25 film coated tablet",
+       "Chlorpromazine hydrochloride 100 sugar coated tablet",
+       "Chlorpromazine hydrochloride 200 tablet",
+       "Chlorpromazine hydrochloride 10 film coated tablet",
+       "Chlorpromazine hydrochloride 10 sugar coated tablet",
+       "Chlorpromazine hydrochloride 50 film coated tablet",
+       "Chlorpromazine hydrochloride 100 film coated tablet",
+       "Chlorpromazine hydrochloride 200 sugar coated tablet",
+       "Chlorpromazine hydrochloride 50 tablet",
+       "Chlorpromazine hydrochloride 25 sugar coated tablet",
+       "Chlorpromazine hydrochloride 200 film coated tablet",
+       "Chlorpromazine hydrochloride 25 injection",
+       "Chlorpromazine hydrochloride 100 tablet",
+       "Chlorpromazine hydrochloride 10 tablet",
+       "Chlorpromazine hydrochloride 50 sugar coated tablet",
+       "Chlorpromazine hydrochloride 25 tablet"
+     ],
+     "/medicine/drug/drug_class": [
+       "Antiemetic",
+       "Phenothiazine"
+     ]
+   },
+   {
+     "/medicine/drug/part_of_compound_drug": [],
+     "/medicine/drug/brands": [
+       "Zoloft"
+     ],
+     "/medicine/drug/marketed_formulations": [
+       "Sertraline hydrochloride 25 coated tablet",
+       "Sertraline hydrochloride 25 tablet",
+       "Sertraline hydrochloride 50 coated tablet",
+       "Sertraline hydrochloride 20 concentrate solution",
+       "Sertraline hydrochloride 100 coated tablet",
+       "Sertraline hydrochloride 25 film coated tablet",
+       "Sertraline hydrochloride 200 coated tablet",
+       "Sertraline hydrochloride 50 film coated tablet",
+       "Sertraline hydrochloride 150 coated tablet",
+       "Sertraline hydrochloride 50 tablet",
+       "Sertraline hydrochloride 100 tablet",
+       "Sertraline hydrochloride 100 film coated tablet"
+     ],
+     "/medicine/drug/active_moieties": [
+       "Sertraline"
+     ],
+     "/medicine/drug/canonical_brands": [
+       "Zoloft"
+     ],
+     "id": "/en/sertraline",
+     "/medicine/drug/physiologic_effect": [],
+     "type": "/medicine/drug",
+     "name": "Sertraline",
+     "ns0:/medicine/drug/marketed_formulations": [
+       "Sertraline hydrochloride 25 coated tablet",
+       "Sertraline hydrochloride 25 tablet",
+       "Sertraline hydrochloride 50 coated tablet",
+       "Sertraline hydrochloride 20 concentrate solution",
+       "Sertraline hydrochloride 100 coated tablet",
+       "Sertraline hydrochloride 25 film coated tablet",
+       "Sertraline hydrochloride 200 coated tablet",
+       "Sertraline hydrochloride 50 film coated tablet",
+       "Sertraline hydrochloride 150 coated tablet",
+       "Sertraline hydrochloride 50 tablet",
+       "Sertraline hydrochloride 100 tablet",
+       "Sertraline hydrochloride 100 film coated tablet"
+     ],
+     "/medicine/drug/drug_class": [
+       "Selective serotonin reuptake inhibitor",
+       "Serotonin reuptake inhibitor"
+     ]
+   },
+   {
+     "/medicine/drug/part_of_compound_drug": [],
+     "/medicine/drug/brands": [],
+     "/medicine/drug/marketed_formulations": [
+       "Cyclosporine 100 gelatin coated capsule",
+       "Cyclosporine 100 liquid filled capsule",
+       "Cyclosporine 50 injectable solution",
+       "Cyclosporine 50 liquid filled capsule",
+       "Cyclosporine 25 gelatin coated capsule",
+       "Cyclosporine 25 liquid filled capsule",
+       "Cyclosporine 25 capsule",
+       "Cyclosporine 100 capsule",
+       "Cyclosporine 100 solution",
+       "Cyclosporine 50 injection",
+       "Cyclosporine 2 solution",
+       "Cyclosporine 0.5 emulsion"
+     ],
+     "/medicine/drug/active_moieties": [
+       "Ciclosporin"
+     ],
+     "/medicine/drug/canonical_brands": [
+       "Sandimmune",
+       "Gengraf",
+       "Neoral",
+       "Restasis"
+     ],
+     "id": "/en/ciclosporin",
+     "/medicine/drug/physiologic_effect": [],
+     "type": "/medicine/drug",
+     "name": "Ciclosporin",
+     "ns0:/medicine/drug/marketed_formulations": [
+       "Cyclosporine 100 gelatin coated capsule",
+       "Cyclosporine 100 liquid filled capsule",
+       "Cyclosporine 50 injectable solution",
+       "Cyclosporine 50 liquid filled capsule",
+       "Cyclosporine 25 gelatin coated capsule",
+       "Cyclosporine 25 liquid filled capsule",
+       "Cyclosporine 25 capsule",
+       "Cyclosporine 100 capsule",
+       "Cyclosporine 100 solution",
+       "Cyclosporine 50 injection",
+       "Cyclosporine 2 solution",
+       "Cyclosporine 0.5 emulsion"
+     ],
+     "/medicine/drug/drug_class": [
+       "Calcineurin Inhibitor Immunosuppressant"
+     ]
+   },
+   {
+     "/medicine/drug/part_of_compound_drug": [],
+     "/medicine/drug/brands": [],
+     "/medicine/drug/marketed_formulations": [
+       "Ibuprofen 200 sugar coated tablet",
+       "Ibuprofen 100 tablet",
+       "Ibuprofen 400 tablet",
+       "Ibuprofen 40 liquid",
+       "Ibuprofen 200 film coated tablet",
+       "Ibuprofen 800 tablet",
+       "Ibuprofen 100 coated tablet",
+       "Ibuprofen 100 chewable tablet",
+       "Ibuprofen 200 coated tablet",
+       "Ibuprofen 200 liquid filled capsule",
+       "Ibuprofen 800 film coated tablet",
+       "Ibuprofen 600 film coated tablet",
+       "Ibuprofen 40 suspension/drops",
+       "Ibuprofen 600 tablet",
+       "Ibuprofen 20 suspension",
+       "Ibuprofen 20 liquid",
+       "Ibuprofen lysine 10 injectable solution",
+       "Ibuprofen 400 film coated tablet",
+       "Ibuprofen 100 film coated tablet",
+       "Ibuprofen 200 tablet",
+       "Ibuprofen 100 injection",
+       "Ibuprofen 40 suspension",
+       "Ibuprofen 800 tablet"
+     ],
+     "/medicine/drug/active_moieties": [
+       "Ibuprofen"
+     ],
+     "/medicine/drug/canonical_brands": [
+       "Advil",
+       "Motrin",
+       "NeoProfen",
+       "Caldolor",
+       "Midol"
+     ],
+     "id": "/en/ibuprofen",
+     "/medicine/drug/physiologic_effect": [],
+     "type": "/medicine/drug",
+     "name": "Ibuprofen",
+     "ns0:/medicine/drug/marketed_formulations": [
+       "Ibuprofen 200 sugar coated tablet",
+       "Ibuprofen 100 tablet",
+       "Ibuprofen 400 tablet",
+       "Ibuprofen 40 liquid",
+       "Ibuprofen 200 film coated tablet",
+       "Ibuprofen 800 tablet",
+       "Ibuprofen 100 coated tablet",
+       "Ibuprofen 100 chewable tablet",
+       "Ibuprofen 200 coated tablet",
+       "Ibuprofen 200 liquid filled capsule",
+       "Ibuprofen 800 film coated tablet",
+       "Ibuprofen 600 film coated tablet",
+       "Ibuprofen 40 suspension/drops",
+       "Ibuprofen 600 tablet",
+       "Ibuprofen 20 suspension",
+       "Ibuprofen 20 liquid",
+       "Ibuprofen lysine 10 injectable solution",
+       "Ibuprofen 400 film coated tablet",
+       "Ibuprofen 100 film coated tablet",
+       "Ibuprofen 200 tablet",
+       "Ibuprofen 100 injection",
+       "Ibuprofen 40 suspension",
+       "Ibuprofen 800 tablet"
+     ],
+     "/medicine/drug/drug_class": [
+       "Analgesic",
+       "Nonsteroidal anti-inflammatory drug"
+     ]
+   },
+   {
+     "/medicine/drug/part_of_compound_drug": [],
+     "/medicine/drug/brands": [],
+     "/medicine/drug/marketed_formulations": [
+       "Tacrolimus 1 gelatin coated capsule",
+       "Tacrolimus 1 gelatin coated capsule",
+       "Tacrolimus 5 capsule",
+       "Tacrolimus 1 capsule",
+       "Tacrolimus 1 ointment",
+       "Tacrolimus 5 capsule",
+       "Tacrolimus 0.5 gelatin coated capsule",
+       "Tacrolimus 5 gelatin coated capsule",
+       "Tacrolimus 0.5 capsule",
+       "Tacrolimus 5 injectable solution",
+       "Tacrolimus 0.3 ointment"
+     ],
+     "/medicine/drug/active_moieties": [
+       "Tacrolimus"
+     ],
+     "/medicine/drug/canonical_brands": [
+       "Hecoria",
+       "Protopic"
+     ],
+     "id": "/en/tacrolimus",
+     "/medicine/drug/physiologic_effect": [],
+     "type": "/medicine/drug",
+     "name": "Tacrolimus",
+     "ns0:/medicine/drug/marketed_formulations": [
+       "Tacrolimus 1 gelatin coated capsule",
+       "Tacrolimus 1 gelatin coated capsule",
+       "Tacrolimus 5 capsule",
+       "Tacrolimus 1 capsule",
+       "Tacrolimus 1 ointment",
+       "Tacrolimus 5 capsule",
+       "Tacrolimus 0.5 gelatin coated capsule",
+       "Tacrolimus 5 gelatin coated capsule",
+       "Tacrolimus 0.5 capsule",
+       "Tacrolimus 5 injectable solution",
+       "Tacrolimus 0.3 ointment"
+     ],
+     "/medicine/drug/drug_class": [
+       "Calcineurin Inhibitor Immunosuppressant"
+     ]
+   },
+   {
+     "/medicine/drug/part_of_compound_drug": [],
+     "/medicine/drug/brands": [],
+     "/medicine/drug/marketed_formulations": [],
+     "/medicine/drug/active_moieties": [],
+     "/medicine/drug/canonical_brands": [],
+     "id": "/en/methaqualone",
+     "/medicine/drug/physiologic_effect": [],
+     "type": "/medicine/drug",
+     "name": "Methaqualone",
+     "ns0:/medicine/drug/marketed_formulations": [],
+     "/medicine/drug/drug_class": []
+   },
+   {
+     "/medicine/drug/part_of_compound_drug": [],
+     "/medicine/drug/brands": [],
+     "/medicine/drug/marketed_formulations": [
+       "Pentamidine isethionate 50 inhalant",
+       "Pentamidine isethionate 100 lyophilized powder for injectable solution"
+     ],
+     "/medicine/drug/active_moieties": [
+       "Pentamidine"
+     ],
+     "/medicine/drug/canonical_brands": [
+       "NebuPent"
+     ],
+     "id": "/en/pentamidine",
+     "/medicine/drug/physiologic_effect": [],
+     "type": "/medicine/drug",
+     "name": "Pentamidine",
+     "ns0:/medicine/drug/marketed_formulations": [
+       "Pentamidine isethionate 50 inhalant",
+       "Pentamidine isethionate 100 lyophilized powder for injectable solution"
+     ],
+     "/medicine/drug/drug_class": [
+       "Antiprotozoal"
+     ]
+   },
+   {
+     "/medicine/drug/part_of_compound_drug": [],
+     "/medicine/drug/brands": [],
+     "/medicine/drug/marketed_formulations": [
+       "Succinylcholine chloride 20 injectable solution",
+       "Succinylcholine chloride 20 injectable solution",
+       "Succinylcholine chloride 100 injectable solution"
+     ],
+     "/medicine/drug/active_moieties": [
+       "Suxamethonium chloride"
+     ],
+     "/medicine/drug/canonical_brands": [
+       "Anectine",
+       "Quelicin"
+     ],
+     "id": "/en/suxamethonium_chloride",
+     "/medicine/drug/physiologic_effect": [
+       "Neuromuscular Depolarizing Blockade"
+     ],
+     "type": "/medicine/drug",
+     "name": "Suxamethonium chloride",
+     "ns0:/medicine/drug/marketed_formulations": [
+       "Succinylcholine chloride 20 injectable solution",
+       "Succinylcholine chloride 20 injectable solution",
+       "Succinylcholine chloride 100 injectable solution"
+     ],
+     "/medicine/drug/drug_class": [
+       "Depolarizing Neuromuscular Blocker"
+     ]
+   },
+   {
+     "/medicine/drug/part_of_compound_drug": [],
+     "/medicine/drug/brands": [],
+     "/medicine/drug/marketed_formulations": [
+       "Mifepristone 300 tablet"
+     ],
+     "/medicine/drug/active_moieties": [
+       "Mifepristone"
+     ],
+     "/medicine/drug/canonical_brands": [
+       "Korlym"
+     ],
+     "id": "/en/mifepristone",
+     "/medicine/drug/physiologic_effect": [],
+     "type": "/medicine/drug",
+     "name": "Mifepristone",
+     "ns0:/medicine/drug/marketed_formulations": [
+       "Mifepristone 300 tablet"
+     ],
+     "/medicine/drug/drug_class": [
+       "Progestin Antagonist"
+     ]
+   },
+   {
+     "/medicine/drug/part_of_compound_drug": [],
+     "/medicine/drug/brands": [
+       "Mollipect"
+     ],
+     "/medicine/drug/marketed_formulations": [
+       "Ephedrine sulfate 50 injectable solution",
+       "Ephedrine sulfate 25 capsule",
+       "Ephedrine sulfate 50 injection"
+     ],
+     "/medicine/drug/active_moieties": [
+       "Ephedrine"
+     ],
+     "/medicine/drug/canonical_brands": [],
+     "id": "/en/ephedrine",
+     "/medicine/drug/physiologic_effect": [],
+     "type": "/medicine/drug",
+     "name": "Ephedrine",
+     "ns0:/medicine/drug/marketed_formulations": [
+       "Ephedrine sulfate 50 injectable solution",
+       "Ephedrine sulfate 25 capsule",
+       "Ephedrine sulfate 50 injection"
+     ],
+     "/medicine/drug/drug_class": [
+       "Decongestant"
+     ]
+   },
+   {
+     "/medicine/drug/part_of_compound_drug": [],
+     "/medicine/drug/brands": [],
+     "/medicine/drug/marketed_formulations": [
+       "Haloperidol 5 injection",
+       "Haloperidol decanoate 70.52 injection",
+       "Haloperidol 20 tablet",
+       "Haloperidol 0.5 tablet",
+       "Haloperidol lactate 5 injection",
+       "Haloperidol 5 tablet",
+       "Haloperidol 10 tablet",
+       "Haloperidol 1 tablet",
+       "Haloperidol 2 solution",
+       "Haloperidol lactate 5 injectable solution",
+       "Haloperidol decanoate 141.04 injection",
+       "Haloperidol lactate 2 concentrate solution",
+       "Haloperidol 2 tablet",
+       "Haloperidol 2 concentrate solution",
+       "Haloperidol decanoate 50 injection",
+       "Haloperidol decanoate 100 injection"
+     ],
+     "/medicine/drug/active_moieties": [
+       "Haloperidol"
+     ],
+     "/medicine/drug/canonical_brands": [
+       "Haldol"
+     ],
+     "id": "/en/haloperidol",
+     "/medicine/drug/physiologic_effect": [],
+     "type": "/medicine/drug",
+     "name": "Haloperidol",
+     "ns0:/medicine/drug/marketed_formulations": [
+       "Haloperidol 5 injection",
+       "Haloperidol decanoate 70.52 injection",
+       "Haloperidol 20 tablet",
+       "Haloperidol 0.5 tablet",
+       "Haloperidol lactate 5 injection",
+       "Haloperidol 5 tablet",
+       "Haloperidol 10 tablet",
+       "Haloperidol 1 tablet",
+       "Haloperidol 2 solution",
+       "Haloperidol lactate 5 injectable solution",
+       "Haloperidol decanoate 141.04 injection",
+       "Haloperidol lactate 2 concentrate solution",
+       "Haloperidol 2 tablet",
+       "Haloperidol 2 concentrate solution",
+       "Haloperidol decanoate 50 injection",
+       "Haloperidol decanoate 100 injection"
+     ],
+     "/medicine/drug/drug_class": [
+       "Antiemetic",
+       "Typical antipsychotic"
+     ]
+   },
+   {
+     "/medicine/drug/part_of_compound_drug": [],
+     "/medicine/drug/brands": [],
+     "/medicine/drug/marketed_formulations": [
+       "Fluphenazine hydrochloride 2.5 injectable solution",
+       "Fluphenazine hydrochloride 2.5 tablet",
+       "Fluphenazine hydrochloride 10 tablet",
+       "Fluphenazine hydrochloride 1 tablet",
+       "Fluphenazine hydrochloride 5 film coated tablet",
+       "Fluphenazine hydrochloride 10 film coated tablet",
+       "Fluphenazine hydrochloride 0.5 elixir",
+       "Fluphenazine decanoate 25 injection",
+       "Fluphenazine hydrochloride 2.5 film coated tablet",
+       "Fluphenazine hydrochloride 5 tablet",
+       "Fluphenazine hydrochloride 5 concentrate solution",
+       "Fluphenazine hydrochloride 1 film coated tablet",
+       "Fluphenazine decanoate 25 injectable solution"
+     ],
+     "/medicine/drug/active_moieties": [
+       "Fluphenazine"
+     ],
+     "/medicine/drug/canonical_brands": [
+       "Prolixin"
+     ],
+     "id": "/en/fluphenazine",
+     "/medicine/drug/physiologic_effect": [],
+     "type": "/medicine/drug",
+     "name": "Fluphenazine",
+     "ns0:/medicine/drug/marketed_formulations": [
+       "Fluphenazine hydrochloride 2.5 injectable solution",
+       "Fluphenazine hydrochloride 2.5 tablet",
+       "Fluphenazine hydrochloride 10 tablet",
+       "Fluphenazine hydrochloride 1 tablet",
+       "Fluphenazine hydrochloride 5 film coated tablet",
+       "Fluphenazine hydrochloride 10 film coated tablet",
+       "Fluphenazine hydrochloride 0.5 elixir",
+       "Fluphenazine decanoate 25 injection",
+       "Fluphenazine hydrochloride 2.5 film coated tablet",
+       "Fluphenazine hydrochloride 5 tablet",
+       "Fluphenazine hydrochloride 5 concentrate solution",
+       "Fluphenazine hydrochloride 1 film coated tablet",
+       "Fluphenazine decanoate 25 injectable solution"
+     ],
+     "/medicine/drug/drug_class": [
+       "Phenothiazine"
+     ]
+   },
+   {
+     "/medicine/drug/part_of_compound_drug": [],
+     "/medicine/drug/brands": [],
+     "/medicine/drug/marketed_formulations": [
+       "Risperidone 0.25 coated tablet",
+       "Risperidone 1 film coated tablet",
+       "Risperidone 4 tablet",
+       "Risperidone 0.25 tablet",
+       "Risperidone 4 film coated tablet",
+       "Risperidone 0.25 orally disintegrating tablet",
+       "Risperidone 3 orally disintegrating tablet",
+       "Risperidone 4 orally disintegrating tablet",
+       "Risperidone 18.75 kit",
+       "Risperidone 1 orally disintegrating tablet",
+       "Risperidone 12.5 kit",
+       "Risperidone 1 solution",
+       "Risperidone 4 coated tablet",
+       "Risperidone 6.25 kit",
+       "Risperidone 1 coated tablet",
+       "Risperidone 25 kit",
+       "Risperidone 2 orally disintegrating tablet",
+       "Risperidone 2 coated tablet",
+       "Risperidone 2 tablet",
+       "Risperidone 1 tablet",
+       "Risperidone 0.25 film coated tablet",
+       "Risperidone 0.5 orally disintegrating tablet",
+       "Risperidone 3 coated tablet",
+       "Risperidone 0.5 tablet",
+       "Risperidone 3 tablet",
+       "Risperidone 0.5 film coated tablet",
+       "Risperidone 3 film coated tablet",
+       "Risperidone 0.5 coated tablet",
+       "Risperidone 2 film coated tablet"
+     ],
+     "/medicine/drug/active_moieties": [
+       "Risperidone"
+     ],
+     "/medicine/drug/canonical_brands": [
+       "Risperdal"
+     ],
+     "id": "/en/risperidone",
+     "/medicine/drug/physiologic_effect": [],
+     "type": "/medicine/drug",
+     "name": "Risperidone",
+     "ns0:/medicine/drug/marketed_formulations": [
+       "Risperidone 0.25 coated tablet",
+       "Risperidone 1 film coated tablet",
+       "Risperidone 4 tablet",
+       "Risperidone 0.25 tablet",
+       "Risperidone 4 film coated tablet",
+       "Risperidone 0.25 orally disintegrating tablet",
+       "Risperidone 3 orally disintegrating tablet",
+       "Risperidone 4 orally disintegrating tablet",
+       "Risperidone 18.75 kit",
+       "Risperidone 1 orally disintegrating tablet",
+       "Risperidone 12.5 kit",
+       "Risperidone 1 solution",
+       "Risperidone 4 coated tablet",
+       "Risperidone 6.25 kit",
+       "Risperidone 1 coated tablet",
+       "Risperidone 25 kit",
+       "Risperidone 2 orally disintegrating tablet",
+       "Risperidone 2 coated tablet",
+       "Risperidone 2 tablet",
+       "Risperidone 1 tablet",
+       "Risperidone 0.25 film coated tablet",
+       "Risperidone 0.5 orally disintegrating tablet",
+       "Risperidone 3 coated tablet",
+       "Risperidone 0.5 tablet",
+       "Risperidone 3 tablet",
+       "Risperidone 0.5 film coated tablet",
+       "Risperidone 3 film coated tablet",
+       "Risperidone 0.5 coated tablet",
+       "Risperidone 2 film coated tablet"
+     ],
+     "/medicine/drug/drug_class": [
+       "Atypical antipsychotic"
+     ]
+   },
+   {
+     "/medicine/drug/part_of_compound_drug": [],
+     "/medicine/drug/brands": [],
+     "/medicine/drug/marketed_formulations": [
+       "Quetiapine fumarate 200 film coated tablet",
+       "Quetiapine fumarate 300 film coated tablet",
+       "Quetiapine fumarate 100 film coated tablet",
+       "Quetiapine fumarate 25 film coated tablet",
+       "Quetiapine fumarate 200 extended release tablet",
+       "Quetiapine fumarate 300 extended release tablet",
+       "Quetiapine fumarate 400 extended release tablet",
+       "Quetiapine fumarate 400 film coated tablet",
+       "Quetiapine fumarate 50 extended release tablet",
+       "Quetiapine fumarate 150 extended release tablet",
+       "Quetiapine fumarate 50 film coated tablet",
+       "Quetiapine fumarate 100 tablet",
+       "Quetiapine fumarate 300 tablet",
+       "Quetiapine fumarate 200 tablet",
+       "Quetiapine fumarate 50 tablet",
+       "Quetiapine fumarate 25 tablet",
+       "Quetiapine fumarate 150 film coated tablet",
+       "Quetiapine fumarate 400 tablet"
+     ],
+     "/medicine/drug/active_moieties": [
+       "Quetiapine"
+     ],
+     "/medicine/drug/canonical_brands": [
+       "Seroquel"
+     ],
+     "id": "/en/quetiapine",
+     "/medicine/drug/physiologic_effect": [],
+     "type": "/medicine/drug",
+     "name": "Quetiapine",
+     "ns0:/medicine/drug/marketed_formulations": [
+       "Quetiapine fumarate 200 film coated tablet",
+       "Quetiapine fumarate 300 film coated tablet",
+       "Quetiapine fumarate 100 film coated tablet",
+       "Quetiapine fumarate 25 film coated tablet",
+       "Quetiapine fumarate 200 extended release tablet",
+       "Quetiapine fumarate 300 extended release tablet",
+       "Quetiapine fumarate 400 extended release tablet",
+       "Quetiapine fumarate 400 film coated tablet",
+       "Quetiapine fumarate 50 extended release tablet",
+       "Quetiapine fumarate 150 extended release tablet",
+       "Quetiapine fumarate 50 film coated tablet",
+       "Quetiapine fumarate 100 tablet",
+       "Quetiapine fumarate 300 tablet",
+       "Quetiapine fumarate 200 tablet",
+       "Quetiapine fumarate 50 tablet",
+       "Quetiapine fumarate 25 tablet",
+       "Quetiapine fumarate 150 film coated tablet",
+       "Quetiapine fumarate 400 tablet"
+     ],
+     "/medicine/drug/drug_class": [
+       "Atypical antipsychotic"
+     ]
+   },
+   {
+     "/medicine/drug/part_of_compound_drug": [],
+     "/medicine/drug/brands": [],
+     "/medicine/drug/marketed_formulations": [
+       "Ziprasidone mesylate 20 lyophilized powder for injectable solution",
+       "Ziprasidone hydrochloride 60 capsule",
+       "Ziprasidone hydrochloride 80 capsule",
+       "Ziprasidone hydrochloride 40 capsule",
+       "Ziprasidone hydrochloride 20 capsule"
+     ],
+     "/medicine/drug/active_moieties": [
+       "Ziprasidone"
+     ],
+     "/medicine/drug/canonical_brands": [
+       "Geodon"
+     ],
+     "id": "/en/ziprasidone",
+     "/medicine/drug/physiologic_effect": [],
+     "type": "/medicine/drug",
+     "name": "Ziprasidone",
+     "ns0:/medicine/drug/marketed_formulations": [
+       "Ziprasidone mesylate 20 lyophilized powder for injectable solution",
+       "Ziprasidone hydrochloride 60 capsule",
+       "Ziprasidone hydrochloride 80 capsule",
+       "Ziprasidone hydrochloride 40 capsule",
+       "Ziprasidone hydrochloride 20 capsule"
+     ],
+     "/medicine/drug/drug_class": [
+       "Atypical antipsychotic"
+     ]
+   },
+   {
+     "/medicine/drug/part_of_compound_drug": [],
+     "/medicine/drug/brands": [],
+     "/medicine/drug/marketed_formulations": [
+       "Olanzapine 2.5 tablet",
+       "Olanzapine 15 tablet",
+       "Olanzapine 5 orally disintegrating tablet",
+       "Olanzapine 10 film coated tablet",
+       "Olanzapine 5 tablet",
+       "Olanzapine pamoate 150 kit",
+       "Olanzapine 10 orally disintegrating tablet",
+       "Olanzapine 15 orally disintegrating tablet",
+       "Olanzapine 7.5 tablet",
+       "Olanzapine 20 orally disintegrating tablet",
+       "Olanzapine 10 tablet",
+       "Olanzapine 5 powder for injectable solution",
+       "Olanzapine 20 tablet",
+       "Olanzapine 15 film coated tablet",
+       "Olanzapine 7.5 film coated tablet",
+       "Olanzapine 2.5 film coated tablet",
+       "Olanzapine 5 film coated tablet",
+       "Olanzapine 20 film coated tablet"
+     ],
+     "/medicine/drug/active_moieties": [
+       "Olanzapine"
+     ],
+     "/medicine/drug/canonical_brands": [
+       "Zyprexa"
+     ],
+     "id": "/en/olanzapine",
+     "/medicine/drug/physiologic_effect": [],
+     "type": "/medicine/drug",
+     "name": "Olanzapine",
+     "ns0:/medicine/drug/marketed_formulations": [
+       "Olanzapine 2.5 tablet",
+       "Olanzapine 15 tablet",
+       "Olanzapine 5 orally disintegrating tablet",
+       "Olanzapine 10 film coated tablet",
+       "Olanzapine 5 tablet",
+       "Olanzapine pamoate 150 kit",
+       "Olanzapine 10 orally disintegrating tablet",
+       "Olanzapine 15 orally disintegrating tablet",
+       "Olanzapine 7.5 tablet",
+       "Olanzapine 20 orally disintegrating tablet",
+       "Olanzapine 10 tablet",
+       "Olanzapine 5 powder for injectable solution",
+       "Olanzapine 20 tablet",
+       "Olanzapine 15 film coated tablet",
+       "Olanzapine 7.5 film coated tablet",
+       "Olanzapine 2.5 film coated tablet",
+       "Olanzapine 5 film coated tablet",
+       "Olanzapine 20 film coated tablet"
+     ],
+     "/medicine/drug/drug_class": [
+       "Atypical antipsychotic"
+     ]
+   },
+   {
+     "/medicine/drug/part_of_compound_drug": [],
+     "/medicine/drug/brands": [],
+     "/medicine/drug/marketed_formulations": [
+       "Benztropine mesylate 1 tablet",
+       "Benztropine mesylate 1 injection",
+       "Benztropine mesylate 0.5 tablet",
+       "Benztropine mesylate 2 tablet",
+       "Benztropine mesylate 1 injectable solution",
+       "Benztropine mesylate 1 injection"
+     ],
+     "/medicine/drug/active_moieties": [
+       "Benzatropine"
+     ],
+     "/medicine/drug/canonical_brands": [
+       "Cogentin"
+     ],
+     "id": "/en/benztropine",
+     "/medicine/drug/physiologic_effect": [],
+     "type": "/medicine/drug",
+     "name": "Benzatropine",
+     "ns0:/medicine/drug/marketed_formulations": [
+       "Benztropine mesylate 1 tablet",
+       "Benztropine mesylate 1 injection",
+       "Benztropine mesylate 0.5 tablet",
+       "Benztropine mesylate 2 tablet",
+       "Benztropine mesylate 1 injectable solution",
+       "Benztropine mesylate 1 injection"
+     ],
+     "/medicine/drug/drug_class": [
+       "Anticholinergic",
+       "H1 antagonist"
+     ]
+   },
+   {
+     "/medicine/drug/part_of_compound_drug": [],
+     "/medicine/drug/brands": [],
+     "/medicine/drug/marketed_formulations": [
+       "Propranolol hydrochloride 40 tablet",
+       "Propranolol hydrochloride 120 extended release capsule",
+       "Propranolol hydrochloride 60 gelatin coated capsule",
+       "Propranolol hydrochloride 10 tablet",
+       "Propranolol 1 injection",
+       "Propranolol hydrochloride 80 extended release capsule",
+       "Propranolol hydrochloride 60 extended release capsule",
+       "Propranolol hydrochloride 80 tablet",
+       "Propranolol hydrochloride 60 tablet",
+       "Propranolol hydrochloride 20 tablet",
+       "Propranolol hydrochloride 120 gelatin coated capsule",
+       "Propranolol hydrochloride 8 solution",
+       "Propranolol hydrochloride 50 tablet",
+       "Propranolol hydrochloride 160 extended release capsule",
+       "Propranolol hydrochloride 80 gelatin coated capsule",
+       "Propranolol hydrochloride 4 solution",
+       "Propranolol hydrochloride 1 injection",
+       "Propranolol hydrochloride 1 injectable solution",
+       "Propranolol hydrochloride 160 gelatin coated capsule"
+     ],
+     "/medicine/drug/active_moieties": [
+       "Propranolol"
+     ],
+     "/medicine/drug/canonical_brands": [],
+     "id": "/en/propranolol",
+     "/medicine/drug/physiologic_effect": [],
+     "type": "/medicine/drug",
+     "name": "Propranolol",
+     "ns0:/medicine/drug/marketed_formulations": [
+       "Propranolol hydrochloride 40 tablet",
+       "Propranolol hydrochloride 120 extended release capsule",
+       "Propranolol hydrochloride 60 gelatin coated capsule",
+       "Propranolol hydrochloride 10 tablet",
+       "Propranolol 1 injection",
+       "Propranolol hydrochloride 80 extended release capsule",
+       "Propranolol hydrochloride 60 extended release capsule",
+       "Propranolol hydrochloride 80 tablet",
+       "Propranolol hydrochloride 60 tablet",
+       "Propranolol hydrochloride 20 tablet",
+       "Propranolol hydrochloride 120 gelatin coated capsule",
+       "Propranolol hydrochloride 8 solution",
+       "Propranolol hydrochloride 50 tablet",
+       "Propranolol hydrochloride 160 extended release capsule",
+       "Propranolol hydrochloride 80 gelatin coated capsule",
+       "Propranolol hydrochloride 4 solution",
+       "Propranolol hydrochloride 1 injection",
+       "Propranolol hydrochloride 1 injectable solution",
+       "Propranolol hydrochloride 160 gelatin coated capsule"
+     ],
+     "/medicine/drug/drug_class": [
+       "Beta blocker"
+     ]
+   },
+   {
+     "/medicine/drug/part_of_compound_drug": [],
+     "/medicine/drug/brands": [],
+     "/medicine/drug/marketed_formulations": [
+       "Clarithromycin 50 granule for suspension",
+       "Clarithromycin 250 tablet",
+       "Clarithromycin 25 granule for suspension",
+       "Clarithromycin 500 extended release film coated tablet",
+       "Clarithromycin 25 suspension",
+       "Clarithromycin 50 for suspension",
+       "Clarithromycin 250 coated tablet",
+       "Clarithromycin 500 coated tablet",
+       "Clarithromycin 250 film coated tablet",
+       "Clarithromycin 1000 extended release film coated tablet",
+       "Clarithromycin 500 tablet",
+       "Clarithromycin 25 for suspension",
+       "Clarithromycin 500 film coated tablet",
+       "Clarithromycin 50 suspension",
+       "Clarithromycin 500 extended release tablet"
+     ],
+     "/medicine/drug/active_moieties": [
+       "Clarithromycin"
+     ],
+     "/medicine/drug/canonical_brands": [
+       "Biaxin"
+     ],
+     "id": "/en/clarithromycin",
+     "/medicine/drug/physiologic_effect": [],
+     "type": "/medicine/drug",
+     "name": "Clarithromycin",
+     "ns0:/medicine/drug/marketed_formulations": [
+       "Clarithromycin 50 granule for suspension",
+       "Clarithromycin 250 tablet",
+       "Clarithromycin 25 granule for suspension",
+       "Clarithromycin 500 extended release film coated tablet",
+       "Clarithromycin 25 suspension",
+       "Clarithromycin 50 for suspension",
+       "Clarithromycin 250 coated tablet",
+       "Clarithromycin 500 coated tablet",
+       "Clarithromycin 250 film coated tablet",
+       "Clarithromycin 1000 extended release film coated tablet",
+       "Clarithromycin 500 tablet",
+       "Clarithromycin 25 for suspension",
+       "Clarithromycin 500 film coated tablet",
+       "Clarithromycin 50 suspension",
+       "Clarithromycin 500 extended release tablet"
+     ],
+     "/medicine/drug/drug_class": [
+       "Macrolide Antibiotic",
+       "Macrolide Antimicrobial"
+     ]
+   },
+   {
+     "/medicine/drug/part_of_compound_drug": [],
+     "/medicine/drug/brands": [],
+     "/medicine/drug/marketed_formulations": [
+       "Mefloquine hydrochloride 250 tablet"
+     ],
+     "/medicine/drug/active_moieties": [
+       "Mefloquine"
+     ],
+     "/medicine/drug/canonical_brands": [],
+     "id": "/en/mefloquine",
+     "/medicine/drug/physiologic_effect": [],
+     "type": "/medicine/drug",
+     "name": "Mefloquine",
+     "ns0:/medicine/drug/marketed_formulations": [
+       "Mefloquine hydrochloride 250 tablet"
+     ],
+     "/medicine/drug/drug_class": [
+       "Antimalarial medication"
+     ]
+   },
+   {
+     "/medicine/drug/part_of_compound_drug": [],
+     "/medicine/drug/brands": [],
+     "/medicine/drug/marketed_formulations": [],
+     "/medicine/drug/active_moieties": [],
+     "/medicine/drug/canonical_brands": [],
+     "id": "/en/diethylcarbamazine",
+     "/medicine/drug/physiologic_effect": [],
+     "type": "/medicine/drug",
+     "name": "Diethylcarbamazine",
+     "ns0:/medicine/drug/marketed_formulations": [],
+     "/medicine/drug/drug_class": [
+       "Antiparasitic"
+     ]
+   },
+   {
+     "/medicine/drug/part_of_compound_drug": [],
+     "/medicine/drug/brands": [],
+     "/medicine/drug/marketed_formulations": [],
+     "/medicine/drug/active_moieties": [],
+     "/medicine/drug/canonical_brands": [],
+     "id": "/en/glutethimide",
+     "/medicine/drug/physiologic_effect": [],
+     "type": "/medicine/drug",
+     "name": "Glutethimide",
+     "ns0:/medicine/drug/marketed_formulations": [],
+     "/medicine/drug/drug_class": []
+   },
+   {
+     "/medicine/drug/part_of_compound_drug": [],
+     "/medicine/drug/brands": [],
+     "/medicine/drug/marketed_formulations": [
+       "Zidovudine 300 film coated tablet",
+       "Zidovudine 300 tablet",
+       "Zidovudine 10 syrup",
+       "Zidovudine 10 injectable solution",
+       "Zidovudine 100 capsule"
+     ],
+     "/medicine/drug/active_moieties": [
+       "Zidovudine"
+     ],
+     "/medicine/drug/canonical_brands": [
+       "Retrovir"
+     ],
+     "id": "/en/zidovudine",
+     "/medicine/drug/physiologic_effect": [],
+     "type": "/medicine/drug",
+     "name": "Zidovudine",
+     "ns0:/medicine/drug/marketed_formulations": [
+       "Zidovudine 300 film coated tablet",
+       "Zidovudine 300 tablet",
+       "Zidovudine 10 syrup",
+       "Zidovudine 10 injectable solution",
+       "Zidovudine 100 capsule"
+     ],
+     "/medicine/drug/drug_class": [
+       "Human Immunodeficiency Virus Nucleoside Analog Reverse Transcriptase Inhibitor"
+     ]
+   },
+   {
+     "/medicine/drug/part_of_compound_drug": [],
+     "/medicine/drug/brands": [],
+     "/medicine/drug/marketed_formulations": [
+       "Escitalopram oxalate 10 tablet",
+       "Escitalopram oxalate 20 film coated tablet",
+       "Escitalopram oxalate 1 liquid",
+       "Escitalopram oxalate 20 tablet",
+       "Escitalopram oxalate 5 tablet",
+       "Escitalopram oxalate 10 film coated tablet",
+       "Escitalopram oxalate 5 film coated tablet",
+       "Escitalopram oxalate 1 solution"
+     ],
+     "/medicine/drug/active_moieties": [
+       "Escitalopram"
+     ],
+     "/medicine/drug/canonical_brands": [
+       "Lexapro"
+     ],
+     "id": "/en/escitalopram",
+     "/medicine/drug/physiologic_effect": [],
+     "type": "/medicine/drug",
+     "name": "Escitalopram",
+     "ns0:/medicine/drug/marketed_formulations": [
+       "Escitalopram oxalate 10 tablet",
+       "Escitalopram oxalate 20 film coated tablet",
+       "Escitalopram oxalate 1 liquid",
+       "Escitalopram oxalate 20 tablet",
+       "Escitalopram oxalate 5 tablet",
+       "Escitalopram oxalate 10 film coated tablet",
+       "Escitalopram oxalate 5 film coated tablet",
+       "Escitalopram oxalate 1 solution"
+     ],
+     "/medicine/drug/drug_class": [
+       "Selective serotonin reuptake inhibitor",
+       "Serotonin reuptake inhibitor"
+     ]
+   },
+   {
+     "/medicine/drug/part_of_compound_drug": [],
+     "/medicine/drug/brands": [],
+     "/medicine/drug/marketed_formulations": [
+       "Citalopram 40 film coated tablet",
+       "Citalopram hydrobromide 20 capsule",
+       "Citalopram hydrobromide 40 tablet",
+       "Citalopram hydrobromide 20 tablet",
+       "Citalopram hydrobromide 2 solution",
+       "Citalopram hydrobromide 40 capsule",
+       "Citalopram 20 film coated tablet",
+       "Citalopram hydrobromide 40 film coated tablet",
+       "Citalopram hydrobromide 10 capsule",
+       "Citalopram hydrobromide 20 film coated tablet",
+       "Citalopram hydrobromide 10 tablet",
+       "Citalopram hydrobromide 2 suspension",
+       "Citalopram hydrobromide 10 film coated tablet"
+     ],
+     "/medicine/drug/active_moieties": [
+       "Citalopram"
+     ],
+     "/medicine/drug/canonical_brands": [
+       "Celexa"
+     ],
+     "id": "/en/citalopram",
+     "/medicine/drug/physiologic_effect": [],
+     "type": "/medicine/drug",
+     "name": "Citalopram",
+     "ns0:/medicine/drug/marketed_formulations": [
+       "Citalopram 40 film coated tablet",
+       "Citalopram hydrobromide 20 capsule",
+       "Citalopram hydrobromide 40 tablet",
+       "Citalopram hydrobromide 20 tablet",
+       "Citalopram hydrobromide 2 solution",
+       "Citalopram hydrobromide 40 capsule",
+       "Citalopram 20 film coated tablet",
+       "Citalopram hydrobromide 40 film coated tablet",
+       "Citalopram hydrobromide 10 capsule",
+       "Citalopram hydrobromide 20 film coated tablet",
+       "Citalopram hydrobromide 10 tablet",
+       "Citalopram hydrobromide 2 suspension",
+       "Citalopram hydrobromide 10 film coated tablet"
+     ],
+     "/medicine/drug/drug_class": [
+       "Selective serotonin reuptake inhibitor",
+       "Serotonin reuptake inhibitor"
+     ]
+   },
+   {
+     "/medicine/drug/part_of_compound_drug": [],
+     "/medicine/drug/brands": [],
+     "/medicine/drug/marketed_formulations": [
+       "Enfuvirtide 90 kit"
+     ],
+     "/medicine/drug/active_moieties": [
+       "Enfuvirtide"
+     ],
+     "/medicine/drug/canonical_brands": [
+       "Fuzeon"
+     ],
+     "id": "/en/enfuvirtide",
+     "/medicine/drug/physiologic_effect": [],
+     "type": "/medicine/drug",
+     "name": "Enfuvirtide",
+     "ns0:/medicine/drug/marketed_formulations": [
+       "Enfuvirtide 90 kit"
+     ],
+     "/medicine/drug/drug_class": []
+   },
+   {
+     "/medicine/drug/part_of_compound_drug": [],
+     "/medicine/drug/brands": [],
+     "/medicine/drug/marketed_formulations": [
+       "Methylphenidate hydrochloride 18 tablet",
+       "Methylphenidate hydrochloride 20 extended release capsule",
+       "Methylphenidate hydrochloride 1 solution",
+       "Methylphenidate hydrochloride 50 extended release capsule",
+       "Methylphenidate hydrochloride 27 tablet",
+       "Methylphenidate hydrochloride 36 extended release tablet",
+       "Methylphenidate hydrochloride 5 tablet",
+       "Methylphenidate hydrochloride 10 tablet",
+       "Methylphenidate hydrochloride 30 extended release capsule",
+       "Methylphenidate 1.667 patch",
+       "Methylphenidate 1.111 patch",
+       "Methylphenidate hydrochloride 60 extended release capsule",
+       "Methylphenidate hydrochloride 20 extended release tablet",
+       "Methylphenidate hydrochloride 18 extended release tablet",
+       "Methylphenidate hydrochloride 2 solution",
+       "Methylphenidate 2.222 patch",
+       "Methylphenidate hydrochloride 10 extended release tablet",
+       "Methylphenidate hydrochloride 2.5 chewable tablet",
+       "Methylphenidate 3.333 patch",
+       "Methylphenidate hydrochloride 36 tablet",
+       "Methylphenidate hydrochloride 10 extended release capsule",
+       "Methylphenidate hydrochloride 20 extended release film coated tablet",
+       "Methylphenidate hydrochloride 5 chewable tablet",
+       "Methylphenidate hydrochloride 54 tablet",
+       "Methylphenidate hydrochloride 20 tablet",
+       "Methylphenidate hydrochloride 27 extended release tablet",
+       "Methylphenidate hydrochloride 40 extended release capsule",
+       "Methylphenidate hydrochloride 10 chewable tablet",
+       "Methylphenidate hydrochloride 54 extended release tablet"
+     ],
+     "/medicine/drug/active_moieties": [
+       "Methylphenidate"
+     ],
+     "/medicine/drug/canonical_brands": [
+       "Methylin",
+       "Daytrana",
+       "Ritalin",
+       "Concerta"
+     ],
+     "id": "/en/methylphenidate",
+     "/medicine/drug/physiologic_effect": [
+       "Central Nervous System Stimulation"
+     ],
+     "type": "/medicine/drug",
+     "name": "Methylphenidate",
+     "ns0:/medicine/drug/marketed_formulations": [
+       "Methylphenidate hydrochloride 18 tablet",
+       "Methylphenidate hydrochloride 20 extended release capsule",
+       "Methylphenidate hydrochloride 1 solution",
+       "Methylphenidate hydrochloride 50 extended release capsule",
+       "Methylphenidate hydrochloride 27 tablet",
+       "Methylphenidate hydrochloride 36 extended release tablet",
+       "Methylphenidate hydrochloride 5 tablet",
+       "Methylphenidate hydrochloride 10 tablet",
+       "Methylphenidate hydrochloride 30 extended release capsule",
+       "Methylphenidate 1.667 patch",
+       "Methylphenidate 1.111 patch",
+       "Methylphenidate hydrochloride 60 extended release capsule",
+       "Methylphenidate hydrochloride 20 extended release tablet",
+       "Methylphenidate hydrochloride 18 extended release tablet",
+       "Methylphenidate hydrochloride 2 solution",
+       "Methylphenidate 2.222 patch",
+       "Methylphenidate hydrochloride 10 extended release tablet",
+       "Methylphenidate hydrochloride 2.5 chewable tablet",
+       "Methylphenidate 3.333 patch",
+       "Methylphenidate hydrochloride 36 tablet",
+       "Methylphenidate hydrochloride 10 extended release capsule",
+       "Methylphenidate hydrochloride 20 extended release film coated tablet",
+       "Methylphenidate hydrochloride 5 chewable tablet",
+       "Methylphenidate hydrochloride 54 tablet",
+       "Methylphenidate hydrochloride 20 tablet",
+       "Methylphenidate hydrochloride 27 extended release tablet",
+       "Methylphenidate hydrochloride 40 extended release capsule",
+       "Methylphenidate hydrochloride 10 chewable tablet",
+       "Methylphenidate hydrochloride 54 extended release tablet"
+     ],
+     "/medicine/drug/drug_class": [
+       "Central Nervous System Stimulant"
+     ]
+   },
+   {
+     "/medicine/drug/part_of_compound_drug": [],
+     "/medicine/drug/brands": [],
+     "/medicine/drug/marketed_formulations": [
+       "Streptomycin sulfate 400 injectable solution",
+       "Streptomycin 1 lyophilized powder for injectable solution",
+       "Streptomycin 1 lyophilized powder for injectable solution"
+     ],
+     "/medicine/drug/active_moieties": [
+       "Streptomycin"
+     ],
+     "/medicine/drug/canonical_brands": [],
+     "id": "/en/streptomycin",
+     "/medicine/drug/physiologic_effect": [],
+     "type": "/medicine/drug",
+     "name": "Streptomycin",
+     "ns0:/medicine/drug/marketed_formulations": [
+       "Streptomycin sulfate 400 injectable solution",
+       "Streptomycin 1 lyophilized powder for injectable solution",
+       "Streptomycin 1 lyophilized powder for injectable solution"
+     ],
+     "/medicine/drug/drug_class": [
+       "Antimycobacterial",
+       "Aminoglycoside antibiotic"
+     ]
+   },
+   {
+     "/medicine/drug/part_of_compound_drug": [],
+     "/medicine/drug/brands": [],
+     "/medicine/drug/marketed_formulations": [
+       "Oxytocin 10 injection",
+       "Syntocinon 10 injectable solution",
+       "Oxytocin 10 injection",
+       "Oxytocin 10 injection"
+     ],
+     "/medicine/drug/active_moieties": [
+       "Oxytocin"
+     ],
+     "/medicine/drug/canonical_brands": [
+       "Pitocin"
+     ],
+     "id": "/en/oxytocin",
+     "/medicine/drug/physiologic_effect": [
+       "Increased Uterine Smooth Muscle Contraction or Tone"
+     ],
+     "type": "/medicine/drug",
+     "name": "Oxytocin",
+     "ns0:/medicine/drug/marketed_formulations": [
+       "Oxytocin 10 injection",
+       "Syntocinon 10 injectable solution",
+       "Oxytocin 10 injection",
+       "Oxytocin 10 injection"
+     ],
+     "/medicine/drug/drug_class": [
+       "Oxytocic"
+     ]
+   },
+   {
+     "/medicine/drug/part_of_compound_drug": [],
+     "/medicine/drug/brands": [],
+     "/medicine/drug/marketed_formulations": [
+       "Pancuronium bromide 2 injection",
+       "Pancuronium bromide 1 injection",
+       "Pancuronium bromide 1 injectable solution"
+     ],
+     "/medicine/drug/active_moieties": [
+       "Pancuronium bromide"
+     ],
+     "/medicine/drug/canonical_brands": [],
+     "id": "/en/pancuronium",
+     "/medicine/drug/physiologic_effect": [
+       "Neuromuscular Nondepolarizing Blockade"
+     ],
+     "type": "/medicine/drug",
+     "name": "Pancuronium bromide",
+     "ns0:/medicine/drug/marketed_formulations": [
+       "Pancuronium bromide 2 injection",
+       "Pancuronium bromide 1 injection",
+       "Pancuronium bromide 1 injectable solution"
+     ],
+     "/medicine/drug/drug_class": [
+       "Nondepolarizing Neuromuscular Blocker"
+     ]
+   },
+   {
+     "/medicine/drug/part_of_compound_drug": [],
+     "/medicine/drug/brands": [],
+     "/medicine/drug/marketed_formulations": [
+       "Hyoscyamine sulfate 0.375 tablet",
+       "Hyoscyamine sulfate 0.025 elixir",
+       "Hyoscyamine sulfate 0.125 soluable tablet",
+       "Hyoscyamine sulfate 0.125 orally disintegrating tablet",
+       "Hyoscyamine sulfate 0.125 tablet",
+       "Hyoscyamine sulfate 0.125 tablet",
+       "Hyoscyamine sulfate 0.125 orally disintegrating tablet",
+       "Hyoscyamine sulfate 0.025 liquid",
+       "Hyoscyamine sulfate 0.125 orally disintegrating tablet",
+       "Hyoscyamine sulfate 0.125 solution/drops",
+       "Hyoscyamine sulfate 0.375 extended release tablet",
+       "Hyoscyamine sulfate 0.125 liquid",
+       "Hyoscyamine sulfate 0.5 injectable solution"
+     ],
+     "/medicine/drug/active_moieties": [
+       "Hyoscyamine"
+     ],
+     "/medicine/drug/canonical_brands": [
+       "HyoMax-DT",
+       "Oscimin",
+       "HyoMax-SL",
+       "HyoMax-SR",
+       "Levsin",
+       "Ed-spaz",
+       "Hyosyne"
+     ],
+     "id": "/en/hyoscyamine",
+     "/medicine/drug/physiologic_effect": [],
+     "type": "/medicine/drug",
+     "name": "Hyoscyamine",
+     "ns0:/medicine/drug/marketed_formulations": [
+       "Hyoscyamine sulfate 0.375 tablet",
+       "Hyoscyamine sulfate 0.025 elixir",
+       "Hyoscyamine sulfate 0.125 soluable tablet",
+       "Hyoscyamine sulfate 0.125 orally disintegrating tablet",
+       "Hyoscyamine sulfate 0.125 tablet",
+       "Hyoscyamine sulfate 0.125 tablet",
+       "Hyoscyamine sulfate 0.125 orally disintegrating tablet",
+       "Hyoscyamine sulfate 0.025 liquid",
+       "Hyoscyamine sulfate 0.125 orally disintegrating tablet",
+       "Hyoscyamine sulfate 0.125 solution/drops",
+       "Hyoscyamine sulfate 0.375 extended release tablet",
+       "Hyoscyamine sulfate 0.125 liquid",
+       "Hyoscyamine sulfate 0.5 injectable solution"
+     ],
+     "/medicine/drug/drug_class": []
+   },
+   {
+     "/medicine/drug/part_of_compound_drug": [],
+     "/medicine/drug/brands": [],
+     "/medicine/drug/marketed_formulations": [
+       "Estradiol 0.05 extended release patch",
+       "Estradiol 0.05 patch",
+       "Estradiol 0.6 gel",
+       "Estradiol 0.075 patch",
+       "Estradiol 0.0375 extended release patch",
+       "Estradiol 0.075 patch",
+       "Estradiol 0.075 extended release patch",
+       "Estradiol 0.05 patch",
+       "Estradiol valerate 40 injection",
+       "Estradiol 0.1 patch",
+       "Estradiol 0.001 gel",
+       "Estradiol 2 film coated tablet",
+       "Estradiol 0.0304 patch",
+       "Estradiol 0.025 patch",
+       "Estradiol 0.025 patch",
+       "Estradiol 0.025 extended release patch",
+       "Estradiol 0.5 film coated tablet",
+       "Estradiol valerate 20 injectable solution",
+       "Estradiol 0.0404 patch",
+       "Estradiol 0.0006 metered gel",
+       "Estradiol 2 tablet",
+       "Estradiol 0.1 patch",
+       "Estradiol acetate 0.05 ring",
+       "Estradiol valerate 20 injection",
+       "Estradiol 1 gel",
+       "Estradiol 0.0202 patch",
+       "Estradiol acetate 0.00417 ring",
+       "Estradiol 8 extended release patch",
+       "Estradiol 0.5 tablet",
+       "Estradiol 4 extended release patch",
+       "Estradiol 1 film coated tablet",
+       "Estradiol 0.0375 patch",
+       "Estradiol 0.1 cream",
+       "Estradiol acetate 0.1 ring",
+       "Estradiol 1.53 metered spray",
+       "Estradiol 0.06 patch",
+       "Estradiol valerate 10 injection",
+       "Estradiol 0.0375 patch",
+       "Estradiol 14 patch",
+       "Estradiol 2 ring",
+       "Estradiol hemihydrate 2.5 emulsion",
+       "Estradiol 0.06 patch",
+       "Estradiol acetate 0.45 tablet",
+       "Estradiol 25 film coated tablet",
+       "Estradiol acetate 0.9 tablet",
+       "Estradiol 10 film coated tablet",
+       "Estradiol 1 tablet",
+       "Estradiol valerate 40 injectable solution",
+       "Estradiol acetate 1.8 tablet",
+       "Estradiol 0.1 extended release patch"
+     ],
+     "/medicine/drug/active_moieties": [
+       "Estradiol"
+     ],
+     "/medicine/drug/canonical_brands": [
+       "Femring",
+       "Estring",
+       "Alora",
+       "Elestrin",
+       "Delestrogen",
+       "Innofem",
+       "Estrace",
+       "Estrasorb",
+       "Climara",
+       "EstroGel",
+       "Evamist",
+       "Vagifem",
+       "Femtrace",
+       "Divigel",
+       "Menostar",
+       "Estraderm"
+     ],
+     "id": "/en/estradiol",
+     "/medicine/drug/physiologic_effect": [],
+     "type": "/medicine/drug",
+     "name": "Estradiol",
+     "ns0:/medicine/drug/marketed_formulations": [
+       "Estradiol 0.05 extended release patch",
+       "Estradiol 0.05 patch",
+       "Estradiol 0.6 gel",
+       "Estradiol 0.075 patch",
+       "Estradiol 0.0375 extended release patch",
+       "Estradiol 0.075 patch",
+       "Estradiol 0.075 extended release patch",
+       "Estradiol 0.05 patch",
+       "Estradiol valerate 40 injection",
+       "Estradiol 0.1 patch",
+       "Estradiol 0.001 gel",
+       "Estradiol 2 film coated tablet",
+       "Estradiol 0.0304 patch",
+       "Estradiol 0.025 patch",
+       "Estradiol 0.025 patch",
+       "Estradiol 0.025 extended release patch",
+       "Estradiol 0.5 film coated tablet",
+       "Estradiol valerate 20 injectable solution",
+       "Estradiol 0.0404 patch",
+       "Estradiol 0.0006 metered gel",
+       "Estradiol 2 tablet",
+       "Estradiol 0.1 patch",
+       "Estradiol acetate 0.05 ring",
+       "Estradiol valerate 20 injection",
+       "Estradiol 1 gel",
+       "Estradiol 0.0202 patch",
+       "Estradiol acetate 0.00417 ring",
+       "Estradiol 8 extended release patch",
+       "Estradiol 0.5 tablet",
+       "Estradiol 4 extended release patch",
+       "Estradiol 1 film coated tablet",
+       "Estradiol 0.0375 patch",
+       "Estradiol 0.1 cream",
+       "Estradiol acetate 0.1 ring",
+       "Estradiol 1.53 metered spray",
+       "Estradiol 0.06 patch",
+       "Estradiol valerate 10 injection",
+       "Estradiol 0.0375 patch",
+       "Estradiol 14 patch",
+       "Estradiol 2 ring",
+       "Estradiol hemihydrate 2.5 emulsion",
+       "Estradiol 0.06 patch",
+       "Estradiol acetate 0.45 tablet",
+       "Estradiol 25 film coated tablet",
+       "Estradiol acetate 0.9 tablet",
+       "Estradiol 10 film coated tablet",
+       "Estradiol 1 tablet",
+       "Estradiol valerate 40 injectable solution",
+       "Estradiol acetate 1.8 tablet",
+       "Estradiol 0.1 extended release patch"
+     ],
+     "/medicine/drug/drug_class": [
+       "Estrogen"
+     ]
+   },
+   {
+     "/medicine/drug/part_of_compound_drug": [],
+     "/medicine/drug/brands": [],
+     "/medicine/drug/marketed_formulations": [
+       "Isotretinoin 40 liquid filled capsule",
+       "Isotretinoin 10 capsule",
+       "Isotretinoin 40 gelatin coated capsule",
+       "Isotretinoin 20 liquid filled capsule",
+       "Isotretinoin 30 capsule",
+       "Isotretinoin 10 gelatin coated capsule",
+       "Isotretinoin 10 liquid filled capsule",
+       "Isotretinoin 30 gelatin coated capsule",
+       "Isotretinoin 40 capsule",
+       "Isotretinoin 20 capsule"
+     ],
+     "/medicine/drug/active_moieties": [
+       "Isotretinoin"
+     ],
+     "/medicine/drug/canonical_brands": [
+       "Myorisan",
+       "Claravis",
+       "Accutane",
+       "Sotret",
+       "Amnesteem"
+     ],
+     "id": "/en/isotretinoin",
+     "/medicine/drug/physiologic_effect": [],
+     "type": "/medicine/drug",
+     "name": "Isotretinoin",
+     "ns0:/medicine/drug/marketed_formulations": [
+       "Isotretinoin 40 liquid filled capsule",
+       "Isotretinoin 10 capsule",
+       "Isotretinoin 40 gelatin coated capsule",
+       "Isotretinoin 20 liquid filled capsule",
+       "Isotretinoin 30 capsule",
+       "Isotretinoin 10 gelatin coated capsule",
+       "Isotretinoin 10 liquid filled capsule",
+       "Isotretinoin 30 gelatin coated capsule",
+       "Isotretinoin 40 capsule",
+       "Isotretinoin 20 capsule"
+     ],
+     "/medicine/drug/drug_class": [
+       "Retinoid"
+     ]
+   },
+   {
+     "/medicine/drug/part_of_compound_drug": [],
+     "/medicine/drug/brands": [
+       "Valium"
+     ],
+     "/medicine/drug/marketed_formulations": [
+       "Diazepam 1 solution",
+       "Diazepam intensol 5 concentrate solution",
+       "Diazepam 5 injectable solution",
+       "Diazepam 0.5 gel",
+       "Diazepam 2 gel",
+       "Diazepam 2 tablet",
+       "Diazepam 5 injection",
+       "Diazepam 5 injection",
+       "Diazepam 4 gel",
+       "Diazepam 10 tablet",
+       "Diazepam 5 gel",
+       "Diazepam 5 tablet",
+       "Diazepam 5 injection"
+     ],
+     "/medicine/drug/active_moieties": [
+       "Diazepam"
+     ],
+     "/medicine/drug/canonical_brands": [
+       "Valium",
+       "Diastat"
+     ],
+     "id": "/en/diazepam",
+     "/medicine/drug/physiologic_effect": [],
+     "type": "/medicine/drug",
+     "name": "Diazepam",
+     "ns0:/medicine/drug/marketed_formulations": [
+       "Diazepam 1 solution",
+       "Diazepam intensol 5 concentrate solution",
+       "Diazepam 5 injectable solution",
+       "Diazepam 0.5 gel",
+       "Diazepam 2 gel",
+       "Diazepam 2 tablet",
+       "Diazepam 5 injection",
+       "Diazepam 5 injection",
+       "Diazepam 4 gel",
+       "Diazepam 10 tablet",
+       "Diazepam 5 gel",
+       "Diazepam 5 tablet",
+       "Diazepam 5 injection"
+     ],
+     "/medicine/drug/drug_class": [
+       "Benzodiazepine",
+       "Anxiolytic",
+       "Hypnotic"
+     ]
+   },
+   {
+     "/medicine/drug/part_of_compound_drug": [],
+     "/medicine/drug/brands": [
+       "Waran",
+       "Coumadin",
+       "Jantoven",
+       "Warfant",
+       "Marevan"
+     ],
+     "/medicine/drug/marketed_formulations": [
+       "Warfarin sodium 7.5 tablet",
+       "Warfarin sodium 5 tablet",
+       "Warfarin sodium 10 tablet",
+       "Warfarin sodium 7.5 tablet",
+       "Warfarin sodium 2 lyophilized powder for injectable solution",
+       "Warfarin sodium 2.5 tablet",
+       "Warfarin sodium 3 tablet",
+       "Warfarin sodium 4 tablet",
+       "Warfarin sodium 6 tablet",
+       "Warfarin sodium 1 tablet",
+       "Warfarin sodium 2 tablet"
+     ],
+     "/medicine/drug/active_moieties": [
+       "Warfarin"
+     ],
+     "/medicine/drug/canonical_brands": [
+       "Coumadin",
+       "Jantoven"
+     ],
+     "id": "/en/warfarin",
+     "/medicine/drug/physiologic_effect": [],
+     "type": "/medicine/drug",
+     "name": "Warfarin",
+     "ns0:/medicine/drug/marketed_formulations": [
+       "Warfarin sodium 7.5 tablet",
+       "Warfarin sodium 5 tablet",
+       "Warfarin sodium 10 tablet",
+       "Warfarin sodium 7.5 tablet",
+       "Warfarin sodium 2 lyophilized powder for injectable solution",
+       "Warfarin sodium 2.5 tablet",
+       "Warfarin sodium 3 tablet",
+       "Warfarin sodium 4 tablet",
+       "Warfarin sodium 6 tablet",
+       "Warfarin sodium 1 tablet",
+       "Warfarin sodium 2 tablet"
+     ],
+     "/medicine/drug/drug_class": [
+       "Vitamin K antagonist"
+     ]
+   },
+   {
+     "/medicine/drug/part_of_compound_drug": [],
+     "/medicine/drug/brands": [],
+     "/medicine/drug/marketed_formulations": [
+       "Heparin sodium 2000 injectable concentrate solution",
+       "Heparin sodium 10 solution",
+       "Heparin sodium 100 injectable solution",
+       "Heparin sodium 40 injectable solution",
+       "Heparin sodium 10000 injectable solution",
+       "Heparin sodium 50 injectable solution",
+       "Heparin sodium 20000 injection",
+       "Heparin sodium 5000 injectable solution",
+       "Heparin sodium 5000 injectable solution",
+       "Heparin sodium 1000 injectable solution",
+       "Heparin sodium 50 injectable solution",
+       "Heparin solution 100000 injectable solution",
+       "Heparin sodium 10000 injection",
+       "Heparin sodium 10000 injectable solution",
+       "Heparin sodium 10 injectable solution",
+       "Heparin sodium 5000 injection",
+       "Heparin sodium 100 solution",
+       "Heparin sodium 1000 injection",
+       "Heparin sodium 1000 injectable solution",
+       "Heparin sodium 100 injectable solution",
+       "Heparin sodium 40 injectable solution",
+       "Heparin sodium 2500 injectable concentrate solution",
+       "Heparin sodium 20000 injectable solution",
+       "Heparin sodium in sodium chloride 2 injection",
+       "Heparin sodium 2 injectable solution",
+       "Heparin sodium 10 injectable solution"
+     ],
+     "/medicine/drug/active_moieties": [
+       "Heparin"
+     ],
+     "/medicine/drug/canonical_brands": [],
+     "id": "/en/heparin",
+     "/medicine/drug/physiologic_effect": [],
+     "type": "/medicine/drug",
+     "name": "Heparin",
+     "ns0:/medicine/drug/marketed_formulations": [
+       "Heparin sodium 2000 injectable concentrate solution",
+       "Heparin sodium 10 solution",
+       "Heparin sodium 100 injectable solution",
+       "Heparin sodium 40 injectable solution",
+       "Heparin sodium 10000 injectable solution",
+       "Heparin sodium 50 injectable solution",
+       "Heparin sodium 20000 injection",
+       "Heparin sodium 5000 injectable solution",
+       "Heparin sodium 5000 injectable solution",
+       "Heparin sodium 1000 injectable solution",
+       "Heparin sodium 50 injectable solution",
+       "Heparin solution 100000 injectable solution",
+       "Heparin sodium 10000 injection",
+       "Heparin sodium 10000 injectable solution",
+       "Heparin sodium 10 injectable solution",
+       "Heparin sodium 5000 injection",
+       "Heparin sodium 100 solution",
+       "Heparin sodium 1000 injection",
+       "Heparin sodium 1000 injectable solution",
+       "Heparin sodium 100 injectable solution",
+       "Heparin sodium 40 injectable solution",
+       "Heparin sodium 2500 injectable concentrate solution",
+       "Heparin sodium 20000 injectable solution",
+       "Heparin sodium in sodium chloride 2 injection",
+       "Heparin sodium 2 injectable solution",
+       "Heparin sodium 10 injectable solution"
+     ],
+     "/medicine/drug/drug_class": [
+       "Anticoagulant",
+       "Heparin"
+     ]
+   },
+   {
+     "/medicine/drug/part_of_compound_drug": [],
+     "/medicine/drug/brands": [
+       "Restoril",
+       "Euhypnos",
+       "Normison",
+       "Remestan",
+       "Tenox",
+       "Norkotral"
+     ],
+     "/medicine/drug/marketed_formulations": [
+       "Temazepam 30 capsule",
+       "Temazepam 15 capsule",
+       "Temazepam 7.5 capsule",
+       "Temazepam 22.5 capsule"
+     ],
+     "/medicine/drug/active_moieties": [
+       "Temazepam"
+     ],
+     "/medicine/drug/canonical_brands": [
+       "Restoril"
+     ],
+     "id": "/en/temazepam",
+     "/medicine/drug/physiologic_effect": [],
+     "type": "/medicine/drug",
+     "name": "Temazepam",
+     "ns0:/medicine/drug/marketed_formulations": [
+       "Temazepam 30 capsule",
+       "Temazepam 15 capsule",
+       "Temazepam 7.5 capsule",
+       "Temazepam 22.5 capsule"
+     ],
+     "/medicine/drug/drug_class": [
+       "Benzodiazepine",
+       "Hypnotic"
+     ]
+   },
+   {
+     "/medicine/drug/part_of_compound_drug": [],
+     "/medicine/drug/brands": [],
+     "/medicine/drug/marketed_formulations": [
+       "Fluvoxamine maleate 50 film coated tablet",
+       "Fluvoxamine maleate 25 film coated tablet",
+       "Fluvoxamine maleate 50 coated tablet",
+       "Fluvoxamine maleate 100 extended release capsule",
+       "Fluvoxamine maleate 25 coated tablet",
+       "Fluvoxamine maleate 100 tablet",
+       "Fluvoxamine maleate 100 coated tablet",
+       "Fluvoxamine maleate 150 extended release capsule",
+       "Fluvoxamine maleate 50 tablet",
+       "Fluvoxamine maleate 25 tablet",
+       "Fluvoxamine maleate 100 film coated tablet"
+     ],
+     "/medicine/drug/active_moieties": [
+       "Fluvoxamine"
+     ],
+     "/medicine/drug/canonical_brands": [],
+     "id": "/en/fluvoxamine",
+     "/medicine/drug/physiologic_effect": [],
+     "type": "/medicine/drug",
+     "name": "Fluvoxamine",
+     "ns0:/medicine/drug/marketed_formulations": [
+       "Fluvoxamine maleate 50 film coated tablet",
+       "Fluvoxamine maleate 25 film coated tablet",
+       "Fluvoxamine maleate 50 coated tablet",
+       "Fluvoxamine maleate 100 extended release capsule",
+       "Fluvoxamine maleate 25 coated tablet",
+       "Fluvoxamine maleate 100 tablet",
+       "Fluvoxamine maleate 100 coated tablet",
+       "Fluvoxamine maleate 150 extended release capsule",
+       "Fluvoxamine maleate 50 tablet",
+       "Fluvoxamine maleate 25 tablet",
+       "Fluvoxamine maleate 100 film coated tablet"
+     ],
+     "/medicine/drug/drug_class": [
+       "Serotonin reuptake inhibitor"
+     ]
+   },
+   {
+     "/medicine/drug/part_of_compound_drug": [],
+     "/medicine/drug/brands": [],
+     "/medicine/drug/marketed_formulations": [
+       "Disulfiram 500 tablet",
+       "Disulfiram 250 tablet"
+     ],
+     "/medicine/drug/active_moieties": [
+       "Disulfiram"
+     ],
+     "/medicine/drug/canonical_brands": [
+       "Antabuse"
+     ],
+     "id": "/en/disulfiram",
+     "/medicine/drug/physiologic_effect": [],
+     "type": "/medicine/drug",
+     "name": "Disulfiram",
+     "ns0:/medicine/drug/marketed_formulations": [
+       "Disulfiram 500 tablet",
+       "Disulfiram 250 tablet"
+     ],
+     "/medicine/drug/drug_class": [
+       "Aldehyde Dehydrogenase Inhibitor"
+     ]
+   },
+   {
+     "/medicine/drug/part_of_compound_drug": [],
+     "/medicine/drug/brands": [],
+     "/medicine/drug/marketed_formulations": [
+       "Alprazolam 0.25 orally disintegrating tablet",
+       "Alprazolam 1 concentrate solution",
+       "Alprazolam 3 extended release tablet",
+       "Alprazolam 2 orally disintegrating tablet",
+       "Alprazolam 0.25 tablet",
+       "Alprazolam 2 extended release tablet",
+       "Alprazolam 1 orally disintegrating tablet",
+       "Alprazolam 2 tablet",
+       "Alprazolam 0.5 tablet",
+       "Alprazolam 0.5 extended release tablet",
+       "Alprazolam 1 tablet",
+       "Alprazolam 1 extended release tablet",
+       "Alprazolam 0.5 orally disintegrating tablet"
+     ],
+     "/medicine/drug/active_moieties": [
+       "Alprazolam"
+     ],
+     "/medicine/drug/canonical_brands": [
+       "Niravam",
+       "Xanax"
+     ],
+     "id": "/en/alprazolam",
+     "/medicine/drug/physiologic_effect": [],
+     "type": "/medicine/drug",
+     "name": "Alprazolam",
+     "ns0:/medicine/drug/marketed_formulations": [
+       "Alprazolam 0.25 orally disintegrating tablet",
+       "Alprazolam 1 concentrate solution",
+       "Alprazolam 3 extended release tablet",
+       "Alprazolam 2 orally disintegrating tablet",
+       "Alprazolam 0.25 tablet",
+       "Alprazolam 2 extended release tablet",
+       "Alprazolam 1 orally disintegrating tablet",
+       "Alprazolam 2 tablet",
+       "Alprazolam 0.5 tablet",
+       "Alprazolam 0.5 extended release tablet",
+       "Alprazolam 1 tablet",
+       "Alprazolam 1 extended release tablet",
+       "Alprazolam 0.5 orally disintegrating tablet"
+     ],
+     "/medicine/drug/drug_class": [
+       "Benzodiazepine"
+     ]
+   },
+   {
+     "/medicine/drug/part_of_compound_drug": [],
+     "/medicine/drug/brands": [],
+     "/medicine/drug/marketed_formulations": [
+       "Lorazepam 2 injectable solution",
+       "Lorazepam 2 injection",
+       "Lorazepam 2 tablet",
+       "Lorazepam 4 injectable solution",
+       "Lorazepam 0.5 tablet",
+       "Lorazepam 1 tablet",
+       "Lorazepam 2 concentrate solution",
+       "Lorazepam 4 injection",
+       "Lorazepam 2 injection",
+       "Lorazepam 2 concentrate",
+       "Lorazepam 2 liquid"
+     ],
+     "/medicine/drug/active_moieties": [
+       "Lorazepam"
+     ],
+     "/medicine/drug/canonical_brands": [
+       "Ativan"
+     ],
+     "id": "/en/lorazepam",
+     "/medicine/drug/physiologic_effect": [],
+     "type": "/medicine/drug",
+     "name": "Lorazepam",
+     "ns0:/medicine/drug/marketed_formulations": [
+       "Lorazepam 2 injectable solution",
+       "Lorazepam 2 injection",
+       "Lorazepam 2 tablet",
+       "Lorazepam 4 injectable solution",
+       "Lorazepam 0.5 tablet",
+       "Lorazepam 1 tablet",
+       "Lorazepam 2 concentrate solution",
+       "Lorazepam 4 injection",
+       "Lorazepam 2 injection",
+       "Lorazepam 2 concentrate",
+       "Lorazepam 2 liquid"
+     ],
+     "/medicine/drug/drug_class": [
+       "Benzodiazepine",
+       "Anxiolytic",
+       "Antiemetic"
+     ]
+   },
+   {
+     "/medicine/drug/part_of_compound_drug": [],
+     "/medicine/drug/brands": [],
+     "/medicine/drug/marketed_formulations": [
+       "Minocycline hydrochloride 75 film coated tablet",
+       "Minocycline hydrochloride 135 extended release tablet",
+       "Minocycline hydrochloride 50 film coated tablet",
+       "Minocycline hydrochloride 50 capsule",
+       "Minocycline hydrochloride 100 coated pellets in capsule",
+       "Minocycline hydrochloride 100 injection",
+       "Minocycline hydrochloride 50 coated pellets in capsule",
+       "Minocycline hydrochloride 50 tablet",
+       "Minocycline hydrochloride 115 extended release film coated tablet",
+       "Minocycline hydrochloride 45 extended release film coated tablet",
+       "Minocycline hydrochloride 135 extended release film coated tablet",
+       "Minocycline hydrochloride 75 tablet",
+       "Minocycline hydrochloride 100 film coated tablet",
+       "Minocycline hydrochloride 55 extended release film coated tablet",
+       "Minocycline hydrochloride 100 capsule",
+       "Minocycline hydrochloride 75 capsule",
+       "Minocycline hydrochloride 80 extended release film coated tablet",
+       "Minocycline hydrochloride 90 extended release tablet",
+       "Minocycline hydrochloride 90 extended release film coated tablet",
+       "Minocycline hydrochloride 65 extended release film coated tablet",
+       "Minocycline hydrochloride 1 powder",
+       "Minocycline hydrochloride 105 extended release film coated tablet",
+       "Minocycline hydrochloride 45 extended release tablet",
+       "Minocycline hydrochloride 100 tablet"
+     ],
+     "/medicine/drug/active_moieties": [
+       "Minocycline"
+     ],
+     "/medicine/drug/canonical_brands": [
+       "Solodyn",
+       "Minocin",
+       "Dynacin"
+     ],
+     "id": "/en/minocycline",
+     "/medicine/drug/physiologic_effect": [],
+     "type": "/medicine/drug",
+     "name": "Minocycline",
+     "ns0:/medicine/drug/marketed_formulations": [
+       "Minocycline hydrochloride 75 film coated tablet",
+       "Minocycline hydrochloride 135 extended release tablet",
+       "Minocycline hydrochloride 50 film coated tablet",
+       "Minocycline hydrochloride 50 capsule",
+       "Minocycline hydrochloride 100 coated pellets in capsule",
+       "Minocycline hydrochloride 100 injection",
+       "Minocycline hydrochloride 50 coated pellets in capsule",
+       "Minocycline hydrochloride 50 tablet",
+       "Minocycline hydrochloride 115 extended release film coated tablet",
+       "Minocycline hydrochloride 45 extended release film coated tablet",
+       "Minocycline hydrochloride 135 extended release film coated tablet",
+       "Minocycline hydrochloride 75 tablet",
+       "Minocycline hydrochloride 100 film coated tablet",
+       "Minocycline hydrochloride 55 extended release film coated tablet",
+       "Minocycline hydrochloride 100 capsule",
+       "Minocycline hydrochloride 75 capsule",
+       "Minocycline hydrochloride 80 extended release film coated tablet",
+       "Minocycline hydrochloride 90 extended release tablet",
+       "Minocycline hydrochloride 90 extended release film coated tablet",
+       "Minocycline hydrochloride 65 extended release film coated tablet",
+       "Minocycline hydrochloride 1 powder",
+       "Minocycline hydrochloride 105 extended release film coated tablet",
+       "Minocycline hydrochloride 45 extended release tablet",
+       "Minocycline hydrochloride 100 tablet"
+     ],
+     "/medicine/drug/drug_class": [
+       "Tetracycline antibiotics",
+       "Tetracycline-class Drug"
+     ]
+   },
+   {
+     "/medicine/drug/part_of_compound_drug": [],
+     "/medicine/drug/brands": [],
+     "/medicine/drug/marketed_formulations": [
+       "Tramadol hydrochloride 200 extended release capsule",
+       "Tramadol hydrochloride 50 coated tablet",
+       "Tramadol hydrochloride 100 extended release tablet",
+       "Tramadol hydrochloride 1 kit",
+       "Tramadol hydrochloride 50 film coated tablet",
+       "Tramadol hydrochloride 100 extended release capsule",
+       "Tramadol hydrochloride 200 extended release tablet",
+       "Tramadol hydrochloride 300 extended release tablet",
+       "Tramadol hydrochloride 50 tablet",
+       "Tramadol hydrochloride 50 orally disintegrating tablet",
+       "Tramadol hydrochloride 300 extended release tablet",
+       "Tramadol hydrochloride 300 extended release capsule",
+       "Tramadol hydrochloride 200 delayed release tablet",
+       "Tramadol hydrochloride 150 extended release capsule",
+       "Tramadol hydrochloride 100 tablet"
+     ],
+     "/medicine/drug/active_moieties": [
+       "Tramadol"
+     ],
+     "/medicine/drug/canonical_brands": [
+       "ConZip",
+       "Ryzolt"
+     ],
+     "id": "/en/tramadol",
+     "/medicine/drug/physiologic_effect": [],
+     "type": "/medicine/drug",
+     "name": "Tramadol",
+     "ns0:/medicine/drug/marketed_formulations": [
+       "Tramadol hydrochloride 200 extended release capsule",
+       "Tramadol hydrochloride 50 coated tablet",
+       "Tramadol hydrochloride 100 extended release tablet",
+       "Tramadol hydrochloride 1 kit",
+       "Tramadol hydrochloride 50 film coated tablet",
+       "Tramadol hydrochloride 100 extended release capsule",
+       "Tramadol hydrochloride 200 extended release tablet",
+       "Tramadol hydrochloride 300 extended release tablet",
+       "Tramadol hydrochloride 50 tablet",
+       "Tramadol hydrochloride 50 orally disintegrating tablet",
+       "Tramadol hydrochloride 300 extended release tablet",
+       "Tramadol hydrochloride 300 extended release capsule",
+       "Tramadol hydrochloride 200 delayed release tablet",
+       "Tramadol hydrochloride 150 extended release capsule",
+       "Tramadol hydrochloride 100 tablet"
+     ],
+     "/medicine/drug/drug_class": [
+       "Analgesic",
+       "Opioid"
+     ]
+   },
+   {
+     "/medicine/drug/part_of_compound_drug": [],
+     "/medicine/drug/brands": [],
+     "/medicine/drug/marketed_formulations": [
+       "Glipizide 10 tablet",
+       "Glipizide 10 extended release tablet",
+       "Glipizide 2.5 extended release film coated tablet",
+       "Glipizide 2.5 extended release tablet",
+       "Glipizide 5 extended release tablet",
+       "Glipizide 5 tablet",
+       "Glipizide 10 extended release film coated tablet",
+       "Glipizide 5 extended release film coated tablet"
+     ],
+     "/medicine/drug/active_moieties": [
+       "Glipizide"
+     ],
+     "/medicine/drug/canonical_brands": [
+       "Glucotrol"
+     ],
+     "id": "/en/glipizide",
+     "/medicine/drug/physiologic_effect": [],
+     "type": "/medicine/drug",
+     "name": "Glipizide",
+     "ns0:/medicine/drug/marketed_formulations": [
+       "Glipizide 10 tablet",
+       "Glipizide 10 extended release tablet",
+       "Glipizide 2.5 extended release film coated tablet",
+       "Glipizide 2.5 extended release tablet",
+       "Glipizide 5 extended release tablet",
+       "Glipizide 5 tablet",
+       "Glipizide 10 extended release film coated tablet",
+       "Glipizide 5 extended release film coated tablet"
+     ],
+     "/medicine/drug/drug_class": [
+       "Sulfonylurea"
+     ]
+   }
+ ]
+}

@@ -5,6 +5,10 @@
  */
 package medcheck;
 
+import java.io.*;
+import java.util.*;
+import org.json.*;
+
 /**
  *
  * @author michelledowling
@@ -15,7 +19,29 @@ public class Medcheck {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        String fileLocation = "meddata.json";
+        File jsonTxt = new File(fileLocation);
+        
+        String jsonString = "";
+        try {
+            Scanner fileScanner = new Scanner(jsonTxt);
+            boolean isFirstLine = true;
+            while (fileScanner.hasNextLine()) {
+                String line = fileScanner.nextLine().trim();
+                if (!isFirstLine) {
+                    jsonString += " ";
+                }
+                isFirstLine = false;
+                jsonString += line;
+            }
+        }
+        catch (Exception e) {
+            System.out.println("ERROR: " + e.getMessage());
+            e.printStackTrace();
+            return;
+        }
+        
+        JSONObject obj = new JSONObject(jsonString);
     }
     
 }
