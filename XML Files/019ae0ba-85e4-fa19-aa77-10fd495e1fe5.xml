@@ -1,0 +1,620 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet href="http://www.accessdata.fda.gov/spl/stylesheet/spl.xsl" type="text/xsl"?>
+<document xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:hl7-org:v3 http://www.fda.gov/oc/datacouncil/schemas/spl/spl.xsd">
+   <id root="019AE0BA-85E4-FA19-AA77-10FD495E1FE5"/>
+   <code code="34391-3" codeSystem="2.16.840.1.113883.6.1" displayName="HUMAN PRESCRIPTION DRUG LABEL"/>
+   <effectiveTime value="20090514"/>
+   <setId root="213b339a-75e0-4b1d-9052-8ee82a65d713"/>
+   <versionNumber value="1"/>
+   <author>
+      <time/>
+      <assignedEntity>
+         <representedOrganization>
+            <name>WraSer Pharmaceuticals</name>
+         </representedOrganization>
+      </assignedEntity>
+   </author>
+   <legalAuthenticator>
+      <time/>
+      <assignedEntity>
+         <telecom value="1-888-252-3901"/>
+         <representedOrganization>
+            <name>WraSer Pharmaceuticals</name>
+         </representedOrganization>
+      </assignedEntity>
+   </legalAuthenticator>
+   <verifier>
+      <time value="1987"/>
+      <assignedEntity/>
+   </verifier>
+   <component>
+      <structuredBody>
+         <component>
+            <section ID="DLDE">
+               <id root="9AD1381C-32AC-1CE8-0125-C6FFE7C18D06"/>
+               <code code="48780-1" codeSystem="2.16.840.1.113883.6.1" displayName="SPL LISTING DATA ELEMENTS SECTION"/>
+               <effectiveTime value="20090514"/>
+               <subject>
+                  <manufacturedProduct>
+                     <manufacturedMedicine>
+                        <code code="66992-450" codeSystem="2.16.840.1.113883.6.69"/>
+                        <name>CETRAXAL</name>
+                        <formCode code="C60992" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="SOLUTION/ DROPS"/>
+                        <activeIngredient>
+                           <quantity>
+                              <numerator unit="mg" value="0.5">
+                                 <translation code="C28253" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="MILLIGRAM" value="0.5"/>
+                              </numerator>
+                              <denominator unit="mL" value="0.25">
+                                 <translation code="C28254" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="MILLILITER" value="0.25"/>
+                              </denominator>
+                           </quantity>
+                           <activeIngredientSubstance>
+                              <code code="5E8K9I0O4U" codeSystem="2.16.840.1.113883.4.9" displayName="CIPROFLOXACIN"/>
+                              <name>Ciprofloxacin</name>
+                              <activeMoiety>
+                                 <activeMoiety>
+                                    <code code="5E8K9I0O4U" codeSystem="2.16.840.1.113883.4.9" displayName="CIPROFLOXACIN"/>
+                                    <name>Ciprofloxacin</name>
+                                 </activeMoiety>
+                              </activeMoiety>
+                           </activeIngredientSubstance>
+                        </activeIngredient>
+                        <asEntityWithGeneric>
+                           <genericMedicine>
+                              <name>Ciprofloxacin</name>
+                           </genericMedicine>
+                        </asEntityWithGeneric>
+                        <inactiveIngredient>
+                           <inactiveIngredientSubstance>
+                              <code code="FZ989GH94E" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>povidone</name>
+                           </inactiveIngredientSubstance>
+                        </inactiveIngredient>
+                        <inactiveIngredient>
+                           <inactiveIngredientSubstance>
+                              <code code="PDC6A3C0OX" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>glycerin</name>
+                           </inactiveIngredientSubstance>
+                        </inactiveIngredient>
+                        <inactiveIngredient>
+                           <inactiveIngredientSubstance>
+                              <code code="059QF0KO0R" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>water</name>
+                           </inactiveIngredientSubstance>
+                        </inactiveIngredient>
+                        <inactiveIngredient>
+                           <inactiveIngredientSubstance>
+                              <code code="55X04QC32I" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>Sodium hydroxide</name>
+                           </inactiveIngredientSubstance>
+                        </inactiveIngredient>
+                        <inactiveIngredient>
+                           <inactiveIngredientSubstance>
+                              <code code="33X04XA5AT" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>lactic acid</name>
+                           </inactiveIngredientSubstance>
+                        </inactiveIngredient>
+                        <asContent>
+                           <quantity>
+                              <numerator unit="mL" value="0.25">
+                                 <translation code="C28254" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="MILLILITER" value="0.25"/>
+                              </numerator>
+                              <denominator value="1">
+                                 <translation value="1"/>
+                              </denominator>
+                           </quantity>
+                           <containerPackagedMedicine>
+                              <code/>
+                              <formCode code="C43186" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="CONTAINER"/>
+                              <asContent>
+                                 <quantity>
+                                    <numerator unit="1" value="14">
+                                       <translation code="C48484" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="CONTAINER" value="14"/>
+                                    </numerator>
+                                    <denominator value="1">
+                                       <translation value="1"/>
+                                    </denominator>
+                                 </quantity>
+                                 <containerPackagedMedicine>
+                                    <code code="66992-450-14" codeSystem="2.16.840.1.113883.6.69"/>
+                                    <formCode code="C43182" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="CARTON"/>
+                                 </containerPackagedMedicine>
+                              </asContent>
+                           </containerPackagedMedicine>
+                        </asContent>
+                     </manufacturedMedicine>
+                     <consumedIn>
+                        <substanceAdministration>
+                           <routeCode code="C38192" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="AURICULAR (OTIC)"/>
+                        </substanceAdministration>
+                     </consumedIn>
+                  </manufacturedProduct>
+               </subject>
+            </section>
+         </component>
+         <component>
+            <section ID="S1">
+               <id root="63B4B897-F5F8-0370-6E87-D2B45DC54762"/>
+               <code code="34067-9" codeSystem="2.16.840.1.113883.6.1" displayName="INDICATIONS &amp; USAGE SECTION"/>
+               <title>1 INDICATIONS AND USAGE</title>
+               <text>
+                  <paragraph>CETRAXAL is a quinolone antimicrobial indicated for the treatment of acute otitis externa due to susceptible isolates of <content styleCode="italics">Pseudomonas aeruginosa</content> or <content styleCode="italics">Staphylococcus aureus</content>.</paragraph>
+               </text>
+               <effectiveTime value="20090514"/>
+               <excerpt>
+                  <highlight>
+                     <text>
+                        <paragraph>CETRAXAL is a quinolone antimicrobial indicated for the treatment of acute otitis externa due to susceptible isolates of <content styleCode="italics">Pseudomonas aeruginosa</content> or <content styleCode="italics">Staphylococcus aureus</content>. (<content styleCode="italics">
+                              <linkHtml href="#S1">1</linkHtml>
+                           </content>)</paragraph>
+                     </text>
+                  </highlight>
+               </excerpt>
+            </section>
+         </component>
+         <component>
+            <section ID="S2">
+               <id root="4343589C-CB8A-D615-2D0C-0F901A3CAC18"/>
+               <code code="34068-7" codeSystem="2.16.840.1.113883.6.1" displayName="DOSAGE &amp; ADMINISTRATION SECTION"/>
+               <title>2 DOSAGE AND ADMINISTRATION</title>
+               <text>
+                  <paragraph>The contents of one single use container (deliverable volume: 0.25 mL) should be instilled into the affected ear twice daily (approximately 12 hours apart) for 7 days. </paragraph>
+                  <paragraph>Wash hands before use. The solution should be warmed, by holding the container in the hands for at least 1 minute, to minimize the dizziness that may result from the instillation of a cold solution into the ear canal. The patient should lie with the affected ear upward and then the solution should be instilled. This position should be maintained for at least 1 minute to facilitate penetration of the drops into the ear. Repeat, if necessary, for the opposite ear. </paragraph>
+               </text>
+               <effectiveTime value="20090514"/>
+               <excerpt>
+                  <highlight>
+                     <text>
+                        <paragraph>Contents of one single use container should be instilled into the affected ear twice daily (approximately 12 hours apart) for 7 days. (<content styleCode="italics">
+                              <linkHtml href="#S2">2</linkHtml>
+                           </content>)</paragraph>
+                     </text>
+                  </highlight>
+               </excerpt>
+            </section>
+         </component>
+         <component>
+            <section ID="S3">
+               <id root="3EC1E269-6D3F-3233-9F77-8D88DE9E6502"/>
+               <code code="43678-2" codeSystem="2.16.840.1.113883.6.1" displayName="DOSAGE FORMS &amp; STRENGTHS SECTION"/>
+               <title>3 DOSAGE FORMS AND STRENGTHS</title>
+               <text>
+                  <paragraph>CETRAXAL is a sterile, preservative-free, otic solution of ciprofloxacin hydrochloride equivalent to 0.2 % ciprofloxacin (0.5 mg in 0.25 mL) in each single use container.    </paragraph>
+               </text>
+               <effectiveTime value="20090514"/>
+               <excerpt>
+                  <highlight>
+                     <text>
+                        <paragraph>CETRAXAL is a sterile, preservative-free otic solution of ciprofloxacin hydrochloride equivalent to 0.2 % ciprofloxacin (0.5 mg in 0.25 mL) in each single use container.  (<content styleCode="italics">
+                              <linkHtml href="#S3">3</linkHtml>
+                           </content>)</paragraph>
+                     </text>
+                  </highlight>
+               </excerpt>
+            </section>
+         </component>
+         <component>
+            <section ID="S4">
+               <id root="8F761EE4-0AF3-BC01-94F6-E54709FCE553"/>
+               <code code="34070-3" codeSystem="2.16.840.1.113883.6.1" displayName="CONTRAINDICATIONS SECTION"/>
+               <title>4 CONTRAINDICATIONS</title>
+               <text>
+                  <paragraph>CETRAXAL is contraindicated in persons with a history of hypersensitivity to ciprofloxacin. </paragraph>
+               </text>
+               <effectiveTime value="20090514"/>
+               <excerpt>
+                  <highlight>
+                     <text>
+                        <paragraph>History of hypersensitivity to ciprofloxacin. (<content styleCode="italics">
+                              <linkHtml href="#S4">4</linkHtml>
+                           </content>)</paragraph>
+                     </text>
+                  </highlight>
+               </excerpt>
+            </section>
+         </component>
+         <component>
+            <section ID="S5">
+               <id root="EAA1881D-BBA3-1E82-7EC5-81BE6043D0FD"/>
+               <code code="43685-7" codeSystem="2.16.840.1.113883.6.1" displayName="WARNINGS AND PRECAUTIONS SECTION"/>
+               <title>5 WARNINGS AND PRECAUTIONS</title>
+               <effectiveTime value="20090514"/>
+               <excerpt>
+                  <highlight>
+                     <text>
+                        <list listType="unordered">
+                           <item>CETRAXAL is for otic use only. (<content styleCode="italics">
+                                 <linkHtml href="#S5.1">5.1</linkHtml>
+                              </content>)</item>
+                           <item>Hypersensitivity: discontinue at the first appearance of a skin rash or any other sign of hypersensitivity. (<content styleCode="italics">
+                                 <linkHtml href="#S5.2">5.2</linkHtml>
+                              </content>)</item>
+                           <item>Use of CETRAXAL may result in overgrowth of nonsusceptible organisms.  (<content styleCode="italics">
+                                 <linkHtml href="#S5.3">5.3</linkHtml>
+                              </content>)</item>
+                        </list>
+                     </text>
+                  </highlight>
+               </excerpt>
+               <component>
+                  <section ID="S5.1">
+                     <id root="C3205FF4-F065-5389-E483-81F812549287"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>5.1	Otic Use Only</title>
+                     <text>
+                        <paragraph>CETRAXAL is for otic use only.   It should not be used for injection, for inhalation or for topical ophthalmic use.  </paragraph>
+                     </text>
+                     <effectiveTime value="20090514"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="S5.2">
+                     <id root="550A38B8-53D8-A409-FAE9-ADF36A668B2B"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>5.2	Hypersensitivity</title>
+                     <text>
+                        <paragraph>CETRAXAL should be discontinued at the first appearance of a skin rash or any other sign of hypersensitivity.  </paragraph>
+                     </text>
+                     <effectiveTime value="20090514"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="S5.3">
+                     <id root="188CF581-DD25-DFF6-775C-EAD32CDAD8AE"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>5.3	Growth of Resistant Organisms with Prolonged Use</title>
+                     <text>
+                        <paragraph>As with other anti-infectives, use of CETRAXAL may result in overgrowth of nonsusceptible organisms, including yeast and fungi. If super-infection occurs, discontinue use and institute alternative therapy.  </paragraph>
+                     </text>
+                     <effectiveTime value="20090514"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="S5.4">
+                     <id root="F31A8BBA-BBF0-0CCD-DBE0-29976558DBA4"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>5.4	Lack of Clinical Response</title>
+                     <text>
+                        <paragraph>If the infection is not improved after one week of therapy, cultures may help guide further treatment. </paragraph>
+                     </text>
+                     <effectiveTime value="20090514"/>
+                  </section>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="S6">
+               <id root="CC5051F1-38B8-63B6-2589-E1BD067DE94F"/>
+               <code code="34084-4" codeSystem="2.16.840.1.113883.6.1" displayName="ADVERSE REACTIONS SECTION"/>
+               <title>6 ADVERSE REACTIONS</title>
+               <text>
+                  <paragraph>Because clinical studies are conducted under widely varying conditions, adverse drug reaction rates observed in the clinical studies of a drug cannot be directly compared to rates in the clinical studies of another drug and may not reflect the rates observed in clinical practice.</paragraph>
+                  <paragraph>In a randomized, active-controlled clinical trial, approximately 300 patients with clinical signs and symptoms of otitis externa were treated with CETRAXAL. The most frequently reported adverse reactions were application site pain, ear pruritus, fungal ear superinfection, and headache, each reported in approximately 2-3% of patients. </paragraph>
+               </text>
+               <effectiveTime value="20090514"/>
+               <excerpt>
+                  <highlight>
+                     <text>
+                        <paragraph>The most common adverse reactions reported in 2-3% of patients treated with CETRAXAL were application site pain, ear pruritus, fungal ear superinfection, and headache. (<content styleCode="italics">
+                              <linkHtml href="#S6">6</linkHtml>
+                           </content>)</paragraph>
+                     </text>
+                  </highlight>
+               </excerpt>
+            </section>
+         </component>
+         <component>
+            <section ID="S8">
+               <id root="CD464F76-71DD-5B4B-CBC0-02AA2DC47E8D"/>
+               <code code="43684-0" codeSystem="2.16.840.1.113883.6.1" displayName="USE IN SPECIFIC POPULATIONS SECTION"/>
+               <title>8 USE IN SPECIFIC POPULATIONS</title>
+               <effectiveTime value="20090514"/>
+               <component>
+                  <section ID="S8.1">
+                     <id root="5E3A8372-8D98-FE72-3B56-9C345E38FA22"/>
+                     <code code="42228-7" codeSystem="2.16.840.1.113883.6.1" displayName="PREGNANCY SECTION"/>
+                     <title>8.1 Pregnancy</title>
+                     <effectiveTime value="20090514"/>
+                     <component>
+                        <section>
+                           <id root="480A9309-F254-5D73-D76B-3EF9C186349C"/>
+                           <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                           <title/>
+                           <text>
+                              <paragraph>Pregnancy Category C.</paragraph>
+                              <paragraph>Reproduction studies have been performed in rats and mice using oral doses of up to 100 mg/kg and intravenous (IV) doses up to 30 mg/kg and have revealed no evidence of harm to the fetus as a result of ciprofloxacin. In rabbits, ciprofloxacin (30 and 100 mg/kg orally) produced gastrointestinal disturbances resulting in maternal weight loss and an increased incidence of abortion, but no teratogenicity was observed at either dose. After intravenous administration of doses up to 20 mg/kg, no maternal toxicity was produced in the rabbit, and no embryotoxicity or teratogenicity was observed. </paragraph>
+                              <paragraph>Animal reproduction studies have not been conducted with CETRAXAL. No adequate and well-controlled studies have been performed in pregnant women. Caution should be exercised when CETRAXAL is used by a pregnant woman. </paragraph>
+                           </text>
+                           <effectiveTime value="20090514"/>
+                        </section>
+                     </component>
+                  </section>
+               </component>
+               <component>
+                  <section ID="S8.3">
+                     <id root="6A1B5588-AF2C-6F9D-7F32-9CA87F394AD7"/>
+                     <code code="34080-2" codeSystem="2.16.840.1.113883.6.1" displayName="NURSING MOTHERS SECTION"/>
+                     <title>8.3 Nursing Mothers</title>
+                     <text>
+                        <paragraph>Ciprofloxacin is excreted in human milk with systemic use. It is not known whether ciprofloxacin is excreted in human milk following otic use. Because of the potential for serious adverse reactions in nursing infants, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother. </paragraph>
+                     </text>
+                     <effectiveTime value="20090514"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="S8.4">
+                     <id root="1E3A1A0B-4B32-341C-1E73-07525BD66CF9"/>
+                     <code code="34081-0" codeSystem="2.16.840.1.113883.6.1" displayName="PEDIATRIC USE SECTION"/>
+                     <title>8.4 Pediatric Use</title>
+                     <text>
+                        <paragraph>The safety and effectiveness of CETRAXAL in infants below one year of age have not been established. The efficacy of CETRAXAL in treating otitis externa in pediatric patients one year or older has been demonstrated in controlled clinical trials (see Section <content styleCode="italics">
+                              <linkHtml href="#S14">14  Clinical Studies</linkHtml>
+                           </content>). </paragraph>
+                        <paragraph>There is no evidence that the otic administration of quinolones has any effect on weight bearing joints, even though systemic administration of some quinolones has been shown to cause arthropathy in immature animals.</paragraph>
+                     </text>
+                     <effectiveTime value="20090514"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="S8.5">
+                     <id root="60C702E2-6590-1025-778A-A178DBAEEF49"/>
+                     <code code="34082-8" codeSystem="2.16.840.1.113883.6.1" displayName="GERIATRIC USE SECTION"/>
+                     <title>8.5 Geriatric Use</title>
+                     <text>
+                        <paragraph>No overall differences in safety and effectiveness have been observed between elderly and younger patients.</paragraph>
+                     </text>
+                     <effectiveTime value="20090514"/>
+                  </section>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="S11">
+               <id root="349883AA-737F-AE31-F8FA-A40FA5F93550"/>
+               <code code="34089-3" codeSystem="2.16.840.1.113883.6.1" displayName="DESCRIPTION SECTION"/>
+               <title>11 DESCRIPTION</title>
+               <text>
+                  <paragraph>CETRAXAL (ciprofloxacin otic solution) 0.2% contains the synthetic antimicrobial agent ciprofloxacin hydrochloride.  CETRAXAL is a sterile, preservative-free solution for otic use. Each single use container of CETRAXAL delivers 0.25 mL of solution equivalent to 0.5 mg of ciprofloxacin. The inactive ingredients are povidone, glycerin, and water for injection. Sodium hydroxide and/or lactic acid may be added to adjust pH. </paragraph>
+                  <paragraph>Ciprofloxacin, a fluroquinolone is available as the monohydrochloride, monohydrate salt of 1-cyclopropyl-6-fluoro-1,4-dihydro-4-oxo-7-(1-piperazinyl)-3-quinolinecarboxylic acid. Its molecular formula is C<sub>17</sub>H<sub>18</sub>FN<sub>3</sub>O<sub>3</sub>•HCl•H<sub>2</sub>O, and molecular weight is 385.82.</paragraph>
+                  <paragraph>The chemical structure of ciprofloxacin hydrochloride is:</paragraph>
+                  <paragraph>
+                     <renderMultiMedia referencedObject="MM1"/>
+                  </paragraph>
+               </text>
+               <effectiveTime value="20090514"/>
+               <component>
+                  <observationMedia ID="MM1">
+                     <text>Chemical Structure</text>
+                     <value mediaType="image/jpeg" xsi:type="ED">
+                        <reference value="cetraxal-01.jpg"/>
+                     </value>
+                  </observationMedia>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="S12">
+               <id root="BF5BE98A-A908-8157-E3F3-55C2A02F77A0"/>
+               <code code="34090-1" codeSystem="2.16.840.1.113883.6.1" displayName="CLINICAL PHARMACOLOGY SECTION"/>
+               <title>12 CLINICAL PHARMACOLOGY</title>
+               <effectiveTime value="20090514"/>
+               <component>
+                  <section ID="S12.1">
+                     <id root="7B31003D-81D3-7EEC-7F02-F88B67EF624B"/>
+                     <code code="43679-0" codeSystem="2.16.840.1.113883.6.1" displayName="MECHANISM OF ACTION SECTION"/>
+                     <title>12.1 Mechanism of Action</title>
+                     <text>
+                        <paragraph>Ciprofloxacin is a fluoroquinolone antimicrobial (see <content styleCode="italics">
+                              <linkHtml href="#S12.4">12.4 Clinical Pharmacology, Microbiology</linkHtml>
+                           </content>).</paragraph>
+                     </text>
+                     <effectiveTime value="20090514"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="S12.3">
+                     <id root="FA8E031C-828D-EBA9-34B2-4C57C3623098"/>
+                     <code code="43682-4" codeSystem="2.16.840.1.113883.6.1" displayName="PHARMACOKINETICS SECTION"/>
+                     <title>12.3 Pharmacokinetics</title>
+                     <text>
+                        <paragraph>The plasma concentrations of ciprofloxacin were not measured following administration of 0.25 mL CETRAXAL (total dose: 0.5 mg ciprofloxacin). However, the maximum plasma concentration of ciprofloxacin is anticipated to be less than 5 ng/mL. </paragraph>
+                     </text>
+                     <effectiveTime value="20090514"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="S12.4">
+                     <id root="9339F8BD-8AE2-ADFE-3678-3DBAF4C51E11"/>
+                     <code code="49489-8" codeSystem="2.16.840.1.113883.6.1" displayName="MICROBIOLOGY SECTION"/>
+                     <title>12.4	 Microbiology</title>
+                     <text>
+                        <paragraph>The bactericidal action of ciprofloxacin results from interference with the enzyme DNA gyrase, which is needed for the synthesis of bacterial DNA. </paragraph>
+                        <paragraph>Bacterial resistance to quinolones can develop through chromosomally- or plasmid-mediated mechanisms. </paragraph>
+                        <paragraph>The mechanism of action of fluoroquinolones, including ciprofloxacin, is different from that of macrolides.  Therefore, ciprofloxacin may be active against pathogens that are resistant to these antibiotics, and these antibiotics may be active against pathogens that are resistant to ciprofloxacin.  <content styleCode="italics">In vitro </content>studies demonstrated cross-resistance between ciprofloxacin and some fluoroquinolones. </paragraph>
+                        <paragraph>Ciprofloxacin has been shown to be active against most isolates of the following bacteria, both <content styleCode="italics">in vitro </content>and in clinical infections of acute otitis externa as described in Section <content styleCode="italics">
+                              <linkHtml href="#S1">1 Indications and Usage</linkHtml>
+                           </content> :</paragraph>
+                        <list listType="unordered">
+                           <item>
+                              <caption> </caption>
+                              <content styleCode="italics">Staphylococcus aureus</content>
+                           </item>
+                           <item>
+                              <caption> </caption>
+                              <content styleCode="italics">Pseudomonas aeruginosa.</content>
+                           </item>
+                        </list>
+                     </text>
+                     <effectiveTime value="20090514"/>
+                  </section>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="S13">
+               <id root="4D0AE1BD-FF33-6176-18EF-2287A63ACF83"/>
+               <code code="43680-8" codeSystem="2.16.840.1.113883.6.1" displayName="NONCLINICAL TOXICOLOGY SECTION"/>
+               <title>13 NON-CLINICAL TOXICOLOGY</title>
+               <effectiveTime value="20090514"/>
+               <component>
+                  <section ID="S13.1">
+                     <id root="C795FC46-5DB0-23A6-E93D-EE88BE8AABCA"/>
+                     <code code="34083-6" codeSystem="2.16.840.1.113883.6.1" displayName="CARCINOGENESIS &amp; MUTAGENESIS &amp; IMPAIRMENT OF FERTILITY SECTION"/>
+                     <title>13.1	Carcinogenesis, Mutagenesis, and Impairment of Fertility</title>
+                     <text>
+                        <paragraph>Long-term carcinogenicity studies in mice and rats have been completed for ciprofloxacin. After daily oral doses of 750 mg/kg (mice) and 250 mg/kg (rats) were administered for up to 2 years, there was no evidence that ciprofloxacin had any carcinogenic or tumorigenic effects in these species. No long-term studies of CETRAXAL  have been performed to evaluate carcinogenic potential.</paragraph>
+                        <paragraph>Eight <content styleCode="italics">in vitro</content> mutagenicity tests have been conducted with ciprofloxacin, and the test results are listed below:</paragraph>
+                        <list listType="unordered">
+                           <item>
+                              <content styleCode="italics">Salmonella</content>/Microsome Test (Negative)</item>
+                           <item>
+                              <content styleCode="italics">Escherichia coli</content> DNA Repair Assay (Negative)</item>
+                           <item>Mouse Lymphoma Cell Forward Mutation Assay (Positive)</item>
+                           <item>Chinese Hamster V79 Cell HGPRT Test (Negative)</item>
+                           <item>Syrian Hamster Embryo Cell Transformation Assay (Negative)</item>
+                           <item>
+                              <content styleCode="italics">Saccharomyces cerevisiae</content> Point Mutation Assay (Negative)</item>
+                           <item>
+                              <content styleCode="italics">Saccharomyces cerevisiae</content> Mitotic Crossover and Gene Conversion Assay (Negative)</item>
+                           <item>Rat Hepatocyte DNA Repair Assay (Positive).</item>
+                        </list>
+                        <paragraph>Two of the 8 <content styleCode="italics">in vitro</content> tests were positive, but results of the following 3 <content styleCode="italics">in vivo</content> test systems gave negative results: </paragraph>
+                        <list listType="unordered">
+                           <item>Rat Hepatocyte DNA Repair Assay</item>
+                           <item>Micronucleus Test (Mice)</item>
+                           <item>Dominant Lethal Test (Mice).</item>
+                        </list>
+                        <paragraph>Fertility studies performed in rats at oral doses of ciprofloxacin up to 100 mg/kg/day revealed no evidence of impairment. This would be over 100 times the maximum recommended clinical dose of ototopical ciprofloxacin based upon body surface area, assuming total absorption of ciprofloxacin from the ear of a patient treated with CETRAXAL twice per day.</paragraph>
+                     </text>
+                     <effectiveTime value="20090514"/>
+                  </section>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="S14">
+               <id root="93297441-EA36-C0AC-A15E-5C79EAE114D5"/>
+               <code code="34092-7" codeSystem="2.16.840.1.113883.6.1" displayName="CLINICAL STUDIES SECTION"/>
+               <title>14 CLINICAL STUDIES</title>
+               <text>
+                  <paragraph>In a randomized, multi-center, evaluator-blinded study of patients with acute otitis externa, patients were  treated with either CETRAXAL twice daily or neomycin and polymyxin B sulfates and hydrocortisone otic solution (PNH) three times daily for 7 days. </paragraph>
+                  <paragraph>In the per protocol population, clinical cure was achieved at the end of a 7-day treatment in 70% (173/247) for the CETRAXAL treated group versus 60% (147/243) for the control treated group.</paragraph>
+               </text>
+               <effectiveTime value="20090514"/>
+            </section>
+         </component>
+         <component>
+            <section ID="S16">
+               <id root="884B6DA7-2541-07AA-3942-929B9D97869C"/>
+               <code code="34069-5" codeSystem="2.16.840.1.113883.6.1" displayName="HOW SUPPLIED SECTION"/>
+               <title>16	HOW SUPPLIED/STORAGE AND HANDLING</title>
+               <text>
+                  <paragraph>CETRAXAL is a clear, colorless, sterile, preservative-free solution. CETRAXAL is supplied as a 0.2% otic solution in a low-density polyethylene (LDPE) single use container. Each single use container delivers 0.25 mL of solution equivalent to 0.5 mg of ciprofloxacin; 14 single use containers are packaged in a foil overwrap pouch in a carton (NDC 66992-450-14).</paragraph>
+               </text>
+               <effectiveTime value="20090514"/>
+               <component>
+                  <section>
+                     <id root="4DC96E2A-B17C-2AC7-86DE-EBBB35EED312"/>
+                     <code code="44425-7" codeSystem="2.16.840.1.113883.6.1" displayName="STORAGE AND HANDLING SECTION"/>
+                     <text>
+                        <paragraph>Store at 15ºC to 25ºC (59ºF to 77ºF).  Discard used containers.  Store unused containers in pouch to protect from light.</paragraph>
+                     </text>
+                     <effectiveTime value="20090514"/>
+                  </section>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="S17">
+               <id root="E114297C-6ED8-942C-9152-A7C5A1A1015A"/>
+               <code code="34076-0" codeSystem="2.16.840.1.113883.6.1" displayName="INFORMATION FOR PATIENTS SECTION"/>
+               <title>17 PATIENT COUNSELING INFORMATION</title>
+               <effectiveTime value="20090514"/>
+               <component>
+                  <section ID="S17.1">
+                     <id root="02EDFC8A-6ED4-8FA3-2CBB-3290FC6A46FD"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>17.1	Directions for Use</title>
+                     <text>
+                        <paragraph>Patients should be advised that CETRAXAL is for otic use only. It is not for ophthalmic or inhalation use. It is not for injection. </paragraph>
+                        <paragraph>CETRAXAL should be given 2 times each day (about 12 hours apart) in each infected ear. </paragraph>
+                        <paragraph>CETRAXAL should be used for as long as it is prescribed, even if the symptoms improve. The patient should be advised to follow these directions while on CETRAXAL:</paragraph>
+                        <list listType="unordered">
+                           <item>Wash their hands before use.<br/>
+                              <paragraph>
+                                 <renderMultiMedia referencedObject="MM2"/>
+                              </paragraph>
+                           </item>
+                           <item>Warm the container in their hands for at least one minute prior to use to minimize dizziness that may result from the instillation of a cold solution into the ear canal.  Twist off and discard top of container.<br/>
+                              <paragraph>
+                                 <renderMultiMedia referencedObject="MM3"/>
+                              </paragraph>
+                           </item>
+                           <item>Lie with the affected ear upward and then instill the contents of one container into the ear. Maintain this position for at least one minute to facilitate penetration of the drops into the ear.<br/>
+                              <paragraph>
+                                 <renderMultiMedia referencedObject="MM4"/>
+                              </paragraph>
+                           </item>
+                           <item>Repeat, if necessary, for the opposite ear.</item>
+                           <item>Discard used container.</item>
+                           <item>Store unused containers in pouch to protect from light.</item>
+                        </list>
+                     </text>
+                     <effectiveTime value="20090514"/>
+                     <component>
+                        <observationMedia ID="MM2">
+                           <text>Figure</text>
+                           <value mediaType="image/jpeg" xsi:type="ED">
+                              <reference value="cetraxal-02.jpg"/>
+                           </value>
+                        </observationMedia>
+                     </component>
+                     <component>
+                        <observationMedia ID="MM3">
+                           <text>Figure</text>
+                           <value mediaType="image/jpeg" xsi:type="ED">
+                              <reference value="cetraxal-03.jpg"/>
+                           </value>
+                        </observationMedia>
+                     </component>
+                     <component>
+                        <observationMedia ID="MM4">
+                           <text>Figure</text>
+                           <value mediaType="image/jpeg" xsi:type="ED">
+                              <reference value="cetraxal-04.jpg"/>
+                           </value>
+                        </observationMedia>
+                     </component>
+                  </section>
+               </component>
+               <component>
+                  <section ID="S17.2">
+                     <id root="FD759E78-D6F4-AC32-8DD3-FCBC96A2D763"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>17.2	Hypersensitivity</title>
+                     <text>
+                        <paragraph>Patients should be advised to immediately discontinue CETRAXAL at the first appearance of a skin rash or any other sign of hypersensitivity [see Section <content styleCode="italics">
+                              <linkHtml href="#S5.1">5.1 Warnings and Precautions</linkHtml>
+                           </content>].</paragraph>
+                     </text>
+                     <effectiveTime value="20090514"/>
+                  </section>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section>
+               <id root="1167F7A9-7DAC-AD86-B33D-FE3242E155DF"/>
+               <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+               <title/>
+               <text>
+                  <paragraph>CETRAXAL is:<br/>Distributed by:<br/>WraSer Pharmaceuticals<br/>Ridgeland, MS 39157</paragraph>
+                  <paragraph>Manufactured by:<br/>The Ritedose Corporation<br/>Columbia, SC 29203 USA</paragraph>
+                  <paragraph>CETRAXAL® is a registered trademark of Laboratorios SALVAT, S.A.</paragraph>
+               </text>
+               <effectiveTime value="20090514"/>
+            </section>
+         </component>
+      </structuredBody>
+   </component>
+</document>

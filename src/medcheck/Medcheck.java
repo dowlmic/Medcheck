@@ -6,8 +6,12 @@
 package medcheck;
 
 import java.io.*;
+import static java.lang.System.*;
 import java.util.*;
 import org.json.*;
+
+import javax.xml.parsers.*;
+import org.w3c.dom.*;
 
 /**
  *
@@ -19,12 +23,35 @@ public class Medcheck {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        String fileLocation = "meddata.json";
-        File jsonTxt = new File(fileLocation);
+        String jsonFileLocation = "meddata.json";
+        File jsonTxt = new File(jsonFileLocation);
         
+        String xmlFileLocation = "XML Files";
+        File xmlDirectory = new File(xmlFileLocation);
+        
+        String jsonString = getJSONString(jsonTxt);
+        
+        PrintWriter csvWriter;
+        try {
+             csvWriter = new PrintWriter("meddata.csv", "UTF-8");
+        }
+        catch (Exception e) {
+            System.out.println("ERROR: " + e.getMessage());
+            e.printStackTrace();
+            return;
+        }
+        
+        Drug[] csvArray = convertToDrugArrayFromJSON(jsonString);
+        Drug[] xmlArray = convertToDrugArrayFromXML(xmlDirectory);
+        String csvString = convertToCsvString(csvArray, xmlArray);
+        csvWriter.print(csvString);
+        csvWriter.close();
+    }
+    
+    private static String getJSONString(File jsonFile) {
         String jsonString = "";
         try {
-            Scanner fileScanner = new Scanner(jsonTxt);
+            Scanner fileScanner = new Scanner(jsonFile);
             boolean isFirstLine = true;
             while (fileScanner.hasNextLine()) {
                 String line = fileScanner.nextLine().trim();
@@ -38,38 +65,17 @@ public class Medcheck {
         catch (Exception e) {
             System.out.println("ERROR: " + e.getMessage());
             e.printStackTrace();
-            return;
+            exit(1);
         }
         
-        PrintWriter csvWriter;
-        try {
-             csvWriter = new PrintWriter("meddata.csv", "UTF-8");
-        }
-        catch (Exception e) {
-            System.out.println("ERROR: " + e.getMessage());
-            e.printStackTrace();
-            return;
-        }
-        
-        String csvString = convertToCsvString(convertToDrugArray(jsonString));
-        csvWriter.print(csvString);
-        csvWriter.close();
+        return jsonString;
     }
     
-    private static String[] convertToStringArray(JSONArray jArray) {
-        String[] array = new String[jArray.length()];
-        for (int i = 0; i < jArray.length(); i++) {
-            array[i] = jArray.getString(i);
-        }
-        return array;
-    }
-    
-    private static Drug[] convertToDrugArray(String jsonFile) {
+    private static Drug[] convertToDrugArrayFromJSON(String jsonFile) {
         JSONObject obj = new JSONObject(jsonFile);
         JSONArray drugs = obj.getJSONArray("result");
         
         int drugCount = drugs.length();
-        System.out.println(drugCount);
         Drug[] drugArray = new Drug[drugCount];
         for (int i = 0; i < drugCount; i++) {
             JSONObject drug = drugs.getJSONObject(i);
@@ -94,25 +100,41 @@ public class Medcheck {
         return drugArray;
     }
     
-    public static String convertToArrayString(String[] array) {
-        String deliminator = "**";
-        String arrayString = "";
-        for (String str : array) {
-            arrayString += str + deliminator;
+        private static String[] convertToStringArray(JSONArray jArray) {
+        String[] array = new String[jArray.length()];
+        for (int i = 0; i < jArray.length(); i++) {
+            array[i] = jArray.getString(i);
         }
-        
-        if (arrayString.length() > 0) {
-            return arrayString.substring(0, arrayString.length()-1);
-        }
-        else {
-            return "";
-        }
+        return array;
     }
     
-    public static String convertToCsvString(Drug[] drugArray) {
+    private static Drug[] convertToDrugArrayFromXML(File xmlDirectory) {        
+        File[] xmlFiles = xmlDirectory.listFiles();
+        Drug[] drugs = new Drug[xmlFiles.length];
+        
+        System.out.println(xmlFiles.length);
+        
+        DocumentBuilderFactory dbf = DocumentBuilderFactory.newInstance();
+        try {
+            DocumentBuilder db = dbf.newDocumentBuilder();
+                    
+            for (int i = 0; i < xmlFiles.length; i++) {
+                db.parse(xmlFiles[i]);
+            }
+        }
+        catch (Exception e) {
+            System.out.println(e.getMessage());
+            e.printStackTrace();
+            exit(1);
+        }
+        
+        return drugs;
+    }
+    
+    public static String convertToCsvString(Drug[] csvArray, Drug[] xmlArray) {
         String csvString = "Name,Class,Physiologic Affects,Active Ingredients,"
                 + "Formulations,Brands,Part of Drugs\n";
-        for (Drug drug : drugArray) {
+        for (Drug drug : csvArray) {
             String drugClass = convertToArrayString(drug.getDrugClass());
             String physiologicAffects = convertToArrayString(drug.getPhysiologicAffects());
             String activeIngredients = convertToArrayString(drug.getActiveIngredients());
@@ -126,5 +148,20 @@ public class Medcheck {
         }
         
         return csvString;
+    }
+       
+    public static String convertToArrayString(String[] array) {
+        String deliminator = "**";
+        String arrayString = "";
+        for (String str : array) {
+            arrayString += str + deliminator;
+        }
+        
+        if (arrayString.length() > 0) {
+            return arrayString.substring(0, arrayString.length()-1);
+        }
+        else {
+            return "";
+        }
     }
 }

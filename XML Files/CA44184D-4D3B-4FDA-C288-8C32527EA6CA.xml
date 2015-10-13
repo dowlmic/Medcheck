@@ -1,0 +1,1139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="http://www.fda.gov/oc/datacouncil/stylesheets/spl/spl.xsl" type="text/xsl"?>
+<document xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:hl7-org:v3 http://www.fda.gov/oc/datacouncil/schemas/spl/spl.xsd">
+<id root="22AC9F4B-443E-7DD4-4087-7961CB491195" />
+<code code="34391-3" codeSystem="2.16.840.1.113883.6.1" displayName="Human Prescription Drug Label" />
+<title mediaType="text/x-hl7-title+xml"> ASTRAMORPH/PF&#8482;<br /> <content styleCode="italics">(morphine sulfate injection, USP</content>) Preservative-Free CS-ll</title>
+<effectiveTime value="20080806" />
+<availabilityTime />
+<confidentialityCode code="N" codeSystem="2.16.840.1.113883.5.25" codeSystemName="Confidentiality" />
+<setId root="CA44184D-4D3B-4FDA-C288-8C32527EA6CA" />
+<versionNumber value="4" />
+<author>
+<time />
+<assignedEntity>
+<id root="52F84850-BEFC-47E6-FBA7-518CB0F42F13" />
+<representedOrganization>
+<name> AstraZeneca LP</name>
+<addr>
+1800 Concord Pike
+Wilmington, DE 19850</addr>
+</representedOrganization>
+</assignedEntity>
+</author>
+<legalAuthenticator>
+<time />
+
+<assignedEntity>
+
+<telecom value="1-800-236-9933" />
+<representedOrganization>
+<name>AstraZeneca LP</name>
+</representedOrganization>
+</assignedEntity>
+</legalAuthenticator>
+<verifier>
+<time value="1986" />
+<assignedEntity />
+</verifier>
+<component>
+<structuredBody>
+<component>
+<section>
+<id root="8C65C6C2-61DF-6855-7F7D-9A726F563BEE" />
+<effectiveTime value="20080806" />
+<subject>
+<manufacturedProduct>
+<manufacturedMedicine>
+<code code="0186-1159" codeSystem="2.16.840.1.113883.6.69" />
+<name>ASTRAMORPH</name>
+<formCode code="C42946" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="INJECTION" />
+<activeIngredient>
+<quantity>
+<numerator unit="mg" value="0.5">
+<translation code="C28253" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="MILLIGRAM" value="0.5" />
+</numerator>
+<denominator unit="mL" value="1">
+<translation code="C28254" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="MILLILITER" value="1" />
+</denominator>
+</quantity>
+<activeIngredientSubstance>
+<code code="X3P646A2J0" codeSystem="2.16.840.1.113883.4.9" displayName="MORPHINE SULFATE" />
+<name>Morphine Sulfate</name>
+<activeMoiety>
+<activeMoiety>
+<code code="76I7G6D29C" codeSystem="2.16.840.1.113883.4.9" displayName="MORPHINE" />
+<name>Morphine</name>
+</activeMoiety>
+</activeMoiety>
+</activeIngredientSubstance>
+</activeIngredient>
+<asEntityWithGeneric>
+<genericMedicine>
+<name>Morphine Sulfate</name>
+</genericMedicine>
+</asEntityWithGeneric>
+<inactiveIngredient>
+<quantity>
+<numerator unit="mg" value="9">
+<translation code="C28253" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="MILLIGRAM" value="9" />
+</numerator>
+<denominator unit="mL" value="1">
+<translation code="C28254" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="MILLILITER" value="1" />
+</denominator>
+</quantity>
+<inactiveIngredientSubstance>
+<code code="451W47IQ8X" codeSystem="2.16.840.1.113883.4.9" />
+<name>sodium chloride</name>
+</inactiveIngredientSubstance>
+</inactiveIngredient>
+<inactiveIngredient>
+<inactiveIngredientSubstance>
+<code code="059QF0KO0R" codeSystem="2.16.840.1.113883.4.9" />
+<name>water</name>
+</inactiveIngredientSubstance>
+</inactiveIngredient>
+<inactiveIngredient>
+<inactiveIngredientSubstance>
+<code code="N762921K75" codeSystem="2.16.840.1.113883.4.9" />
+<name>nitrogen</name>
+</inactiveIngredientSubstance>
+</inactiveIngredient>
+<asContent>
+<quantity>
+<numerator unit="mL" value="2">
+<translation code="C28254" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="MILLILITER" value="2" />
+</numerator>
+<denominator value="1">
+<translation value="1" />
+</denominator>
+</quantity>
+<containerPackagedMedicine>
+<code />
+<formCode code="C43165" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="AMPULE" />
+<asContent>
+<quantity>
+<numerator unit="1" value="10">
+<translation code="C48473" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="AMPULE" value="10" />
+</numerator>
+<denominator value="1">
+<translation value="1" />
+</denominator>
+</quantity>
+<containerPackagedMedicine>
+<code code="0186-1159-03" codeSystem="2.16.840.1.113883.6.69" />
+<formCode code="C43178" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="BOX" />
+</containerPackagedMedicine>
+</asContent>
+</containerPackagedMedicine>
+</asContent>
+</manufacturedMedicine>
+<subjectOf>
+<policy classCode="DEADrugSchedule">
+<code code="C48675" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="CII" />
+</policy>
+</subjectOf>
+<consumedIn>
+<substanceAdministration>
+<routeCode code="C38210" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="EPIDURAL" />
+</substanceAdministration>
+</consumedIn>
+<consumedIn>
+<substanceAdministration>
+<routeCode code="C38267" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="INTRATHECAL" />
+</substanceAdministration>
+</consumedIn>
+<consumedIn>
+<substanceAdministration>
+<routeCode code="C38276" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="INTRAVENOUS" />
+</substanceAdministration>
+</consumedIn>
+</manufacturedProduct>
+</subject>
+<subject>
+<manufacturedProduct>
+<manufacturedMedicine>
+<code code="0186-1160" codeSystem="2.16.840.1.113883.6.69" />
+<name>ASTRAMORPH</name>
+<formCode code="C42946" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="INJECTION" />
+<activeIngredient>
+<quantity>
+<numerator unit="mg" value="1">
+<translation code="C28253" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="MILLIGRAM" value="1" />
+</numerator>
+<denominator unit="mL" value="1">
+<translation code="C28254" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="MILLILITER" value="1" />
+</denominator>
+</quantity>
+<activeIngredientSubstance>
+<code code="X3P646A2J0" codeSystem="2.16.840.1.113883.4.9" displayName="MORPHINE SULFATE" />
+<name>Morphine sulfate</name>
+<activeMoiety>
+<activeMoiety>
+<code code="76I7G6D29C" codeSystem="2.16.840.1.113883.4.9" displayName="MORPHINE" />
+<name>Morphine</name>
+</activeMoiety>
+</activeMoiety>
+</activeIngredientSubstance>
+</activeIngredient>
+<asEntityWithGeneric>
+<genericMedicine>
+<name>Morphine Sulfate</name>
+</genericMedicine>
+</asEntityWithGeneric>
+<inactiveIngredient>
+<quantity>
+<numerator unit="mg" value="9">
+<translation code="C28253" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="MILLIGRAM" value="9" />
+</numerator>
+<denominator unit="mL" value="1">
+<translation code="C28254" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="MILLILITER" value="1" />
+</denominator>
+</quantity>
+<inactiveIngredientSubstance>
+<code code="451W47IQ8X" codeSystem="2.16.840.1.113883.4.9" />
+<name>sodium chloride</name>
+</inactiveIngredientSubstance>
+</inactiveIngredient>
+<inactiveIngredient>
+<inactiveIngredientSubstance>
+<code code="059QF0KO0R" codeSystem="2.16.840.1.113883.4.9" />
+<name>water</name>
+</inactiveIngredientSubstance>
+</inactiveIngredient>
+<inactiveIngredient>
+<inactiveIngredientSubstance>
+<code code="N762921K75" codeSystem="2.16.840.1.113883.4.9" />
+<name>nitrogen</name>
+</inactiveIngredientSubstance>
+</inactiveIngredient>
+<asContent>
+<quantity>
+<numerator unit="mL" value="2">
+<translation code="C28254" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="MILLILITER" value="2" />
+</numerator>
+<denominator value="1">
+<translation value="1" />
+</denominator>
+</quantity>
+<containerPackagedMedicine>
+<code />
+<formCode code="C43165" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="AMPULE" />
+<asContent>
+<quantity>
+<numerator unit="1" value="10">
+<translation code="C48473" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="AMPULE" value="10" />
+</numerator>
+<denominator value="1">
+<translation value="1" />
+</denominator>
+</quantity>
+<containerPackagedMedicine>
+<code code="0186-1160-03" codeSystem="2.16.840.1.113883.6.69" />
+<formCode code="C43178" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="BOX" />
+</containerPackagedMedicine>
+</asContent>
+</containerPackagedMedicine>
+</asContent>
+</manufacturedMedicine>
+<subjectOf>
+<policy classCode="DEADrugSchedule">
+<code code="C48675" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="CII" />
+</policy>
+</subjectOf>
+<consumedIn>
+<substanceAdministration>
+<routeCode code="C38210" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="EPIDURAL" />
+</substanceAdministration>
+</consumedIn>
+<consumedIn>
+<substanceAdministration>
+<routeCode code="C38267" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="INTRATHECAL" />
+</substanceAdministration>
+</consumedIn>
+<consumedIn>
+<substanceAdministration>
+<routeCode code="C38276" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="INTRAVENOUS" />
+</substanceAdministration>
+</consumedIn>
+</manufacturedProduct>
+</subject>
+<subject>
+<manufacturedProduct>
+<manufacturedMedicine>
+<code code="0186-1152" codeSystem="2.16.840.1.113883.6.69" />
+<name>ASTRAMORPH</name>
+<formCode code="C42946" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="INJECTION" />
+<activeIngredient>
+<quantity>
+<numerator unit="mg" value="0.5">
+<translation code="C28253" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="MILLIGRAM" value="0.5" />
+</numerator>
+<denominator unit="mL" value="1">
+<translation code="C28254" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="MILLILITER" value="1" />
+</denominator>
+</quantity>
+<activeIngredientSubstance>
+<code code="X3P646A2J0" codeSystem="2.16.840.1.113883.4.9" displayName="MORPHINE SULFATE" />
+<name>Morphine sulfate</name>
+<activeMoiety>
+<activeMoiety>
+<code code="76I7G6D29C" codeSystem="2.16.840.1.113883.4.9" displayName="MORPHINE" />
+<name>Morphine</name>
+</activeMoiety>
+</activeMoiety>
+</activeIngredientSubstance>
+</activeIngredient>
+<asEntityWithGeneric>
+<genericMedicine>
+<name>Morphine Sulfate</name>
+</genericMedicine>
+</asEntityWithGeneric>
+<inactiveIngredient>
+<quantity>
+<numerator unit="mg" value="9">
+<translation code="C28253" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="MILLIGRAM" value="9" />
+</numerator>
+<denominator unit="mL" value="1">
+<translation code="C28254" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="MILLILITER" value="1" />
+</denominator>
+</quantity>
+<inactiveIngredientSubstance>
+<code code="451W47IQ8X" codeSystem="2.16.840.1.113883.4.9" />
+<name>sodium chloride</name>
+</inactiveIngredientSubstance>
+</inactiveIngredient>
+<inactiveIngredient>
+<inactiveIngredientSubstance>
+<code code="059QF0KO0R" codeSystem="2.16.840.1.113883.4.9" />
+<name>water</name>
+</inactiveIngredientSubstance>
+</inactiveIngredient>
+<inactiveIngredient>
+<inactiveIngredientSubstance>
+<code code="N762921K75" codeSystem="2.16.840.1.113883.4.9" />
+<name>nitrogen</name>
+</inactiveIngredientSubstance>
+</inactiveIngredient>
+<asContent>
+<quantity>
+<numerator unit="mL" value="10">
+<translation code="C28254" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="MILLILITER" value="10" />
+</numerator>
+<denominator value="1">
+<translation value="1" />
+</denominator>
+</quantity>
+<containerPackagedMedicine>
+<code />
+<formCode code="C43226" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="VIAL" />
+<asContent>
+<quantity>
+<numerator unit="1" value="5">
+<translation code="C48551" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="VIAL" value="5" />
+</numerator>
+<denominator value="1">
+<translation value="1" />
+</denominator>
+</quantity>
+<containerPackagedMedicine>
+<code code="0186-1152-12" codeSystem="2.16.840.1.113883.6.69" />
+<formCode code="C43178" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="BOX" />
+</containerPackagedMedicine>
+</asContent>
+</containerPackagedMedicine>
+</asContent>
+</manufacturedMedicine>
+<subjectOf>
+<policy classCode="DEADrugSchedule">
+<code code="C48675" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="CII" />
+</policy>
+</subjectOf>
+<consumedIn>
+<substanceAdministration>
+<routeCode code="C38210" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="EPIDURAL" />
+</substanceAdministration>
+</consumedIn>
+<consumedIn>
+<substanceAdministration>
+<routeCode code="C38267" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="INTRATHECAL" />
+</substanceAdministration>
+</consumedIn>
+<consumedIn>
+<substanceAdministration>
+<routeCode code="C38276" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="INTRAVENOUS" />
+</substanceAdministration>
+</consumedIn>
+</manufacturedProduct>
+</subject>
+<subject>
+<manufacturedProduct>
+<manufacturedMedicine>
+<code code="0186-1150" codeSystem="2.16.840.1.113883.6.69" />
+<name>ASTRAMORPH</name>
+<formCode code="C42946" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="INJECTION" />
+<activeIngredient>
+<quantity>
+<numerator unit="mg" value="0.5">
+<translation code="C28253" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="MILLIGRAM" value="0.5" />
+</numerator>
+<denominator unit="mL" value="1">
+<translation code="C28254" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="MILLILITER" value="1" />
+</denominator>
+</quantity>
+<activeIngredientSubstance>
+<code code="X3P646A2J0" codeSystem="2.16.840.1.113883.4.9" displayName="MORPHINE SULFATE" />
+<name>Morphine sulfate</name>
+<activeMoiety>
+<activeMoiety>
+<code code="76I7G6D29C" codeSystem="2.16.840.1.113883.4.9" displayName="MORPHINE" />
+<name>Morphine</name>
+</activeMoiety>
+</activeMoiety>
+</activeIngredientSubstance>
+</activeIngredient>
+<asEntityWithGeneric>
+<genericMedicine>
+<name>Morphine Sulfate</name>
+</genericMedicine>
+</asEntityWithGeneric>
+<inactiveIngredient>
+<quantity>
+<numerator unit="mg" value="9">
+<translation code="C28253" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="MILLIGRAM" value="9" />
+</numerator>
+<denominator unit="mL" value="1">
+<translation code="C28254" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="MILLILITER" value="1" />
+</denominator>
+</quantity>
+<inactiveIngredientSubstance>
+<code code="451W47IQ8X" codeSystem="2.16.840.1.113883.4.9" />
+<name>sodium chloride</name>
+</inactiveIngredientSubstance>
+</inactiveIngredient>
+<inactiveIngredient>
+<inactiveIngredientSubstance>
+<code code="059QF0KO0R" codeSystem="2.16.840.1.113883.4.9" />
+<name>water</name>
+</inactiveIngredientSubstance>
+</inactiveIngredient>
+<inactiveIngredient>
+<inactiveIngredientSubstance>
+<code code="N762921K75" codeSystem="2.16.840.1.113883.4.9" />
+<name>nitrogen</name>
+</inactiveIngredientSubstance>
+</inactiveIngredient>
+<asContent>
+<quantity>
+<numerator unit="mL" value="10">
+<translation code="C28254" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="MILLILITER" value="10" />
+</numerator>
+<denominator value="1">
+<translation value="1" />
+</denominator>
+</quantity>
+<containerPackagedMedicine>
+<code />
+<formCode code="C43165" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="AMPULE" />
+<asContent>
+<quantity>
+<numerator unit="1" value="5">
+<translation code="C48473" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="AMPULE" value="5" />
+</numerator>
+<denominator value="1">
+<translation value="1" />
+</denominator>
+</quantity>
+<containerPackagedMedicine>
+<code code="0186-1150-02" codeSystem="2.16.840.1.113883.6.69" />
+<formCode code="C43178" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="BOX" />
+</containerPackagedMedicine>
+</asContent>
+</containerPackagedMedicine>
+</asContent>
+</manufacturedMedicine>
+<subjectOf>
+<policy classCode="DEADrugSchedule">
+<code code="C48675" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="CII" />
+</policy>
+</subjectOf>
+<consumedIn>
+<substanceAdministration>
+<routeCode code="C38210" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="EPIDURAL" />
+</substanceAdministration>
+</consumedIn>
+<consumedIn>
+<substanceAdministration>
+<routeCode code="C38267" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="INTRATHECAL" />
+</substanceAdministration>
+</consumedIn>
+<consumedIn>
+<substanceAdministration>
+<routeCode code="C38276" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="INTRAVENOUS" />
+</substanceAdministration>
+</consumedIn>
+</manufacturedProduct>
+</subject>
+<subject>
+<manufacturedProduct>
+<manufacturedMedicine>
+<code code="0186-1151" codeSystem="2.16.840.1.113883.6.69" />
+<name>ASTRAMORPH</name>
+<formCode code="C42946" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="INJECTION" />
+<activeIngredient>
+<quantity>
+<numerator unit="mg" value="1">
+<translation code="C28253" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="MILLIGRAM" value="1" />
+</numerator>
+<denominator unit="mL" value="1">
+<translation code="C28254" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="MILLILITER" value="1" />
+</denominator>
+</quantity>
+<activeIngredientSubstance>
+<code code="X3P646A2J0" codeSystem="2.16.840.1.113883.4.9" displayName="MORPHINE SULFATE" />
+<name>Morphine sulfate</name>
+<activeMoiety>
+<activeMoiety>
+<code code="76I7G6D29C" codeSystem="2.16.840.1.113883.4.9" displayName="MORPHINE" />
+<name>Morphine</name>
+</activeMoiety>
+</activeMoiety>
+</activeIngredientSubstance>
+</activeIngredient>
+<asEntityWithGeneric>
+<genericMedicine>
+<name>Morphine Sulfate</name>
+</genericMedicine>
+</asEntityWithGeneric>
+<inactiveIngredient>
+<quantity>
+<numerator unit="mg" value="9">
+<translation code="C28253" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="MILLIGRAM" value="9" />
+</numerator>
+<denominator unit="mL" value="1">
+<translation code="C28254" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="MILLILITER" value="1" />
+</denominator>
+</quantity>
+<inactiveIngredientSubstance>
+<code code="451W47IQ8X" codeSystem="2.16.840.1.113883.4.9" />
+<name>sodium chloride</name>
+</inactiveIngredientSubstance>
+</inactiveIngredient>
+<inactiveIngredient>
+<inactiveIngredientSubstance>
+<code code="059QF0KO0R" codeSystem="2.16.840.1.113883.4.9" />
+<name>water</name>
+</inactiveIngredientSubstance>
+</inactiveIngredient>
+<inactiveIngredient>
+<inactiveIngredientSubstance>
+<code code="N762921K75" codeSystem="2.16.840.1.113883.4.9" />
+<name>nitrogen</name>
+</inactiveIngredientSubstance>
+</inactiveIngredient>
+<asContent>
+<quantity>
+<numerator unit="mL" value="10">
+<translation code="C28254" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="MILLILITER" value="10" />
+</numerator>
+<denominator value="1">
+<translation value="1" />
+</denominator>
+</quantity>
+<containerPackagedMedicine>
+<code />
+<formCode code="C43165" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="AMPULE" />
+<asContent>
+<quantity>
+<numerator unit="1" value="5">
+<translation code="C48473" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="AMPULE" value="5" />
+</numerator>
+<denominator value="1">
+<translation value="1" />
+</denominator>
+</quantity>
+<containerPackagedMedicine>
+<code code="0186-1151-02" codeSystem="2.16.840.1.113883.6.69" />
+<formCode code="C43178" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="BOX" />
+</containerPackagedMedicine>
+</asContent>
+</containerPackagedMedicine>
+</asContent>
+</manufacturedMedicine>
+<subjectOf>
+<policy classCode="DEADrugSchedule">
+<code code="C48675" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="CII" />
+</policy>
+</subjectOf>
+<consumedIn>
+<substanceAdministration>
+<routeCode code="C38210" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="EPIDURAL" />
+</substanceAdministration>
+</consumedIn>
+<consumedIn>
+<substanceAdministration>
+<routeCode code="C38267" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="INTRATHECAL" />
+</substanceAdministration>
+</consumedIn>
+<consumedIn>
+<substanceAdministration>
+<routeCode code="C38276" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="INTRAVENOUS" />
+</substanceAdministration>
+</consumedIn>
+</manufacturedProduct>
+</subject>
+<subject>
+<manufacturedProduct>
+<manufacturedMedicine>
+<code code="0186-1153" codeSystem="2.16.840.1.113883.6.69" />
+<name>ASTRAMORPH</name>
+<formCode code="C42946" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="INJECTION" />
+<activeIngredient>
+<quantity>
+<numerator unit="mg" value="1">
+<translation code="C28253" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="MILLIGRAM" value="1" />
+</numerator>
+<denominator unit="mL" value="1">
+<translation code="C28254" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="MILLILITER" value="1" />
+</denominator>
+</quantity>
+<activeIngredientSubstance>
+<code code="X3P646A2J0" codeSystem="2.16.840.1.113883.4.9" displayName="MORPHINE SULFATE" />
+<name>Morphine sulfate</name>
+<activeMoiety>
+<activeMoiety>
+<code code="76I7G6D29C" codeSystem="2.16.840.1.113883.4.9" displayName="MORPHINE" />
+<name>Morphine</name>
+</activeMoiety>
+</activeMoiety>
+</activeIngredientSubstance>
+</activeIngredient>
+<asEntityWithGeneric>
+<genericMedicine>
+<name>Morphine Sulfate</name>
+</genericMedicine>
+</asEntityWithGeneric>
+<inactiveIngredient>
+<quantity>
+<numerator unit="mg" value="9">
+<translation code="C28253" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="MILLIGRAM" value="9" />
+</numerator>
+<denominator unit="mL" value="1">
+<translation code="C28254" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="MILLILITER" value="1" />
+</denominator>
+</quantity>
+<inactiveIngredientSubstance>
+<code code="451W47IQ8X" codeSystem="2.16.840.1.113883.4.9" />
+<name>sodium chloride</name>
+</inactiveIngredientSubstance>
+</inactiveIngredient>
+<inactiveIngredient>
+<inactiveIngredientSubstance>
+<code code="059QF0KO0R" codeSystem="2.16.840.1.113883.4.9" />
+<name>water</name>
+</inactiveIngredientSubstance>
+</inactiveIngredient>
+<inactiveIngredient>
+<inactiveIngredientSubstance>
+<code code="N762921K75" codeSystem="2.16.840.1.113883.4.9" />
+<name>nitrogen</name>
+</inactiveIngredientSubstance>
+</inactiveIngredient>
+<asContent>
+<quantity>
+<numerator unit="mL" value="10">
+<translation code="C28254" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="MILLILITER" value="10" />
+</numerator>
+<denominator value="1">
+<translation value="1" />
+</denominator>
+</quantity>
+<containerPackagedMedicine>
+<code />
+<formCode code="C43216" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="VIAL, SINGLE-USE" />
+<asContent>
+<quantity>
+<numerator unit="1" value="5">
+<translation code="C48551" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="VIAL" value="5" />
+</numerator>
+<denominator value="1">
+<translation value="1" />
+</denominator>
+</quantity>
+<containerPackagedMedicine>
+<code code="0186-1153-12" codeSystem="2.16.840.1.113883.6.69" />
+<formCode code="C43178" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="BOX" />
+</containerPackagedMedicine>
+</asContent>
+</containerPackagedMedicine>
+</asContent>
+</manufacturedMedicine>
+<subjectOf>
+<policy classCode="DEADrugSchedule">
+<code code="C48675" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="CII" />
+</policy>
+</subjectOf>
+<consumedIn>
+<substanceAdministration>
+<routeCode code="C38210" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="EPIDURAL" />
+</substanceAdministration>
+</consumedIn>
+<consumedIn>
+<substanceAdministration>
+<routeCode code="C38267" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="INTRATHECAL" />
+</substanceAdministration>
+</consumedIn>
+<consumedIn>
+<substanceAdministration>
+<routeCode code="C38276" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="INTRAVENOUS" />
+</substanceAdministration>
+</consumedIn>
+</manufacturedProduct>
+</subject>
+</section>
+</component>
+<component>
+<section>
+<id root="5B856DA2-7A5F-A2E9-0695-84374DA87C0E" />
+<code code="34089-3" codeSystem="2.16.840.1.113883.6.1" displayName="DESCRIPTION SECTION" />
+<title mediaType="text/x-hl7-title+xml"> DESCRIPTION</title>
+<text> <paragraph> Morphine is the most important alkaloid of opium and is a phenanthrene  derivative.  It is available as the sulfate salt, having the following  structural formula:</paragraph>  <paragraph> 7,8-Didehydro-4,5-epoxy-17-methyl-(5&#945;,6&#945;)-morphinan-3,6-diol  sulfate (2:1) (salt), pentahydrate</paragraph><renderMultiMedia referencedObject="MM1163678314-1" /><paragraph> (C<sub>17</sub> H<sub>19</sub> NO<sub>3</sub> )<sub>2</sub> &#8226;H<sub>2</sub> SO<sub>4</sub> &#8226;5H<sub>2</sub> OMolecular Weight is 758.83</paragraph> <paragraph> Preservative-free ASTRAMORPH/PF (Morphine Sulfate Injection, USP) is a  sterile, nonpyrogenic isobaric solution of morphine sulfate free of  antioxidants, preservatives or other potentially neurotoxic additives,  and is intended for intravenous, epidural or intrathecal administration  as a narcotic analgesic.  Each milliliter contains morphine sulfate 0.5  mg or 1 mg and sodium chloride 9 mg in Water for Injection.  pH range  is 2.5-6.5.  Ampules and vials are sealed under nitrogen.  Each ampule  and vial is intended for <content styleCode="bold">SINGLE USE ONLY</content> .  <content styleCode="italics">Discard any unused portion</content> .  DO NOT HEAT-STERILIZE.</paragraph> </text>
+<effectiveTime value="20080806" />
+<component>
+<observationMedia ID="MM1163678314-1">
+<id root="B00363F0-7619-4DE1-1FB0-059C0D1E9B5D" />
+<value mediaType="image/jpeg" xsi:type="ED"><reference value="astramorph-chemstructure.jpg" /></value>
+</observationMedia>
+</component>
+</section>
+</component>
+<component>
+<section>
+<id root="9D3AE0F3-7457-C0B6-8938-EAF5E1D44E5D" />
+<code code="34090-1" codeSystem="2.16.840.1.113883.6.1" displayName="CLINICAL PHARMACOLOGY  SECTION" />
+<title mediaType="text/x-hl7-title+xml"> CLINICAL PHARMACOLOGY</title>
+<text> <paragraph> Morphine produces a wide spectrum of pharmacologic effects including  analgesia, dysphoria, euphoria, somnolence, respiratory depression,  diminished gastrointestinal motility and physical dependence. Opiate  analgesia involves at least three anatomical areas of the central  nervous system: the periaqueductal-periventricular gray matter, the  ventromedial medulla and the spinal cord. A systemically administered  opiate may produce analgesia by acting at any, all or some combination  of these distinct regions. Morphine interacts predominantly with the  &#181;-receptor. The &#181;-binding sites of opioids are very  discretely distributed in the human brain, with high densities of sites  found in the posterior amygdala, hypothalamus, thalamus, nucleus  caudatus, putamen and certain cortical areas. They are also found on  the terminal axons of primary afferents within laminae I and II  (substantia gelatinosa) of the spinal cord and in the spinal nucleus of  the trigeminal nerve. </paragraph> <paragraph> Morphine has an apparent volume of distribution ranging from 1.0 to 4.7  L/kg after <content styleCode="italics">intravenous</content>  dosage. Protein binding is low, about 36%, and muscle tissue binding  is reported as 54%. A blood-brain barrier exists, and when morphine is  introduced outside of the CNS (eg. <content styleCode="italics">intravenously</content> ), plasma concentrations of morphine remain higher than the  corresponding CSF morphine levels. Conversely, when morphine is  injected into the <content styleCode="italics">intrathecal </content> space, it diffuses out into the systemic circulation slowly, accounting  for the long duration of action of morphine administered by this route.  </paragraph> <paragraph> Morphine has a total plasma clearance which ranges from 0.9 to 1.2  L/kg/h (liters/kilogram/hour) in postoperative patients, but shows  considerable interindividual variation. The major pathway of clearance  is hepatic glucuronidation to morphine-3-glucuronide, which is  pharmacologically inactive. The major excretion path of the conjugate  is through the kidneys, with about 10% in the feces. Morphine is also  eliminated by the kidneys, 2 to 12% being excreted unchanged in the  urine. Terminal half-life is commonly reported to vary from 1.5 to 4.5  hours, although the longer half-lives were obtained when morphine  levels were monitored over protracted periods with very sensitive  radioimmunoassay methods. The accepted elimination half-life in normal  subject is 1.5 to 2 hours. </paragraph> <paragraph> "Selective" blockade of pain sensation is possible by neuraxial  application of morphine. In addition, duration of analgesia may be much  longer by this route compared to systemic administration. However, CNS  effects, associated with systemic administration, are still seen. These  include respiratory depression, sedation, nausea and vomiting, pruritus  and urinary retention. In particular, both early and late respiratory  depression (up to 24 hours post dosing) have been reported following  neuraxial administration. Circulation of the spinal fluid may also  result in high concentrations of morphine reaching the brain stem  directly. </paragraph> <paragraph> The incidence of unwanted CNS effects, including delayed respiratory  depression, associated with neuraxial application of morphine, is  related to the circulatory dynamics of the epidural venous plexus and  the spinal fluid. The lipid solubility and degree of ionization of  morphine plays an important part in both the onset and duration of  analgesia and the CNS effects. Morphine has a pK<sub>a </sub> 7.9, with an octanol/water partition coefficient of 1.42 at pH 7.4. At  this pH, the tertiary amino group in each of the opioids is mostly  ionized, making the molecule water soluble. Morphine, with additional  hydroxyl groups on the molecule, is significantly more water-soluble  than any other opioid in clinical use. </paragraph> <paragraph> Morphine, injected into the <content styleCode="italics">epidural space</content> , is rapidly absorbed into the general circulation. Absorption is so  rapid that the plasma concentration-time profiles closely resemble  those obtained after intravenous or intramuscular administration. Peak  plasma concentrations averaging 33-40 ng/mL (range 5-62 ng/mL) are  achieved within 10 to 15 minutes after administration of 3 mg of  morphine. Plasma concentrations decline in a multiexponential fashion.  The terminal half-life is reported to range from 39 to 249 minutes  (mean of 90 &#177; 34.3 min) and, though somewhat shorter, is similar in  magnitude as values reported after intravenous and intramuscular  administration (1.5-4.5 h). CSF concentrations of morphine, after  epidural doses of 2 to 6 mg in postoperative patients, have been  reported to be 50 to 250 times higher than corresponding plasma  concentrations. The CSF levels of morphine exceed those in plasma after  only 15 minutes and are detectable for as long as 20 hours after the  injection of 2 mg of epidural morphine. Approximately 4% of the dose  injected epidurally reaches the CSF. This corresponds to the relative  minimum effective epidural and intrathecal doses of 5 mg and 0.25 mg,  respectively. The disposition of morphine in the CSF follows a biphasic  pattern, with an early half-life of 1.5 h and a late phase half-life of  about 6 h. Morphine crosses the dura slowly, with an absorption  half-life across the dura averaging 22 minutes. Maximum CSF  concentrations are seen 60-90 minutes after injection. Minimum  effective CSF concentrations for postoperative analgesia average 150  ng/mL (range &lt;1-380 ng/mL). </paragraph> <paragraph> The <content styleCode="italics">intrathecal route</content>  of administration circumvents meningeal diffusion barriers and,  therefore, lower doses of morphine produce comparable analgesia to that  induced by the epidural route. After intrathecal bolus injection of  morphine, there is a rapid initial distribution phase lasting 15-30  minutes and a half-life in the CSF of 42-136 min (mean 90 &#177; 16 min).  Derived from limited data, it appears that the disposition of morphine  in the CSF, from 15 minutes postintrathecal administration to the end  of a six-hour observation period, represents a combination of the  distribution and elimination phases. Morphine concentrations in the CSF  averaged 332 &#177; 137 ng/mL at 6 hours, following a bolus dose of 0.3  mg of morphine. The apparent volume of distribution of morphine in the  intrathecal space is about 22 &#177; 8 mL. </paragraph> <paragraph> Time-to-peak plasma concentrations, however, are similar (5-10 min)  after either epidural or intrathecal bolus administration of morphine.  Maximum plasma morphine concentrations after 0.3 mg intrathecal  morphine have been reported from &lt;1 to 7.8 ng/mL. The minimum  analgesic morphine plasma concentration during Patient-Controlled  Analgesia (PCA) has been reported as 20-40 ng/mL, suggesting that any  analgesic contribution from systemic redistribution would be minimal  after the first 30-60 minutes with epidural administration and  virtually absent with intrathecal administration of  morphine.</paragraph> </text>
+<effectiveTime value="20080806" />
+</section>
+</component>
+<component>
+<section>
+<id root="995A4930-638C-C94C-D69C-99D2B8D57276" />
+<code code="34067-9" codeSystem="2.16.840.1.113883.6.1" displayName="INDICATIONS AND USAGE  SECTION" />
+<title mediaType="text/x-hl7-title+xml"> INDICATIONS AND USAGE:</title>
+<text> <paragraph> Astramorph/PF is a systemic narcotic analgesic for administration by  the intravenous, epidural or intrathecal routes.  It is used for the  management of pain not responsive to non-narcotic analgesics.   Astramorph/PF, administered epidurally or intrathecally, provides pain  relief for extended periods without attendant loss of motor, sensory or  sympathetic function.</paragraph> </text>
+<effectiveTime value="20080806" />
+</section>
+</component>
+<component>
+<section>
+<id root="635E7D23-B516-EE21-6F26-2CAE9D58D3F2" />
+<code code="34070-3" codeSystem="2.16.840.1.113883.6.1" displayName="CONTRAINDICATIONS SECTION" />
+<title mediaType="text/x-hl7-title+xml"> CONTRAINDICATIONS:</title>
+<text> <paragraph> Astramorph/PF is contraindicated in those medical conditions which  would preclude the administration of opioids by the intravenous  route&#8212;allergy to morphine or other opiates, acute bronchial  asthma, upper airway obstruction.</paragraph><paragraph /><paragraph>Astramorph/PF, like all opioid analgesics, may cause severe hypotension in an individual whose ability to maintain blood pressure has already been compromised by a depleted blood volume or a concurrent administration of drugs, such as phenothiazines or general anesthetics. (See also, <content styleCode="bold">PRECAUTIONS: Use with Other Central Nervous System Depressants.)</content></paragraph> </text>
+<effectiveTime value="20080806" />
+</section>
+</component>
+<component>
+<section ID="robinsonja1130788196016">
+<id root="A1ACC1FF-761A-5F39-61E2-E153E5512988" />
+<code code="34071-1" codeSystem="2.16.840.1.113883.6.1" displayName="WARNINGS SECTION" />
+<title mediaType="text/x-hl7-title+xml"> WARNINGS:</title>
+<text> <paragraph> Morphine sulfate may be habit forming. (See <linkHtml href="#robinsonja1130788114267"> DRUG ABUSE AND DEPENDENCE</linkHtml>.) <content styleCode="bold" />  Overdoses may cause respiratory depression, coma and death.</paragraph> <paragraph> Astramorph/PF administration should be limited to use by those familiar  with the management of respiratory depression. Rapid intravenous  administration may result in chest wall rigidity.</paragraph> <paragraph> <content styleCode="bold">Prior to any epidural or intrathecal drug administration, the physician  should be familiar with patient conditions (such as infection at the  injection site, bleeding diathesis, anticoagulant therapy, etc.) which  call for special evaluation of the benefit versus risk potential.  </content> </paragraph> <paragraph> In the case of epidural or intrathecal administration, Astramorph/PF  should be administered by or under the direction of a physician  experienced in the techniques and familiar with the patient management  problems associated with epidural or intrathecal drug administration.  Because epidural administration has been associated with less potential  for immediate or late adverse effects than intrathecal administration,  the epidural route should be used whenever possible. SEVERE RESPIRATORY  DEPRESSION UP TO 24 HOURS FOLLOWING EPIDURAL OR INTRATHECAL  ADMINISTRATION HAS BEEN REPORTED. </paragraph> <paragraph> <content styleCode="bold">BECAUSE OF THE RISK OF SEVERE ADVERSE EFFECTS WHEN THE EPIDURAL OR  INTRATHECAL ROUTE OF ADMINISTRATION IS EMPLOYED, PATIENTS MUST BE  OBSERVED IN A FULLY EQUIPPED AND STAFFED ENVIRONMENT FOR AT LEAST 24  HOURS AFTER THE INITIAL DOSE. </content> </paragraph> <paragraph /> <paragraph> THE FACILITY MUST BE EQUIPPED TO RESUSCITATE PATIENTS WITH SEVERE  OPIATE OVERDOSAGE, AND THE PERSONNEL MUST BE FAMILIAR WITH THE USE AND  LIMITATIONS OF SPECIFIC NARCOTIC ANTAGONISTS (NALOXONE, NALTREXONE) IN  SUCH CASES. </paragraph> </text>
+<effectiveTime value="20080806" />
+<component>
+<section>
+<id root="DB677442-ECDA-4DAD-EB56-3893FB359E60" />
+<code />
+<title mediaType="text/x-hl7-title+xml"> Tolerance and Myoclonic Activity:</title>
+<text> <paragraph> PATIENTS SOMETIMES MANIFEST UNUSUAL ACCELERATION OF NEURAXIAL MORPHINE  REQUIREMENTS, WHICH MAY CAUSE CONCERN REGARDING SYSTEMIC ABSORPTION AND  THE HAZARDS OF LARGE DOSES; THESE PATIENTS MAY BENEFIT FROM  HOSPITALIZATION AND DETOXIFICATION. TWO CASES OF MYOCLONIC-LIKE SPASM  OF THE LOWER EXTREMITIES HAVE BEEN REPORTED IN PATIENTS RECEIVING MORE  THAN 20 MG/DAY OF INTRATHECAL MORPHINE. AFTER DETOXIFICATION, IT MIGHT  BE POSSIBLE TO RESUME TREATMENT AT LOWER DOSES, AND SOME PATIENTS HAVE  BEEN SUCCESSFULLY CHANGED FROM CONTINUOUS EPIDURAL MORPHINE TO  CONTINUOUS INTRATHECAL MORPHINE. REPEAT DETOXIFICATION MAY BE INDICATED  AT A LATER DATE. THE UPPER DAILY DOSAGE LIMIT FOR EACH PATIENT DURING  CONTINUING TREATMENT MUST BE INDIVIDUALIZED. </paragraph> </text>
+<effectiveTime value="20080806" />
+</section>
+</component>
+</section>
+</component>
+<component>
+<section ID="robinsonja1130788473512">
+<id root="1AD89EB3-1EE1-D6A3-9259-3C5AADB67BEF" />
+<code code="42232-9" codeSystem="2.16.840.1.113883.6.1" displayName="Precautions" />
+<title mediaType="text/x-hl7-title+xml"> PRECAUTIONS</title>
+<effectiveTime value="20080806" />
+<component>
+<section>
+<id root="D617EE30-E505-FDFD-0C13-3273405F0A8F" />
+<code code="34072-9" codeSystem="2.16.840.1.113883.6.1" displayName="GENERAL SECTION" />
+<title mediaType="text/x-hl7-title+xml"> General:</title>
+<text> <paragraph> Control of pain by neuraxial opiate delivery is always accompanied by  considerable risk to the patients and requires a high level of skill to  be successfully accomplished. The task of treating these patients must  be undertaken by experienced clinical teams, well-versed in patient  selection, evolving technology and emerging standards of care. For  safety reasons, it is recommended that administration of Astramorph/PF  by the epidural or intrathecal routes be limited to the lumbar area.  Intrathecal use has been associated with a higher incidence of  respiratory depression than epidural use. </paragraph> <paragraph> Seizures may result from high doses. Patients with known seizure  disorders should be carefully observed for evidence of morphine-induced  seizure activity. </paragraph> </text>
+<effectiveTime value="20080806" />
+</section>
+</component>
+<component>
+<section>
+<id root="15DF4B64-3B4D-3A3A-7214-F7ADF1FF2A19" />
+<code />
+<title mediaType="text/x-hl7-title+xml"> Use in Patients with Increased Intracranial Pressure or Head  Injury:</title>
+<text> <paragraph> Astramorph/PF should be used with extreme caution in patients with head  injury or increased intracranial pressure. Pupillary changes (miosis)  from morphine may obscure the existence, extent and course of  intracranial pathology. High doses of neuraxial morphine may produce  myoclonic events (see <linkHtml href="#robinsonja1130788196016"> WARNINGS</linkHtml>  and <linkHtml href="#robinsonja1130788222422"> ADVERSE REACTIONS</linkHtml> ). Clinicians should maintain a high index of suspicion for adverse  drug reactions when evaluating altered mental status or movement  abnormalities in patients receiving this modality of treatment.  </paragraph> </text>
+<effectiveTime value="20080806" />
+</section>
+</component>
+<component>
+<section>
+<id root="DEAE8566-CE41-7836-D1C5-883D6A5777E7" />
+<code />
+<title mediaType="text/x-hl7-title+xml"> Use in Chronic Pulmonary Disease:</title>
+<text> <paragraph> Care is urged in using this drug in patients who have a decreased  respiratory reserve (eg., emphysema, severe obesity, kyphoscoliosis or  paralysis of the phrenic nerve). Astramorph/PF should not be given in  cases of chronic asthma, upper airway obstruction or in any other  chronic pulmonary disorder without due consideration of the known risk  of acute respiratory failure following morphine administration in such  patients. </paragraph> </text>
+<effectiveTime value="20080806" />
+</section>
+</component>
+<component>
+<section>
+<id root="E6C5537D-1351-5F0C-8603-2937799EB136" />
+<code />
+<title mediaType="text/x-hl7-title+xml"> Use in Hepatic or Renal Disease:</title>
+<text> <paragraph> The elimination half-life of morphine may be prolonged in patients with  reduced metabolic rates and with hepatic and/or renal dysfunction.  Hence, care should be exercised in administering Astramorph/PF  epidurally to patients with these conditions, since high blood morphine  levels, due to reduced clearance, may take several days to develop.  </paragraph> </text>
+<effectiveTime value="20080806" />
+</section>
+</component>
+<component>
+<section>
+<id root="399713B8-3311-71C6-0E76-EB4F0851774B" />
+<code />
+<title mediaType="text/x-hl7-title+xml"> Use in Biliary Surgery or Disorders of the Biliary Tract:</title>
+<text> <paragraph> As significant morphine is released into the systemic circulation from  neuraxial administration, the ensuing smooth muscle hypertonicity may  result in biliary colic. </paragraph> </text>
+<effectiveTime value="20080806" />
+</section>
+</component>
+<component>
+<section>
+<id root="F4D8280F-2EAE-FA1B-BD1E-71C561734D08" />
+<code />
+<title mediaType="text/x-hl7-title+xml"> Use with Disorders of the Urinary System:</title>
+<text> <paragraph> Initiation of neuraxial opiate analgesia is frequently associated with  disturbances of micturition, especially in males with prostatic  enlargement. Early recognition of difficulty in urination and prompt  intervention in cases of urinary retention is indicated. </paragraph> </text>
+<effectiveTime value="20080806" />
+</section>
+</component>
+<component>
+<section>
+<id root="B283D4C0-386A-646C-5B0F-895E96E52F65" />
+<code />
+<title mediaType="text/x-hl7-title+xml"> Use in Ambulatory Patients:</title>
+<text> <paragraph> Patients with reduced circulating blood volume, impaired myocardial  function or on sympatholytic drugs should be monitored for the possible  occurrence of orthostatic hypotension, a frequent complication in  single-dose neuraxial morphine analgesia. </paragraph> </text>
+<effectiveTime value="20080806" />
+</section>
+</component>
+<component>
+<section>
+<id root="555CAB53-BC32-CB2A-5014-C97E7D2C2433" />
+<code />
+<title mediaType="text/x-hl7-title+xml"> Use with Other Central Nervous System Depressants:</title>
+<text> <paragraph> The depressant effects of morphine are potentiated by the presence of  other CNS depressants such as alcohol, sedatives, antihistaminics or  psychotropic drugs. Use of neuroleptics in conjunction with neuraxial  morphine may increase the risk of respiratory depression. </paragraph> </text>
+<effectiveTime value="20080806" />
+</section>
+</component>
+<component>
+<section>
+<id root="31AAFB07-5B14-BD6B-B58E-1AB266BF3C99" />
+<code code="34083-6" codeSystem="2.16.840.1.113883.6.1" displayName="CARCINOGENESIS, MUTAGENESIS,  IMPAIRMENT OF FERTILITY SECTION" />
+<title mediaType="text/x-hl7-title+xml"> Carcinogenesis, Mutagenesis, Impairment of Fertility:</title>
+<text> <paragraph> Morphine is without known carcinogenic or mutagenic effects and is not  known to impair fertility at non-narcotic doses in animals, but studies  of the carcinogenic and mutagenic potential or the effect on fertility  of Astramorph/PF have not been conducted.</paragraph> </text>
+<effectiveTime value="20080806" />
+</section>
+</component>
+<component>
+<section>
+<id root="2F168A6C-25C8-B8F9-708F-A3D0C42D182D" />
+<code code="42228-7" codeSystem="2.16.840.1.113883.6.1" displayName="Pregnancy:" />
+<title mediaType="text/x-hl7-title+xml"> Pregnancy:</title>
+<effectiveTime value="20080806" />
+<component>
+<section>
+<id root="DF7EF179-2A5A-C779-0BEA-518E34D52399" />
+<code code="34077-8" codeSystem="2.16.840.1.113883.6.1" displayName="TERATOGENIC EFFECTS SECTION" />
+<title mediaType="text/x-hl7-title+xml"> <content styleCode="italics">Teratogenic Effects&#8212;Pregnancy Category C:</content> </title>
+<text> <paragraph> Morphine sulfate is not teratogenic in rats at 35 mg/kg/day  (thirty-five times the usual human dose) but does result in increased  pup mortality and growth retardation at doses that narcotize the animal  (&gt;10 mg/kg/day, ten times the usual human dose). Astramorph/PF should  only be given to pregnant women when no other method of controlling  pain is available and means are at hand to manage the delivery and  perinatal care of the opiate-dependent infant.</paragraph> </text>
+<effectiveTime value="20080806" />
+</section>
+</component>
+<component>
+<section>
+<id root="1DD09E91-F0D2-3C14-1C40-2F4C1CF16E0F" />
+<code code="34078-6" codeSystem="2.16.840.1.113883.6.1" displayName="NONTERATOGENIC EFFECTS  SECTION" />
+<title mediaType="text/x-hl7-title+xml"> <content styleCode="italics">Nonteratogenic Effects:</content> <content styleCode="italics">:</content> </title>
+<text> <paragraph> Infants born to mothers who have been taking morphine chronically may  exhibit withdrawal symptoms.</paragraph> </text>
+<effectiveTime value="20080806" />
+</section>
+</component>
+</section>
+</component>
+<component>
+<section>
+<id root="73FBD836-0309-8FA9-8DB8-840313D1C6C7" />
+<code code="34079-4" codeSystem="2.16.840.1.113883.6.1" displayName="LABOR AND DELIVERY SECTION" />
+<title mediaType="text/x-hl7-title+xml"> Labor and Delivery:</title>
+<text> <paragraph> <content styleCode="italics">Intravenous</content>  morphine readily passes into the fetal circulation and may result in  respiratory depression in the neonate.  Naloxone and resuscitative  equipment should be available for reversal of narcotic-induced  respiratory depression in the neonate.  In addition, intravenous  morphine may reduce the strength, duration and frequency of uterine  contraction resulting in prolonged labor.</paragraph> <paragraph> <content styleCode="italics">Epidurally </content> and <content styleCode="italics">intrathecally</content>  administered morphine readily passes into the fetal circulation and  may result in respiratory depression of the neonate.  Controlled  clinical studies have shown that <content styleCode="italics">epidural </content> administration has little or no effect on the relief of labor  pain.</paragraph> </text>
+<effectiveTime value="20080806" />
+</section>
+</component>
+<component>
+<section>
+<id root="664D647F-D060-9293-557B-B3E867757507" />
+<code code="34080-2" codeSystem="2.16.840.1.113883.6.1" displayName="NURSING MOTHERS SECTION" />
+<title mediaType="text/x-hl7-title+xml"> Nursing Mothers:</title>
+<text> <paragraph> Morphine is excreted in maternal milk.  Effect on the nursing infant is  not known.</paragraph> </text>
+<effectiveTime value="20080806" />
+</section>
+</component>
+<component>
+<section>
+<id root="4D3B878F-3B05-CCE4-5131-0429C847F4E9" />
+<code code="34081-0" codeSystem="2.16.840.1.113883.6.1" displayName="PEDIATRIC USE SECTION" />
+<title mediaType="text/x-hl7-title+xml"> Pediatric Use:</title>
+<text> <paragraph> Adequate studies, to establish the safety and effectiveness of spinal  morphine in pediatric patients, have not been performed, and usage in  this population is not recommended. </paragraph> </text>
+<effectiveTime value="20080806" />
+</section>
+</component>
+<component>
+<section>
+<id root="801DFAC7-98DB-6DD1-E57F-CA0B06E1A867" />
+<code code="34082-8" codeSystem="2.16.840.1.113883.6.1" displayName="GERIATRIC USE SECTION" />
+<title mediaType="text/x-hl7-title+xml"> Geriatric Use:</title>
+<text> <paragraph> The pharmacodynamic effects of neuraxial morphine in the elderly are  more variable than in the younger population. Patients will vary widely  in the effective initial dose, rate of development of tolerance and the  frequency and magnitude of associated adverse effects as the dose is  increased. Initial doses should be based on careful clinical  observation following "test doses", after making due allowances for the  effects of the patient's age and infirmity on his/her ability to clear  the drug, particularly in patients receiving epidural morphine.  </paragraph> <paragraph> Elderly patients may be more susceptible to respiratory depression  and/or respiratory arrest following administration of  morphine.</paragraph> </text>
+<effectiveTime value="20080806" />
+</section>
+</component>
+</section>
+</component>
+<component>
+<section ID="robinsonja1130788222422">
+<id root="C1C36069-8C42-AF96-DF25-911FEC689FC5" />
+<code code="34084-4" codeSystem="2.16.840.1.113883.6.1" displayName="ADVERSE REACTIONS SECTION" />
+<title mediaType="text/x-hl7-title+xml"> ADVERSE REACTIONS:</title>
+<text> <paragraph> The most serious adverse experience encountered during administration  of Astramorph/PF is respiratory depression and/or respiratory arrest.  This depression and/or respiratory arrest may be severe and could  require intervention. (See <linkHtml href="#robinsonja1130788196016"> WARNINGS</linkHtml>  and <linkHtml href="#robinsonja1130788274280"> OVERDOSAGE</linkHtml> ) Because of delay in maximum CNS effect with intravenously  administered drug (30 min), rapid administration may result in  overdosing. Single-dose neuraxial administration may result in acute or  delayed respiratory depression for periods at least as long as 24  hours. </paragraph> </text>
+<effectiveTime value="20080806" />
+<component>
+<section>
+<id root="7AB7E911-F9B6-C466-09AD-8C9876ABD622" />
+<code />
+<title mediaType="text/x-hl7-title+xml"> Tolerance and Myoclonus:</title>
+<text> <paragraph> See<content styleCode="bold"><linkHtml href="#robinsonja1130788196016">  WARNINGS </linkHtml></content> for discussion of these and related hazards. </paragraph> <paragraph> While low doses of intravenously administered morphine have little  effect on cardiovascular stability, high doses are excitatory,  resulting from <content styleCode="bold">sympathetic hyperactivity</content>  and increase in circulating catecholamines. Excitation of the central  nervous system, resulting in <content styleCode="bold">convulsions</content> , may accompany high doses of morphine given intravenously. <content styleCode="bold">Dysphoric reactions</content>  may occur after any size dose and <content styleCode="bold">toxic psychoses</content>  have been reported. </paragraph> </text>
+<effectiveTime value="20080806" />
+</section>
+</component>
+<component>
+<section>
+<id root="F47C7B8F-869D-AD66-28E2-0E5516D98D55" />
+<code />
+<title mediaType="text/x-hl7-title+xml"> Pruritus:</title>
+<text> <paragraph> Single-dose epidural or intrathecal administration is accompanied by a  high incidence of <content styleCode="bold">pruritus</content>  that is dose-related but not confined to the site of administration.  Pruritus, following continuous infusion of epidural or intrathecal  morphine, is occasionally reported in the literature; these reactions  are poorly understood as to their cause. </paragraph> </text>
+<effectiveTime value="20080806" />
+</section>
+</component>
+<component>
+<section>
+<id root="A5AA1D21-BD44-AC90-6ED3-07ADBE54DEC0" />
+<code />
+<title mediaType="text/x-hl7-title+xml"> Urinary Retention:</title>
+<text> <paragraph> Urinary retention, which may persist 10 to 20 hours following single  epidural or intrathecal administration, is a frequent side effect and  must be anticipated primarily in male patients, with a somewhat lower  incidence in females. Also frequently reported in the literature is the  occurrence of urinary retention during the first several days of  hospitalization for the initiation of continuous intrathecal or  epidural morphine therapy. Patients who develop urinary retention have  responded to cholinomimetic treatment and/or judicious use of catheters  (see <linkHtml href="#robinsonja1130788473512"> PRECAUTIONS</linkHtml> ). </paragraph> </text>
+<effectiveTime value="20080806" />
+</section>
+</component>
+<component>
+<section>
+<id root="0A72C847-14D3-B624-1059-FFA780FCF5A4" />
+<code />
+<title mediaType="text/x-hl7-title+xml"> Constipation:</title>
+<text> <paragraph> Constipation is frequently encountered during continuous infusion of  morphine; this can usually be managed by conventional therapy.  </paragraph> </text>
+<effectiveTime value="20080806" />
+</section>
+</component>
+<component>
+<section>
+<id root="07C76A80-2BBE-5F53-642F-D76EF10112B1" />
+<code />
+<title mediaType="text/x-hl7-title+xml"> Headache:</title>
+<text> <paragraph> Lumbar puncture-type headache is encountered in a significant minority  of cases for several days following intrathecal catheter implantation;  this, generally, responds to bed rest and/or other conventional  therapy.<content styleCode="bold" /> </paragraph> </text>
+<effectiveTime value="20080806" />
+</section>
+</component>
+<component>
+<section>
+<id root="8B2D83C3-DF0F-32B3-5F6F-BBCDDEC54480" />
+<code />
+<title mediaType="text/x-hl7-title+xml"> Other:</title>
+<text> <paragraph> Other adverse experiences reported following morphine therapy include--  <content styleCode="bold">Dizziness, euphoria, anxiety, hypotension, confusion, reduced male potency, decreased libido in men and women, and menstrual irregularities including amenorrhea, depression of cough reflex, interference  with thermal regulation and oliguria</content> . Evidence of histamine release such as <content styleCode="bold">urticaria</content> , <content styleCode="bold">wheals</content>  and/or <content styleCode="bold">local tissue irritation</content>  may occur. <content styleCode="bold">Nausea</content>  and <content styleCode="bold">vomiting</content> are frequently seen in patients following morphine  administration. </paragraph> <paragraph> Pruritus, nausea/vomiting and urinary retention, if associated with  continuous infusion therapy, may respond to intravenous administration  of a low dose of naloxone (0.2 mg). The risks of using narcotic  antagonists in patients chronically receiving narcotic therapy should  be considered.</paragraph> <paragraph> In general, side effects are amenable to reversal by narcotic  antagonists. </paragraph> <paragraph> <content styleCode="bold">NALOXONE INJECTION AND RESUSCITATIVE EQUIPMENT SHOULD BE IMMEDIATELY  AVAILABLE FOR ADMINISTRATION IN CASE OF LIFE-THREATENING OR INTOLERABLE  SIDE EFFECTS AND WHENEVER ASTRAMORPH/PF THERAPY IS BEING  INITIATED.</content> </paragraph> </text>
+<effectiveTime value="20080806" />
+</section>
+</component>
+</section>
+</component>
+<component>
+<section ID="robinsonja1130788114267">
+<id root="A8480B39-DA69-E339-883F-68B2F8375BB0" />
+<code code="42227-9" codeSystem="2.16.840.1.113883.6.1" displayName="Drug Abuse and Dependence" />
+<title mediaType="text/x-hl7-title+xml"> DRUG ABUSE AND DEPENDENCE</title>
+<effectiveTime value="20080806" />
+<component>
+<section>
+<id root="BD2D6D25-D0E9-884D-E861-CA13CDE3B6EC" />
+<code code="34085-1" codeSystem="2.16.840.1.113883.6.1" displayName="CONTROLLED SUBSTANCE SECTION" />
+<title mediaType="text/x-hl7-title+xml"> Controlled Substance:</title>
+<text> <paragraph> Morphine sulfate is a Schedule II narcotic under the United States  Controlled Substance Act (21 U.S.C. 801-886).</paragraph> <paragraph> Morphine is the most commonly cited prototype for narcotic substances  that possess an addiction-forming or addiction-sustaining liability. A  patient may be at risk for developing a dependence to morphine if used  improperly or for overly long periods of time. As with all potent  opioids which are &#181;-agonists, tolerance as well as psychological  and physical dependence to morphine may develop irrespective of the  route of administration (intravenous, intramuscular, intrathecal,  epidural or oral). Individuals with a prior history of opioid or other  substance abuse or dependence, being more apt to respond to the  euphorigenic and reinforcing properties of morphine, would be  considered to be at greater risk. </paragraph> <paragraph> Care must be taken to avert withdrawal in patients who have been  maintained on parenteral/oral narcotics when epidural or intrathecal  administration is considered. Withdrawal symptoms may occur when  morphine is discontinued abruptly or upon administration of a narcotic  antagonist.</paragraph> </text>
+<effectiveTime value="20080806" />
+</section>
+</component>
+</section>
+</component>
+<component>
+<section ID="robinsonja1130788274280">
+<id root="0137B514-3793-3046-77BF-53F838E17475" />
+<code code="34088-5" codeSystem="2.16.840.1.113883.6.1" displayName="OVERDOSAGE SECTION" />
+<title mediaType="text/x-hl7-title+xml"> OVERDOSAGE:</title>
+<text> <paragraph> <content styleCode="bold">PARENTERAL ADMINISTRATION OF NARCOTICS IN PATIENTS RECEIVING EPIDURAL  OR INTRATHECAL MORPHINE MAY RESULT IN OVERDOSAGE. </content> </paragraph> <paragraph> Overdosage of morphine is characterized by respiratory depression, with  or without concomitant CNS depression. In severe overdosage, apnea,  circulatory collapse, cardiac arrest and death may occur. Since  respiratory arrest may result either through direct depression of the  respiratory center or as the result of hypoxia, primary attention  should be given to the establishment of adequate respiratory exchange  through provision of a patent airway and institution of assisted, or  controlled, ventilation. The narcotic antagonist, naloxone, is a  specific antidote. An initial dose of 0.4 to 2 mg of naloxone should be  administered intravenously, simultaneously with respiratory  resuscitation. If the desired degree of counteraction and improvement  in respiratory function is not obtained, naloxone may be repeated at 2-  to 3-minute intervals. If no response is observed after 10 mg of  naloxone has been administered, the diagnosis of narcotic-induced, or  partial narcotic-induced, toxicity should be questioned. Intramuscular  or subcutaneous administration may be used if the intravenous route is  not available. </paragraph> <paragraph> As the duration of effect of naloxone is considerably shorter than that  of epidural or intrathecal morphine, repeated administration may be  necessary. Patients should be closely observed for evidence of  renarcotization.</paragraph> </text>
+<effectiveTime value="20080806" />
+</section>
+</component>
+<component>
+<section>
+<id root="EA9015B9-523D-61E3-5833-87C9C4DBBF4C" />
+<code code="34068-7" codeSystem="2.16.840.1.113883.6.1" displayName="DOSAGE AND ADMINISTRATION  SECTION" />
+<title mediaType="text/x-hl7-title+xml"> DOSAGE AND ADMINISTRATION:</title>
+<text> <paragraph> Astramorph/PF  is intended for intravenous, epidural or intrathecal  administration.</paragraph> </text>
+<effectiveTime value="20080806" />
+<component>
+<section>
+<id root="59117B44-D64B-368F-22A8-E5F834B9317F" />
+<code />
+<title mediaType="text/x-hl7-title+xml"> Intravenous Administration:</title>
+<effectiveTime value="20080806" />
+<component>
+<section>
+<id root="EB7E1429-B40F-26D0-C424-4F92163538A6" />
+<code />
+<title mediaType="text/x-hl7-title+xml" />
+<text> <paragraph> <content styleCode="italics">Dosage:</content> </paragraph> <paragraph> The initial dose of morphine sulfate should be 2 mg to 10 mg/70 kg of  body weight.  No information is available regarding the use of  Astramorph/PF in patients under the age of 18.</paragraph> </text>
+<effectiveTime value="20080806" />
+<component>
+<section>
+<id root="2B0F2C1F-8061-9556-9D1F-CA6954B3040A" />
+<code />
+<title mediaType="text/x-hl7-title+xml"> Geriatric Use:</title>
+<text> <paragraph> Administer with extreme caution (See <linkHtml href="#robinsonja1130788473512"> PRECAUTIONS</linkHtml> .)</paragraph> </text>
+<effectiveTime value="20080806" />
+</section>
+</component>
+</section>
+</component>
+</section>
+</component>
+<component>
+<section>
+<id root="2895974A-7BFA-7A5A-8292-3E53670643CC" />
+<code />
+<title mediaType="text/x-hl7-title+xml"> Epidural Administration:</title>
+<text> <paragraph> ASTRAMORPH/PF SHOULD BE ADMINISTERED EPIDURALLY BY OR UNDER THE  DIRECTION OF A PHYSICIAN EXPERIENCED IN THE TECHNIQUE OF EPIDURAL  ADMINISTRATION AND WHO IS THOROUGHLY FAMILIAR WITH THE LABELING. IT  SHOULD BE ADMINISTERED ONLY IN SETTINGS WHERE ADEQUATE PATIENT  MONITORING IS POSSIBLE. RESUSCITATIVE EQUIPMENT AND A SPECIFIC  ANTAGONIST (NALOXONE INJECTION) SHOULD BE IMMEDIATELY AVAILABLE FOR THE  MANAGEMENT OF RESPIRATORY DEPRESSION AS WELL AS COMPLICATIONS WHICH  MIGHT RESULT FROM INADVERTENT INTRATHECAL OR INTRAVASCULAR INJECTION.  (NOTE: INTRATHECAL DOSAGE IS USUALLY 1/10 THAT OF EPIDURAL DOSAGE.)  <content styleCode="bold">PATIENT MONITORING SHOULD BE CONTINUED FOR AT LEAST 24 HOURS AFTER EACH  DOSE, SINCE DELAYED RESPIRATORY DEPRESSION MAY OCCUR.</content> </paragraph> <paragraph> Proper placement of a needle or catheter in the epidural space should  be verified before Astramorph/PF is injected.  Acceptable techniques  for verifying proper placement include:  a) aspiration to check for  absence of blood or cerebrospinal fluid, or b) administration of 5 mL  (3 mL in obstetric patients) of 1.5% PRESERVATIVE-FREE Lidocaine and  Epinephrine (1:200,000) Injection and then observe the patient for lack  of tachycardia (this indicates that vascular injection has <content styleCode="italics">not</content>  been made) and lack of sudden onset of segmental anesthesia (this  indicates that intrathecal injection has not<content styleCode="italics" />   been made).</paragraph> </text>
+<effectiveTime value="20080806" />
+<component>
+<section>
+<id root="D4D316D1-87AF-B350-CDB4-00A47DAE7E5A" />
+<code />
+<title mediaType="text/x-hl7-title+xml"> Epidural Adult Dosage:</title>
+<text> <paragraph> Initial injection of 5 mg in the lumbar region may provide satisfactory  pain relief for up to 24 hours.  If adequate pain relief is not  achieved within one hour, careful administration of incremental doses  of 1 to 2 mg at intervals sufficient to assess effectiveness may be  given.  No more than 10 mg/24 hr should be administered.  </paragraph> <paragraph> Thoracic administration has been shown to dramatically increase the  incidence of early and late respiratory depression even at doses of 1  to 2 mg.</paragraph> <paragraph> For continuous infusion an initial dose of 2 to 4 mg/24 hours is  recommended.  Further doses of 1 to 2 mg may be given if pain relief is  not achieved initially.</paragraph> </text>
+<effectiveTime value="20080806" />
+<component>
+<section>
+<id root="967E3A44-C233-95D9-0E19-DC13BAEEF3D0" />
+<code />
+<title mediaType="text/x-hl7-title+xml"> Geriatric Use:</title>
+<text> <paragraph> Administer with extreme caution. (See <linkHtml href="#robinsonja1130788473512"> PRECAUTIONS</linkHtml> .)  </paragraph> </text>
+<effectiveTime value="20080806" />
+</section>
+</component>
+</section>
+</component>
+<component>
+<section>
+<id root="9E50ECE7-052F-D70B-FAAB-54437A5CAF3D" />
+<code />
+<title mediaType="text/x-hl7-title+xml"> Epidural Pediatric Use:</title>
+<text> <paragraph> No information on use in pediatric patients is available. (See  <linkHtml href="#robinsonja1130788473512"> PRECAUTIONS</linkHtml> .)</paragraph> </text>
+<effectiveTime value="20080806" />
+</section>
+</component>
+</section>
+</component>
+<component>
+<section>
+<id root="07B45BB0-89C8-8B34-250F-FB7CC60E25BA" />
+<code />
+<title mediaType="text/x-hl7-title+xml"> Intrathecal Administration:</title>
+<text> <paragraph> <content styleCode="bold">NOTE:  INTRATHECAL DOSAGE IS USUALLY 1/10 THAT OF EPIDURAL  DOSAGE</content> .</paragraph> <paragraph> ASTRAMORPH/PF SHOULD BE ADMINISTERED INTRATHECALLY BY  OR UNDER THE  DIRECTION OF A PHYSICIAN EXPERIENCED IN THE TECHNIQUE OF INTRATHECAL  ADMINISTRATION AND WHO IS THOROUGHLY FAMILIAR WITH THE LABELING.  IT  SHOULD BE ADMINISTERED ONLY IN SETTINGS WHERE ADEQUATE PATIENT  MONITORING IS POSSIBLE.  RESUSCITATIVE EQUIPMENT AND A SPECIFIC  ANTAGONIST (NALOXONE INJECTION) SHOULD BE IMMEDIATELY AVAILABLE FOR THE  MANAGEMENT OF RESPIRATORY DEPRESSION AS WELL AS COMPLICATIONS WHICH  MIGHT RESULT FROM INADVERTENT INTRAVASCULAR INJECTION.  <content styleCode="bold">PATIENT MONITORING SHOULD BE CONTINUED FOR AT LEAST 24 HOURS AFTER EACH  DOSE, SINCE DELAYED RESPIRATORY DEPRESSION MAY OCCUR.</content>   RESPIRATORY DEPRESSION (BOTH EARLY AND LATE ONSET) HAS OCCURRED MORE  FREQUENTLY FOLLOWING INTRATHECAL ADMINISTRATION THAN EPIDURAL  ADMINISTRATION.</paragraph> </text>
+<effectiveTime value="20080806" />
+<component>
+<section>
+<id root="8C12539D-788D-0461-895C-54E8584244FA" />
+<code />
+<title mediaType="text/x-hl7-title+xml"> <content styleCode="italics">Intrathecal Adult Dosage:</content> </title>
+<text> <paragraph> A single injection of 0.2 to 1 mg may provide satisfactory pain relief  for up to 24 hours.  (CAUTION:  THIS IS ONLY 0.4 TO 2 ML OF THE  5  MG/10ML AMPULE/VIAL OR 0.2 TO 1 ML OF THE 10 MG/10 ML AMPULE/VIAL OF  ASTRAMORPH/PF.)  DO NOT INJECT INTRATHECALLY MORE THAN 2 ML OF THE  5  MG/10 ML AMPULE/VIAL OR 1 ML OF THE 10 MG/10ML AMPULE/VIAL.  USE IN THE  LUMBAR AREA ONLY IS RECOMMENDED.  Repeated intrathecal injections of  Astramorph/PF are not recommended.  A constant intravenous infusion of  naloxone, 0.6 mg/hr, for 24 hours after intrathecal injection may be  used to reduce the incidence of potential side effects.</paragraph> </text>
+<effectiveTime value="20080806" />
+<component>
+<section>
+<id root="0846B92B-E324-CFC8-17B0-B36C25DBAD71" />
+<code />
+<title mediaType="text/x-hl7-title+xml"> Geriatric Use:</title>
+<text> <paragraph> Administer with extreme caution. (See <linkHtml href="#robinsonja1130788473512"> PRECAUTIONS</linkHtml> .)  </paragraph> </text>
+<effectiveTime value="20080806" />
+</section>
+</component>
+</section>
+</component>
+<component>
+<section>
+<id root="F47AC62C-ABAB-8F1F-E5B8-DFAC1CDA20C7" />
+<code />
+<title mediaType="text/x-hl7-title+xml"> <content styleCode="italics">Repeat Dosage</content> <content styleCode="italics">:</content> </title>
+<text> <paragraph> If pain recurs, alternative routes of administration should be  considered, since experience with repeated doses of morphine by the  intrathecal route is limited.</paragraph> </text>
+<effectiveTime value="20080806" />
+<component>
+<section>
+<id root="E787D724-C653-D99F-E245-B1B61BB08E96" />
+<code />
+<title mediaType="text/x-hl7-title+xml"> Intrathecal Pediatric Use:</title>
+<text> <paragraph> No information on use in pediatric patients is available. (See  <linkHtml href="#robinsonja1130788473512"> PRECAUTIONS</linkHtml> .)</paragraph> </text>
+<effectiveTime value="20080806" />
+</section>
+</component>
+</section>
+</component>
+</section>
+</component>
+</section>
+</component>
+<component>
+<section>
+<id root="21D6E852-412E-4B59-75A4-6BBFA1CBA334" />
+<title mediaType="text/x-hl7-title+xml"> SAFETY AND HANDLING INSTRUCTIONS</title>
+<text> <paragraph> Astramorph/PF is supplied in sealed ampules and vials. Accidental  dermal exposure should be treated by the removal of any contaminated  clothing and rinsing the affected area with water. </paragraph> <paragraph> Each ampule/vial of Astramorph/PF contains a potent narcotic which has  been associated with abuse and dependence among health care  providers.<content styleCode="bold"> Due to the limited indications for this product, the risk of  overdosage and the risk of its diversion and abuse, it is recommended  that special measures be taken to control this product within the  hospital or clinic. </content> <content styleCode="bold italics">Astramorph/PF should be subject to rigid accounting, rigorous control  of wastage and restricted access. </content> </paragraph> <paragraph> <content styleCode="bold">Parenteral drug products should be inspected for particulate matter and  discoloration prior to administration, whenever solution and container  permit. DO NOT USE IF COLOR IS DARKER THAN PALE YELLOW, IF IT IS  DISCOLORED IN ANY OTHER WAY OR IF IT CONTAINS A PRECIPITATE.</content> </paragraph> </text>
+<effectiveTime value="20080806" />
+</section>
+</component>
+<component>
+<section>
+<id root="50BD8F55-F1AA-51A8-1164-7FD11BF6CF95" />
+<code code="34069-5" codeSystem="2.16.840.1.113883.6.1" displayName="HOW SUPPLIED SECTION" />
+<title mediaType="text/x-hl7-title+xml"> HOW SUPPLIED</title>
+<text> <paragraph> Preservative-Free ASTRAMORPH/PF&#8482; (Morphine Sulfate Injection,  USP) is available in ampules and single dose vials for intravenous,  epidural, or intrathecal administration:</paragraph> <paragraph> <content styleCode="bold">0.5 mg/mL</content> </paragraph> <paragraph> NDC 0186-1159-032 mL (1 mg) Ampule,</paragraph> <paragraph> Boxes of 10</paragraph> <paragraph> NDC 0186-1150-0210 mL (5 mg) Ampule, </paragraph> <paragraph> Boxes of 5</paragraph> <paragraph> NDC 0186-1152-1210 mL (5 mg) Single Dose Vial, Boxes of 5 E-Z OFF vial  closures</paragraph> <paragraph> <content styleCode="bold">1 mg/mL</content> </paragraph> <paragraph> NDC 0186-1160-032 mL (2 mg) Ampule,</paragraph> <paragraph> Boxes of 10</paragraph> <paragraph> NDC 0186-1151-0210 mL (10 mg) Ampule, Boxes of 5</paragraph> <paragraph> NDC 0186-1153-1210 mL (10 mg) Single Dose Vial, Boxes of 5 E-Z OFF  vial closures</paragraph> </text>
+<effectiveTime value="20080806" />
+<component>
+<section>
+<id root="2F740DAD-E4AF-E7BB-FD39-EBA76E72098E" />
+<code />
+<title mediaType="text/x-hl7-title+xml"> Storage:</title>
+<text> <paragraph><content styleCode="bold">PROTECT FROM LIGHT. Store in carton at 20&#176;-25&#176;C  (68&#176;-77&#176;F), excursions permitted to 15&#176;-30&#176;C  (59&#176;-86&#176;F) [see USP Controlled Room Temperature] until ready  to use. DO NOT FREEZE.</content>    Astramorph/PF contains no preservative or antioxidant.  DISCARD ANY  UNUSED PORTION.  DO NOT HEAT-STERILIZE.  </paragraph> <paragraph> All trademarks are the property of the AstraZeneca group</paragraph> <paragraph> &#169; AstraZeneca 2002, 2005</paragraph> <paragraph> AstraZeneca LP, Wilmington, DE 19850 </paragraph><paragraph /><paragraph>30583&#8211;00 </paragraph><paragraph>Rev. 08/05</paragraph> </text>
+<effectiveTime value="20080806" />
+</section>
+</component>
+</section>
+</component>
+</structuredBody>
+</component>
+</document>
